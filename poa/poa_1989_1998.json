@@ -1,0 +1,3682 @@
+[
+  {
+    "id": "poa_1994_q1",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Accounting Concepts (Accounting Period)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The term 'accounting period' is used to refer to the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "time span during which taxes are paid to the Inland Revenue Board",
+      "Budget period, usually one year, relied on by the accountant",
+      "time span, usually one year covered by financial statement",
+      "period within which debtors are expected to settle accounts."
+    ],
+    "correctIndex": 2,
+    "explanation": "The accounting period (or financial period) is the length of time, usually twelve months, covered by a set of financial statements such as the profit and loss account and the balance sheet. It is not the tax-payment period, a budget period, or the credit period granted to debtors. Option C is therefore correct.",
+    "proTip": "Accounting period = the time span a set of financial statements covers (usually one year). Eliminate options that mention taxes, budgets or debtors' credit terms."
+  },
+  {
+    "id": "poa_1994_q2",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Accounting Concepts (Matching / Accrual)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Assigning revenues to the accounting period in which goods were sold or services rendered and expenses incurred is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "passing of entries",
+      "consistency convention",
+      "matching concept",
+      "adjusting for revenue."
+    ],
+    "correctIndex": 2,
+    "explanation": "The matching concept (accrual basis) requires revenue to be recognised in the period it is earned and the expenses incurred in earning it to be charged against that same revenue, regardless of when cash changes hands. Consistency concerns applying the same methods from year to year, and 'passing of entries' just means journalising. Option C is correct.",
+    "proTip": "Revenue and the expenses that earned it go into the same period = MATCHING. Same methods year after year = CONSISTENCY."
+  },
+  {
+    "id": "poa_1994_q3",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Accounting Conventions (Conservatism)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The accounting convention which states that 'profit must not be recognized until realized while all losses should be adequately provided for' is termed",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "materiality",
+      "objectivity",
+      "consistency",
+      "conservatism."
+    ],
+    "correctIndex": 3,
+    "explanation": "Conservatism (prudence) says anticipate no profit but provide for all possible losses. This is why stock is valued at the lower of cost and net realisable value and why provisions for bad debts are made. Option D is correct.",
+    "proTip": "'Do not anticipate profit, provide for all losses' is the signature phrase of CONSERVATISM (PRUDENCE)."
+  },
+  {
+    "id": "poa_1994_q4",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Users of Accounting Information",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Accounting information is used by investors and creditors of a company to predict",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "future cash flows of the company",
+      "future tax payments of the company",
+      "potential merger candidates for the company",
+      "appropriate remuneration for the company's staff."
+    ],
+    "correctIndex": 0,
+    "explanation": "Investors and creditors want to judge whether the company will generate enough cash to pay dividends, interest and debts. They therefore use accounting information to predict future cash flows. Tax payments, merger targets and staff pay concern the tax authority, the company's management and employees respectively.",
+    "proTip": "Match the user to the need: investors and creditors = future cash flows, profitability and ability to pay."
+  },
+  {
+    "id": "poa_1994_q5",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Ledger Accounts (Purchase of Asset)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Antics Electronics Company recently bought six generators. Which of the following is the correct method of recording this transaction.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Debit generator account and credit cash account.",
+      "Debit purchases account and credit cash account.",
+      "Debit cash account and credit purchases account.",
+      "Debit cash account and credit generator account."
+    ],
+    "correctIndex": 0,
+    "explanation": "Generators acquired for use in the business are fixed assets. The asset account (generators) receives the benefit and is debited, while cash, which is given out, is credited. The 'purchases' account is reserved for goods bought for resale, and options C and D reverse the entry by debiting cash. Option A is correct.",
+    "proTip": "Assets bought for use, not resale, are debited to the asset account (never to purchases). Cash paid out is always credited."
+  },
+  {
+    "id": "poa_1994_q6",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Capital Expenditure (Cost of Fixed Assets)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "When a business incurs labours cost in installing a fixed asset, the cost is treated as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "additional cost to the asset",
+      "business wages and salaries",
+      "installation cost of the asset",
+      "business cost of the asset."
+    ],
+    "correctIndex": 0,
+    "explanation": "Expenditure needed to bring a fixed asset to its working condition and location (carriage, installation labour, legal fees) is capital expenditure and is added to the cost of the asset, not charged to wages in the profit and loss account. Treating it as wages (option B) would understate profit and understate the asset. Option A is selected. Note that option C is similar in meaning, so the answer key should be confirmed against another archive.",
+    "proTip": "Cost to acquire AND install a fixed asset is capitalised: add it to the asset's cost, never to wages or expenses."
+  },
+  {
+    "id": "poa_1994_q7",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Double Entry Rule",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "What is the cardinal rule of the double entry system?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Debit the increasing account and credit the decreasing account.",
+      "Debit the receiving account and credit the giving account.",
+      "Debit the asset account and credit the liability account.",
+      "Debit the revenue account and credit the expenditure account."
+    ],
+    "correctIndex": 1,
+    "explanation": "Every transaction has two aspects: one account receives value (debit) and another gives value (credit). Options A, C and D are not general rules, since an increase may be a debit or a credit depending on the account type. Option B is correct.",
+    "proTip": "Debit the receiver, credit the giver. This is the classic JAMB wording of the cardinal rule."
+  },
+  {
+    "id": "poa_1994_q8",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Correction of Errors (Error of Principle)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Malam Gambo bought a freezer for his shop costing N 10,500. In recording, he debited office expenses account and credited the bank account. What book keeping error has he committed?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Error of commission",
+      "Error of reversal of entries.",
+      "Error of principle.",
+      "Compensation error."
+    ],
+    "correctIndex": 2,
+    "explanation": "A freezer is a fixed asset (capital expenditure) and should have been debited to a freezer/equipment account. Debiting an expense account (revenue expenditure) is a wrong class of account, which is an error of principle. It is not commission (right class, wrong account), not reversal (debit and credit swapped), and not compensating (two errors cancelling).",
+    "proTip": "Asset debited to an expense account (or vice versa) = ERROR OF PRINCIPLE. Wrong account of the same class = COMMISSION."
+  },
+  {
+    "id": "poa_1994_q9",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Ledger Accounts (Folio)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The use of the folio in the ledger is for",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Referencing purposes",
+      "Particulars of the transaction",
+      "the account titles",
+      "Only credit items."
+    ],
+    "correctIndex": 0,
+    "explanation": "The folio column holds the page or reference number of the corresponding entry in the book of original entry or in the other ledger account. It allows cross-referencing and tracing of entries. It does not hold particulars, account titles, or only credit items.",
+    "proTip": "FOLIO = FOLLOW-UP reference. It tells you where the other half of the entry is."
+  },
+  {
+    "id": "poa_1994_q10",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Ledger Accounts (Balancing an Account)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Account of Tanko Nig Ltd.\nDr: 1/10 Bal. b/f N5,000; Sales N10,000\nCr: 2/10 Cash N3,000; 15/10 Bank N6,500\nWhat is the closing balance of the account shown above?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N5,000",
+      "N6,500",
+      "N5,500",
+      "N15,000."
+    ],
+    "correctIndex": 2,
+    "explanation": "Closing balance = total of the larger side minus total of the smaller side. Debit side = 5,000 + 10,000 = N15,000. Credit side = 3,000 + 6,500 = N9,500. Balance = 15,000 - 9,500 = N5,500, a debit balance carried down (a debtor). Option C is correct.",
+    "proTip": "Total both sides first, then subtract. The balance sits on the side with the larger total."
+  },
+  {
+    "id": "poa_1994_q11",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Suspense Account",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The suspense account is used to correct book keeping errors where the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "amount involved is quite significant",
+      "item involved is not material",
+      "item involved is unknown",
+      "error does not affect the agreement of the trial balance."
+    ],
+    "correctIndex": 2,
+    "explanation": "A suspense account is a temporary account opened to hold a difference when the trial balance does not agree, typically where the account affected is unknown or an entry is one-sided. Options A and B concern materiality, and option D describes errors that do not need a suspense account. Option C is correct.",
+    "proTip": "Suspense = trial balance does NOT agree. Errors that do not affect the trial balance (commission, principle, compensating) never need a suspense account."
+  },
+  {
+    "id": "poa_1994_q12",
+    "subject": "Principles of Accounts",
+    "topic": "Cash Book",
+    "subTopic": "Three Column Cash Book (Discount Columns)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The discount column of a three column cashbook is not balanced off but periodically transferred to the discount accounts because discounts.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "are not important in cash book",
+      "are cash items only",
+      "do not form part of double entry",
+      "are used for bank reconciliation."
+    ],
+    "correctIndex": 2,
+    "explanation": "The discount columns are memorandum columns: they are only totalled, not balanced, and the totals are posted to the discount allowed (debit) and discount received (credit) accounts to complete the double entry. Within the cash book itself the discount figures do not form part of the double entry. They are not cash items and have nothing to do with bank reconciliation. Option C is the best answer, though its wording is loose, so confirm the key against another archive.",
+    "proTip": "Discount columns are memoranda: total them, never balance them, then post the totals to the discount accounts."
+  },
+  {
+    "id": "poa_1994_q13",
+    "subject": "Principles of Accounts",
+    "topic": "Cash Book",
+    "subTopic": "Petty Cash Book (Imprest System)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "When is a petty cash account debited?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "When the fund is established and every time money is spent",
+      "when the fund is established and every time it is replenished",
+      "when the fund is established and when the size of the float is decreased",
+      "Every time money is drawn from the petty cash."
+    ],
+    "correctIndex": 1,
+    "explanation": "Under the imprest system the petty cash account is debited when the float is first established and again whenever it is replenished (topped up), with cash or bank credited. Spending from the float is recorded in the petty cash book analysis columns, not by debiting the petty cash account each time.",
+    "proTip": "Petty cash account: debited at the start and at every top-up. Day-to-day spending is analysed in the petty cash book."
+  },
+  {
+    "id": "poa_1994_q14",
+    "subject": "Principles of Accounts",
+    "topic": "Bank Transactions and Reconciliation Statements",
+    "subTopic": "Bank Reconciliation (Unpresented Cheques)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "When preparing a bank reconciliation statement, which of the following is deducted from the balance per bank statement?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Bank charges.",
+      "Uncleared cheques",
+      "returned cheques",
+      "Unpresented cheques."
+    ],
+    "correctIndex": 3,
+    "explanation": "Unpresented cheques are cheques issued by the business and recorded in its cash book but not yet paid by the bank, so the bank statement balance is overstated. They are deducted from the balance per bank statement. Bank charges and returned (dishonoured) cheques adjust the cash book balance, not the bank statement balance. Option D is correct. Option B 'uncleared cheques' is another name for the same item, so the source key should be confirmed.",
+    "proTip": "Starting from the bank statement: deduct unpresented cheques, add uncredited lodgements. Bank charges and dishonoured cheques fix the cash book."
+  },
+  {
+    "id": "poa_1994_q15",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Balance Sheet",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The financial position of an organization at a particular time can be ascertained from the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "statement of sources and application of funds",
+      "statement of retained earnings",
+      "balance sheet",
+      "profit and loss account."
+    ],
+    "correctIndex": 2,
+    "explanation": "The balance sheet lists assets, liabilities and capital at a given date and so shows financial position. The profit and loss account shows performance over a period, and the other statements show movements in funds or reserves.",
+    "proTip": "Balance sheet = position at a DATE. Profit and loss account = performance over a PERIOD."
+  },
+  {
+    "id": "poa_1994_q16",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Trading Account (Cost of Goods Sold)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Given:\nPurchase N20,000\nSales N40,000\nCarriage inwards N5,000\nCarriage outwards N5,000\nOpening stock N10,000\nClosing stock N5,000\nWhat is the cost of good sold?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N30,000",
+      "N25,000",
+      "N20,000",
+      "N15,000"
+    ],
+    "correctIndex": 0,
+    "explanation": "Formula: Cost of goods sold = Opening stock + Purchases + Carriage inwards - Closing stock. Calculation: 10,000 + 20,000 + 5,000 - 5,000 = N30,000. Carriage inwards is part of the cost of purchases, while carriage outwards is a selling and distribution expense charged in the profit and loss account, so it is excluded. Option A is correct.",
+    "proTip": "Carriage INwards goes into the trading account (cost of sales); carriage OUTwards goes to the profit and loss account."
+  },
+  {
+    "id": "poa_1994_q17",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Profit and Loss Account",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The net profit or loss for the year is determined in the profit and loss account after",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "deducting purchases from sales",
+      "deducting cost of goods sold from sales and adding administrative expenses",
+      "adding commissions received to gross profit",
+      "eliminating all expenses from gross profit and adding any other income."
+    ],
+    "correctIndex": 3,
+    "explanation": "Net profit = Gross profit + other incomes (e.g. commission received, discount received) - all operating expenses. Option D describes this. Option A ignores stock and expenses, option B wrongly adds administrative expenses, and option C is incomplete because expenses are not deducted.",
+    "proTip": "Net profit = Gross profit + other income - expenses. Expenses are deducted, never added."
+  },
+  {
+    "id": "poa_1994_q18",
+    "subject": "Principles of Accounts",
+    "topic": "Stock Valuation",
+    "subTopic": "LIFO (Closing Stock)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Use the table below to answer question 18 and 19\nStock | Cost price (N) | Qty (units)\nOpening balance 1/1/90 | 3.00 | 3,000\nPurchases January | 3.50 | 15,000\nPurchases February | 4.00 | 25,000\nSales January | 4.50 | 13,000\nSales February | 5.00 | 28,000\n\nUsing LIFO, determine the value of closing stock.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N9,600",
+      "N7,600",
+      "N 6,000",
+      "N2,000."
+    ],
+    "correctIndex": 2,
+    "explanation": "Units available = 3,000 + 15,000 + 25,000 = 43,000. Units sold = 13,000 + 28,000 = 41,000. Closing stock = 2,000 units. Under LIFO the latest purchases are issued first, so the units left are from the earliest layer, the opening stock at N3.00. Closing stock value = 2,000 x N3.00 = N6,000. Option C is correct.",
+    "proTip": "LIFO: the oldest cost stays in closing stock. Find closing units first, then price them from the earliest layer."
+  },
+  {
+    "id": "poa_1994_q19",
+    "subject": "Principles of Accounts",
+    "topic": "Stock Valuation",
+    "subTopic": "Closing Stock and Gross Profit",
+    "year": "1994",
+    "difficulty": "Scholar",
+    "question": "Use the table below to answer question 18 and 19\nStock | Cost price (N) | Qty (units)\nOpening balance 1/1/90 | 3.00 | 3,000\nPurchases January | 3.50 | 15,000\nPurchases February | 4.00 | 25,000\nSales January | 4.50 | 13,000\nSales February | 5.00 | 28,000\n\nWhat is the gross profit at the end of February, if the closing stock were valued at N 20,000?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N65,000",
+      "N57,000",
+      "N48,000",
+      "N37,000."
+    ],
+    "correctIndex": 1,
+    "explanation": "Formula: Gross profit = Sales - (Opening stock + Purchases - Closing stock). Sales = (13,000 x 4.50) + (28,000 x 5.00) = 58,500 + 140,000 = N198,500. Opening stock = 3,000 x 3.00 = N9,000. Purchases = (15,000 x 3.50) + (25,000 x 4.00) = 52,500 + 100,000 = N152,500. Cost of goods sold = 9,000 + 152,500 - 20,000 = N141,500. Gross profit = 198,500 - 141,500 = N57,000. Option B is correct.",
+    "proTip": "Build it in order: sales, then opening stock plus purchases less closing stock, then subtract. Do not match the closest option."
+  },
+  {
+    "id": "poa_1994_q20",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Bad Debts and Provision for Doubtful Debts",
+    "year": "1994",
+    "difficulty": "Scholar",
+    "question": "A trial balance shows provision for doubtful debts, N 190 and debtors, N 6,000. It is required to write off further N320 as bad debts and maintain the provision at 2½% of debtors. To do this, the profit and loss should show a",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "credit of N 20 and a debit of N 100",
+      "credit of N 28 and a debit of N 300",
+      "credit of N 48",
+      "debit entry of N 414"
+    ],
+    "correctIndex": 2,
+    "explanation": "Step 1: Debtors after writing off bad debts = 6,000 - 320 = N5,680. Step 2: Required provision = 2.5% x 5,680 = N142. Step 3: Existing provision = N190, so the provision is reduced by 190 - 142 = N48. This reduction is credited to the profit and loss account, and the N320 bad debts are separately debited. Only option C gives the correct provision adjustment (a credit of N48). Note that the printed options do not state the N320 bad debts debit, so the question wording is incomplete and the key should be confirmed.",
+    "proTip": "Write off bad debts FIRST, then compute the new provision on the reduced debtors. A fall in provision is a credit to the profit and loss account."
+  },
+  {
+    "id": "poa_1994_q21",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Bad Debts Recovered",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "If a bad debt previously written off is subsequently repaid, the amount collected is recorded as an",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "income in the profit and loss account",
+      "income in the balance sheet",
+      "addition cash in the profit and loss account",
+      "expense in the balance sheet."
+    ],
+    "correctIndex": 0,
+    "explanation": "A bad debt recovered is credited to the bad debts recovered account (income) and transferred to the profit and loss account as a gain, with cash or bank debited. It is not a balance sheet item. Option A is correct.",
+    "proTip": "Bad debt written off = expense (debit). Bad debt recovered = income (credit) in the profit and loss account."
+  },
+  {
+    "id": "poa_1994_q22",
+    "subject": "Principles of Accounts",
+    "topic": "Control Accounts and Self Balancing Ledger",
+    "subTopic": "Sales Ledger Control Account",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Beginning and ending accounts receivable balances were N 8,000 and N 15,000 respectively. If collections from customers during the period were N 36,000, them total sales on account would be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N23,000",
+      "N29,000",
+      "N36,000",
+      "N43,000."
+    ],
+    "correctIndex": 3,
+    "explanation": "In the sales ledger control account: opening balance + credit sales = collections + closing balance. Credit sales = 36,000 + 15,000 - 8,000 = N43,000. Option D is correct.",
+    "proTip": "Credit sales = cash collected + closing debtors - opening debtors."
+  },
+  {
+    "id": "poa_1994_q23",
+    "subject": "Principles of Accounts",
+    "topic": "Control Accounts and Self Balancing Ledger",
+    "subTopic": "Purchases Ledger Control Account Entries",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "From which of the following sources are creditors control account most likely to be posted?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Supplier's invoices",
+      "Cash disbursements journal",
+      "Subsidiary debtor's ledger",
+      "Purchases journal."
+    ],
+    "correctIndex": 3,
+    "explanation": "The creditors (purchases ledger) control account takes its credit entries from the total of the purchases journal (credit purchases), and its debit entries from the cash payments book and the returns outwards journal. Of the options, the purchases journal is the book of original entry that supplies the posting. Supplier's invoices are source documents rather than books, and the debtors ledger is unrelated.",
+    "proTip": "Control accounts are posted from the TOTALS of the books of original entry (day books and cash book), not from individual invoices."
+  },
+  {
+    "id": "poa_1994_q26",
+    "subject": "Principles of Accounts",
+    "topic": "Manufacturing Accounts",
+    "subTopic": "Prime Cost (Direct Labour)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Which of the following categories of labours cost will be classified as direct?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Accountant's salary",
+      "Factory workers' salary",
+      "Managing director's salary",
+      "Cashier's salary."
+    ],
+    "correctIndex": 1,
+    "explanation": "Direct labour is the wages of workers who physically make the product, so factory workers' pay is direct labour and is part of prime cost. Salaries of the accountant, managing director and cashier are administrative overheads.",
+    "proTip": "Direct labour = people who touch the product on the factory floor. Office and management salaries are overheads."
+  },
+  {
+    "id": "poa_1994_q27",
+    "subject": "Principles of Accounts",
+    "topic": "Stock Valuation",
+    "subTopic": "FIFO (Ending Inventory)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Use the information below to answer questions 27 and 28\n | Unit | Unit Cost (N) | Total Cost (N) | Unit Sold\nBeginning inventory | 20 | 6 | 120 |\nSale No. 1 | | | | 18\nPurchase No. 1 | 30 | 8 | 240 |\nSales No. 2 | | | | 20\nPurchase No 2 | 10 | 9 | 90 |\nTotal | 60 | | | 38\n\nUsing the FIFO method of stock valuation, the ending inventory cost is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N146",
+      "N165",
+      "N186",
+      "N314"
+    ],
+    "correctIndex": 2,
+    "explanation": "Units available = 20 + 30 + 10 = 60. Units sold = 18 + 20 = 38. Ending inventory = 22 units. Under FIFO the oldest units are sold first, so the ending inventory is made up of the latest purchases: 10 units at N9 = N90 plus 12 units at N8 = N96. Ending inventory = 90 + 96 = N186. Option C is correct.",
+    "proTip": "FIFO: closing stock is valued at the MOST RECENT prices. Start from the last purchase and work backwards."
+  },
+  {
+    "id": "poa_1994_q28",
+    "subject": "Principles of Accounts",
+    "topic": "Stock Valuation",
+    "subTopic": "LIFO (Ending Inventory)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Use the information below to answer questions 27 and 28\n | Unit | Unit Cost (N) | Total Cost (N) | Unit Sold\nBeginning inventory | 20 | 6 | 120 |\nSale No. 1 | | | | 18\nPurchase No. 1 | 30 | 8 | 240 |\nSales No. 2 | | | | 20\nPurchase No 2 | 10 | 9 | 90 |\nTotal | 60 | | | 38\n\nUsing the LIFO inventory procedures, the ending inventory cost is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N136",
+      "N176",
+      "N196",
+      "N264"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ending inventory = 60 - 38 = 22 units. Under the periodic LIFO method the latest purchases are treated as sold first, so the closing stock comes from the earliest costs: 20 units at N6 = N120 plus 2 units at N8 = N16. Ending inventory = 120 + 16 = N136. Option A is correct. (A perpetual LIFO calculation would give N182, which is not an option, so the periodic method is intended.)",
+    "proTip": "Periodic LIFO: closing stock is priced from the OLDEST layers. Opening stock first, then the next purchase."
+  },
+  {
+    "id": "poa_1994_q29",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Receipts and Payments vs Income and Expenditure",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The major difference between the receipt and payment account and the income and expenditure account is that while the former",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "is kept by the treasurer, the latter is not",
+      "deals with all receipt and payments in the year regardless of the time it relates to the latter is for just that year",
+      "is a T-account the latter is not",
+      "is not in the ledger, the latter is."
+    ],
+    "correctIndex": 1,
+    "explanation": "The receipts and payments account is a summary of the cash book and records all cash received and paid in the period, whatever period the items relate to, including capital items. The income and expenditure account follows the accruals basis and includes only revenue items belonging to the year. Option B states this difference.",
+    "proTip": "Receipts and payments = cash basis (everything). Income and expenditure = accruals basis (revenue items of the year only)."
+  },
+  {
+    "id": "poa_1994_q30",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Subscriptions",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The following information relates to a hockey club:\nSubscription owing at the beginning N40\nSubscription owing at the end N35\nSubscription received in the advance at the beginning N15\nSubscription received During the period N2,560\nThe amount to be shown in the income and expenditure account would be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N2,500",
+      "N2,540",
+      "N2,570",
+      "N2,590."
+    ],
+    "correctIndex": 2,
+    "explanation": "Subscription income for the year = cash received - arrears at the start (they belong to last year) + arrears at the end + advance received at the start (it belongs to this year) - advance received at the end (none stated). Calculation: 2,560 - 40 + 35 + 15 = N2,570. Option C is correct.",
+    "proTip": "Cash received, less arrears b/f, plus arrears c/f, plus advance b/f, less advance c/f = income for the year."
+  },
+  {
+    "id": "poa_1994_q31",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Income and Expenditure Account (Trading Activities)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The net profit from the trading account of a non-profit making organization would be treated as income in the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "income and expenditure account",
+      "receipt and payment account",
+      "balance sheet",
+      "statement of affairs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Profits from activities such as a bar, canteen or dance are calculated in a separate trading account and then transferred to the credit side of the income and expenditure account as income. Option A is correct.",
+    "proTip": "Profit from club bar, canteen or dances goes to the CREDIT side of the income and expenditure account."
+  },
+  {
+    "id": "poa_1994_q32",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Partnership Formation (Capital Contributed)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Use the information below to answer questions 32 and 33.\nAda and Udo are lawyers who went into partnership as Ado & Co. Ada brought cash of N12,000, furnishing worth N18,000 and a motor vehicle worth N70, 000 Udo on the other hand brought in cash N10,000, his building valued at N05,000 and a personal computer worth N135,000.\n\nWhat is the capital of Ado & Co.?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N22,000",
+      "N100,000",
+      "N150,000",
+      "N250,000."
+    ],
+    "correctIndex": 3,
+    "explanation": "Capital of the firm = total of the capital contributed by the partners. Ada: 12,000 + 18,000 + 70,000 = N100,000. Udo: 10,000 + 5,000 + 135,000 = N150,000 (reading 'N05,000' as N5,000, the only reading consistent with the answer options). Total capital = 100,000 + 150,000 = N250,000. Option D is correct. The printed figure 'N05,000' is unclear in the source, so confirm it against the original paper.",
+    "proTip": "Firm's capital = sum of every partner's contribution (cash plus assets at agreed values)."
+  },
+  {
+    "id": "poa_1994_q33",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Profit Sharing Ratio",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Use the information below to answer questions 32 and 33.\nAda and Udo are lawyers who went into partnership as Ado & Co. Ada brought cash of N12,000, furnishing worth N18,000 and a motor vehicle worth N70, 000 Udo on the other hand brought in cash N10,000, his building valued at N05,000 and a personal computer worth N135,000.\n\nWhat is the profit sharing ratio if it is based on capital contributed by Ada and Udo?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "2:1",
+      "3:2",
+      "2:3",
+      "1:2"
+    ],
+    "correctIndex": 2,
+    "explanation": "Profit-sharing ratio on capital = Ada's capital : Udo's capital = 100,000 : 150,000 = 2 : 3. Option C is correct. This relies on reading Udo's building as N5,000 (printed 'N05,000'), so confirm the figure against the original paper.",
+    "proTip": "Ratio of capitals: divide both amounts by their highest common factor (here 50,000) to get the simplest ratio."
+  },
+  {
+    "id": "poa_1994_q34",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Appropriation Account",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The major distinguishing element between the final accounts of a partnership and a sole trader is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "drawings account",
+      "appropriation account",
+      "capital account",
+      "creditors account."
+    ],
+    "correctIndex": 1,
+    "explanation": "A partnership prepares an appropriation account after the profit and loss account to share profit among partners (interest on capital, salaries, share of profit). A sole trader has no one to share with, so there is no appropriation account. Drawings, capital and creditors accounts exist in both.",
+    "proTip": "Partnership = profit and loss account PLUS appropriation account."
+  },
+  {
+    "id": "poa_1994_q35",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Goodwill",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Good will appears in the books of a business only if it has been",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "purchased at a certain price",
+      "raised in connection with the admission of a new partner",
+      "raised to account for the true value of a business on the death of a partner",
+      "raised in order to prevent the balance sheet showing that the business is insolvent."
+    ],
+    "correctIndex": 0,
+    "explanation": "Under the accounting convention, goodwill is recognised in the books only when it has been bought, i.e. when a price has been paid for it. Internally generated goodwill is not recorded. Option A is correct.",
+    "proTip": "Purchased goodwill goes in the books; home-grown goodwill does not."
+  },
+  {
+    "id": "poa_1994_q36",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Admission of a Partner",
+    "year": "1994",
+    "difficulty": "Scholar",
+    "question": "Kayode, Akpan and Kachalla are in partnership. Their respective capital accounts had the following balances: N40,000 N50,000 and N70,000. The partners agree to admit Wamo as a new partner with a one-fifth interest in the partnership capital in exchange for N50,000 cash. Wamo's equity in the resulting partnership is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N32,000",
+      "N50,000",
+      "N42,000",
+      "N50,000."
+    ],
+    "correctIndex": 2,
+    "explanation": "Existing capital = 40,000 + 50,000 + 70,000 = N160,000. After Wamo pays in N50,000 the total partnership capital = N210,000. Wamo's equity = 1/5 x 210,000 = N42,000. The excess N8,000 (50,000 - 42,000) is a bonus to the old partners, with no goodwill recorded. Option C is correct. Note that options B and D are both printed as N50,000 in the source, and the answer assumes the bonus method.",
+    "proTip": "'One-fifth interest in the partnership capital' means one-fifth of the NEW total capital (old capital plus cash brought in)."
+  },
+  {
+    "id": "poa_1994_q37",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Dissolution",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Under which of the following conditions is a partnership dissolved?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Change of the partnership's head office.",
+      "Admission of a new partner.",
+      "Purchase of a large quatity of fixed assets.",
+      "Retirement of a manager who is not a partner."
+    ],
+    "correctIndex": 1,
+    "explanation": "A change in the membership of the partnership, such as admission of a new partner, retirement, or death of a partner, legally dissolves the old partnership, and a new one is formed. Moving the office, buying assets, or a non-partner manager retiring does not alter the partners. Option B is correct.",
+    "proTip": "Dissolution is triggered by a change in the PARTNERS (admission, retirement, death), not by changes in premises, assets or staff."
+  },
+  {
+    "id": "poa_1994_q38",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Share Capital (Issue of Shares)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "When shares issued are paid for the accounting entry required is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "debit bank or cash account and credit share capital and/or premium account",
+      "credit bank or cash account and debit shares capital and/or premium account",
+      "debit shares account and credit capital account",
+      "credit shares account and debit capital account."
+    ],
+    "correctIndex": 0,
+    "explanation": "When shareholders pay for shares, cash/bank receives money (debit) and the company's share capital account (and share premium account, where applicable) is credited with the amount of the issue. Option A is correct, and option B reverses it.",
+    "proTip": "Shares issued and paid: DR Bank, CR Share capital (and Share premium for any excess)."
+  },
+  {
+    "id": "poa_1994_q39",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Share Capital (Nominal Value)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Use the information below to answer questions 39 and 40\nA limited liability company has an authorized share capital of N 50 million split into 100 million shares. 80 million shares were offered for subscription at 60k per share payable in full on application. These have been fully subscribed and issued.\n\nWhat is the nominal value of each share?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N2",
+      "N0.80",
+      "N0.60",
+      "N0.50"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nominal (par) value per share = authorised share capital / number of authorised shares = N50,000,000 / 100,000,000 = N0.50 (50k). The 60k is the issue price, which includes a 10k premium. Option D is correct.",
+    "proTip": "Nominal value = authorised capital / number of authorised shares. Do not confuse it with the issue price."
+  },
+  {
+    "id": "poa_1994_q40",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Share Capital (Issued Capital)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Use the information below to answer questions 39 and 40\nA limited liability company has an authorized share capital of N 50 million split into 100 million shares. 80 million shares were offered for subscription at 60k per share payable in full on application. These have been fully subscribed and issued.\n\nWhat is the issued capital?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N40 million",
+      "N48 million",
+      "N50 million",
+      "N80 million."
+    ],
+    "correctIndex": 0,
+    "explanation": "Issued capital is stated at nominal value. Nominal value = N0.50, so issued capital = 80 million x N0.50 = N40 million. The N48 million (80 million x 60k) is the cash received, of which N8 million is share premium. Option A is correct.",
+    "proTip": "Issued capital = shares issued x NOMINAL value. The extra over nominal goes to share premium."
+  },
+  {
+    "id": "poa_1994_q41",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Company Documents (Articles of Association)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The document setting out the regulations regarding shares, meetings and internal organization of a company is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "memorandum of association",
+      "articles of association",
+      "prospectus",
+      "company law."
+    ],
+    "correctIndex": 1,
+    "explanation": "The articles of association contain the internal rules of the company, covering shares, meetings, directors and their powers. The memorandum of association governs the company's relationship with the outside world (name, objects, capital). A prospectus invites the public to subscribe for shares.",
+    "proTip": "ARTICLES = internal rules. MEMORANDUM = external relations."
+  },
+  {
+    "id": "poa_1994_q42",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Accounting Ratios",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "An advantage of using accounting ratio is that they",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "can be easily calculated",
+      "facilitate decision-making",
+      "are stipulated by law",
+      "show errors and frauds."
+    ],
+    "correctIndex": 1,
+    "explanation": "Accounting ratios turn raw figures into measures of profitability, liquidity and efficiency, which help managers, investors and creditors make decisions and compare performance over time or between firms. They are not required by law and do not detect errors or fraud.",
+    "proTip": "The main purpose of ratio analysis is interpretation and decision-making, not error detection."
+  },
+  {
+    "id": "poa_1994_q43",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Accounting Ratios (Receivables Turnover)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The accounts of Buba (Nig.) Plc showed the following for the year ended December 31, 1993:\nGross sales N219,900\nSales returns and allowances N4,900\nNet sales N215,000\nAccounts receivable (net): 1/1/93 N20,000; 31/12/93 N30,000\nThe turnover of accounts receivable is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "6.14 times per year",
+      "8.14 times per year",
+      "8.60 times per year",
+      "8.64 times per year."
+    ],
+    "correctIndex": 2,
+    "explanation": "Formula: Receivables turnover = Net credit sales / Average accounts receivable. Average receivables = (20,000 + 30,000) / 2 = N25,000. Turnover = 215,000 / 25,000 = 8.6 times per year. Option C is correct.",
+    "proTip": "Use NET sales (after returns) and AVERAGE receivables (opening plus closing, divided by 2)."
+  },
+  {
+    "id": "poa_1994_q44",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Accounting Ratios (Gross Profit Margin)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Given:\nSales N20,000\nCosts of sales N15,000\nThe gross profit margin would be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "33.33%",
+      "25.00%",
+      "20.00%",
+      "14.28%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Formula: Gross profit margin = (Gross profit / Sales) x 100. Gross profit = 20,000 - 15,000 = N5,000. Margin = 5,000 / 20,000 x 100 = 25%. The 33.33% in option A is the mark-up on cost (5,000 / 15,000). Option B is correct.",
+    "proTip": "MARGIN is on SALES; MARK-UP is on COST. Read the denominator carefully."
+  },
+  {
+    "id": "poa_1994_q45",
+    "subject": "Principles of Accounts",
+    "topic": "Departmental Accounts",
+    "subTopic": "Departmental Trading Accounts",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Use the information below to answer questions 45 and 46\nPerebeni Enterprises has two departments A and B, with following information\n | A (N) | B (N)\nOpen. Stock | 5,000 | 1,500\nPurchases | 26,000 | 3,000\nClose. Stock | 7,000 | 2,500\nSales | 45,000 | 4,000\nThe following expenses are to be shared in the ratio 4:1\nRent N8,300\nGeneral Expenses N3,200\n\nWhat are the company's gross profit for the year?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N11,500",
+      "N12,500",
+      "N20,000",
+      "N23,000."
+    ],
+    "correctIndex": 3,
+    "explanation": "Department A: cost of sales = 5,000 + 26,000 - 7,000 = N24,000; gross profit = 45,000 - 24,000 = N21,000. Department B: cost of sales = 1,500 + 3,000 - 2,500 = N2,000; gross profit = 4,000 - 2,000 = N2,000. Company gross profit = 21,000 + 2,000 = N23,000. Option D is correct.",
+    "proTip": "Do a trading account for each department separately, then add the gross profits for the company total."
+  },
+  {
+    "id": "poa_1994_q46",
+    "subject": "Principles of Accounts",
+    "topic": "Departmental Accounts",
+    "subTopic": "Expense Apportionment and Departmental Profit",
+    "year": "1994",
+    "difficulty": "Scholar",
+    "question": "Use the information below to answer questions 45 and 46\nPerebeni Enterprises has two departments A and B, with following information\n | A (N) | B (N)\nOpen. Stock | 5,000 | 1,500\nPurchases | 26,000 | 3,000\nClose. Stock | 7,000 | 2,500\nSales | 45,000 | 4,000\nThe following expenses are to be shared in the ratio 4:1\nRent N8,300\nGeneral Expenses N3,200\n\nWhat is the net profit (or loss) contributed by department B?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N2,000",
+      "(N2,000)",
+      "(N 300)",
+      "N300."
+    ],
+    "correctIndex": 2,
+    "explanation": "Department B gross profit = 4,000 - (1,500 + 3,000 - 2,500) = N2,000. Total expenses = 8,300 + 3,200 = N11,500. Department B's share is 1/5 = N2,300 (rent 1,660 plus general expenses 640). Net result = 2,000 - 2,300 = (N300), a net loss. Option C is correct.",
+    "proTip": "Ratio 4:1 means 5 parts. Department B takes 1/5 of each shared expense, so compare its gross profit with that share."
+  },
+  {
+    "id": "poa_1994_q47",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Recurrent Expenditure",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The expenditure on a good or service which is consumed either immediately or within a current accounting period is called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "fixed expenditure",
+      "capital expenditure",
+      "annual expenditure",
+      "recurrent expenditure"
+    ],
+    "correctIndex": 3,
+    "explanation": "Recurrent expenditure is spending on goods and services consumed within the current period, e.g. salaries, stationery and maintenance. Capital expenditure, by contrast, creates assets lasting beyond one year. Option D is correct.",
+    "proTip": "Consumed this year = RECURRENT. Lasts beyond this year = CAPITAL."
+  },
+  {
+    "id": "poa_1994_q48",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Government Funds",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The receipts from a special tax levy to pay maturing interest obligation are recorded in",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Capital Project Fund",
+      "Debt Service Fund",
+      "Tax Assessment Fund",
+      "Special Revenue Fund."
+    ],
+    "correctIndex": 1,
+    "explanation": "In governmental fund accounting, the Debt Service Fund accounts for resources set aside to pay interest and principal on long-term debt as they mature. A special tax levied for that purpose is recorded there.",
+    "proTip": "Money collected to pay debt interest and principal goes into the DEBT SERVICE FUND."
+  },
+  {
+    "id": "poa_1994_q49",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Cash Basis of Accounting",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The cash basis of accounting requires the recognition of revenue only when they are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "due",
+      "earned",
+      "paid",
+      "received."
+    ],
+    "correctIndex": 3,
+    "explanation": "Under the cash basis, revenue is recognised only when cash is actually received, and expenses only when cash is paid. Revenue that is merely due or earned (accruals basis) is not recognised until the cash comes in. Option D is correct.",
+    "proTip": "Cash basis = recognise when cash is RECEIVED or PAID. Accruals basis = when EARNED or INCURRED."
+  },
+  {
+    "id": "poa_1994_q50",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Government Budget (Votes)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The amount for individual items on a government budget is called a",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "vote",
+      "deposit",
+      "loan",
+      "grant."
+    ],
+    "correctIndex": 0,
+    "explanation": "In government budgeting, the amount appropriated for an individual item or head of expenditure is called a vote. A deposit, loan or grant is a type of receipt or transfer, not a budget line.",
+    "proTip": "Budget line item = VOTE (the amount voted by the legislature for that head)."
+  },
+  {
+    "id": "poa_1995_q1",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Development of Accounting",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Which of the following factors has aided the development of Accounting?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "The emergency of nation states",
+      "The discovery of mineral resources in commercial quantity.",
+      "The growth in size of businesses and the separation of ownership and management.",
+      "The development and management of a sophisticated monetary system."
+    ],
+    "correctIndex": 2,
+    "explanation": "Accounting developed significantly because businesses grew larger and ownership became separated from management. Owners needed reliable financial information to assess managers, while managers needed records for planning and control. This separation created the need for formal financial reporting, bookkeeping, and accountability.",
+    "proTip": "When asked about the historical development of accounting, link it to business growth, joint-stock companies, and separation of ownership from management."
+  },
+  {
+    "id": "poa_1995_q2",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Accounting Concepts",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Which of the following concepts stipulates that accounting profit is the difference between revenue and expenses?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Accrual concept",
+      "Conservation Concept",
+      "Prudence Concept",
+      "Materiality concept."
+    ],
+    "correctIndex": 0,
+    "explanation": "The accrual concept requires revenue to be recognised when earned and expenses when incurred, not merely when cash is received or paid. Accounting profit is therefore measured as revenue earned less expenses incurred for the period.",
+    "proTip": "Accrual accounting matches earned revenue with incurred expenses; this is the basis of profit measurement."
+  },
+  {
+    "id": "poa_1995_q3",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Users of Accounting Information",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "An effective accounting system should provide information",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "on new products and methods",
+      "for customer feedback and requirements",
+      "on internal and external reporting for managers and third parties",
+      "for promoters, directors, labour unions and distributors."
+    ],
+    "correctIndex": 2,
+    "explanation": "An accounting system serves both internal users such as managers and external users such as investors, creditors, tax authorities and regulators. It must therefore support internal decision-making and external financial reporting.",
+    "proTip": "Accounting information is not only for managers; it must also satisfy third-party users."
+  },
+  {
+    "id": "poa_1995_q4",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Source Documents",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Which of the following accounting records are source documents?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Journals and ledgers",
+      "Sales invoice and cashbook",
+      "Cash book and debit note",
+      "Sales invoice and debit note."
+    ],
+    "correctIndex": 3,
+    "explanation": "Source documents are the original evidence of a transaction. A sales invoice is issued when goods are sold on credit, while a debit note is used to record an amount debited to another party, such as returned goods or undercharges. Journals, ledgers and cash books are books of account, not source documents.",
+    "proTip": "Source documents originate the transaction; journals and ledgers record or classify it."
+  },
+  {
+    "id": "poa_1995_q5",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Accounting Equation",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Given: Motor van, N3,600; Premises, N5,000; Loan from R. Nwaele, N1,000; Cash at bank, N1,650; Stock of goods, N4,800; Creditors, N2,560; Cash in hand, N250 and Debtors, N6,910. Calculate the capital figure.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N19,650",
+      "N18,650",
+      "N17,850",
+      "N19,850."
+    ],
+    "correctIndex": 1,
+    "explanation": "Capital = Total assets - Total liabilities. Assets = 3,600 + 5,000 + 1,650 + 4,800 + 250 + 6,910 = N22,210. Liabilities = Loan N1,000 + Creditors N2,560 = N3,560. Capital = 22,210 - 3,560 = N18,650.",
+    "proTip": "Capital is always the residual of assets after deducting external liabilities."
+  },
+  {
+    "id": "poa_1995_q6",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "General Journal",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Which of the following transactions is BEST recorded in the general journal?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Payment of rent with a cheque.",
+      "Payment of stock with cash",
+      "Purchase of an asset on credit terms",
+      "Transfer of cash from head office to branch."
+    ],
+    "correctIndex": 2,
+    "explanation": "The general journal is used for transactions that cannot conveniently be recorded in specialised books such as the cash book, sales day book or purchases day book. A credit purchase of a fixed asset is not a credit purchase of goods for resale, so it is recorded in the general journal.",
+    "proTip": "Credit purchase of a fixed asset goes to the general journal, not the purchases day book."
+  },
+  {
+    "id": "poa_1995_q7",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Double Entry for Capital",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Diamond Ringo business was started when Mr. Diamond brought in a Cheque of N500,000 which was paid into the bank account. Which of the following entries properly records the transaction?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Cash account was credited with N500,000 and the capital account was debited with N500,000",
+      "Bank account was debited with N500,000 and capital account was credited with N500,000",
+      "Bank account was credited with N500,000 and capital account was debited with N500,000",
+      "Capital account was credited with N500,000 and cash account was debited with N500,000."
+    ],
+    "correctIndex": 1,
+    "explanation": "When the owner introduces capital by cheque into the business bank account, the business receives an asset (bank) and capital increases. Debit the bank account and credit the capital account with N500,000.",
+    "proTip": "Owner brings in cash/cheque: debit bank/cash, credit capital."
+  },
+  {
+    "id": "poa_1995_q8",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Ledger Accounts",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "One major advantage of a ledger is that it",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "is a book of original entry",
+      "is only accessible to shareholders during liquidation",
+      "removes the need for preparing a balance sheet after each transaction",
+      "can be used by any type of business."
+    ],
+    "correctIndex": 3,
+    "explanation": "The ledger is the principal book of accounts and classifies transactions into accounts. It is adaptable to sole traders, partnerships, companies, clubs and other organisations. It is not a book of original entry and does not remove the need for a balance sheet.",
+    "proTip": "Ledger = principal book of account; journal = book of original entry."
+  },
+  {
+    "id": "poa_1995_q9",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Trial Balance",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "A trial balance is usually prepared by an accountant from account balances in the ledger for the purpose of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "classifying account in the ledger",
+      "testing arithmetical accuracies of the ledger account balances",
+      "identifying the balance sheet items",
+      "providing a basis for establishing the account's competence."
+    ],
+    "correctIndex": 1,
+    "explanation": "A trial balance lists debit and credit balances and checks whether total debits equal total credits. This tests the arithmetical accuracy of the double-entry postings, although it cannot detect every type of error.",
+    "proTip": "Trial balance checks arithmetical accuracy, not complete accuracy."
+  },
+  {
+    "id": "poa_1995_q10",
+    "subject": "Principles of Accounts",
+    "topic": "Cash Book",
+    "subTopic": "Petty Cash Book and Imprest System",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "What are the advantages of an imprest petty cash book? (i) Cheque can be drawn easily (ii) A check on the use of cash (iii) Liability of the petty cashier is limited to the value of petty cash (iv) Losses through the petty cashier can be minimized.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "I, II and III only",
+      "I, II and IV only",
+      "I, III and IV only",
+      "II, III and IV only."
+    ],
+    "correctIndex": 3,
+    "explanation": "The imprest system fixes the petty cash float and reimburses only proven expenses. It therefore provides a check on cash usage, limits the petty cashier's responsibility to the imprest amount, and reduces losses. Easy cheque drawing is not an advantage of petty cash.",
+    "proTip": "Imprest advantages: control, limited liability of cashier, reduced loss; not cheque convenience."
+  },
+  {
+    "id": "poa_1995_q11",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Credit Note",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Bola, UTC's regular customer, owed N1,000 on account of radio brought. If he sent in a cheque for N1,500, UTC would send him a",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "credit note",
+      "debit note",
+      "journal voucher",
+      "way bill."
+    ],
+    "correctIndex": 0,
+    "explanation": "Bola owed N1,000 but paid N1,500, creating an overpayment or credit balance of N500 in his favour. A credit note is issued by the seller to acknowledge a reduction or credit due to a customer.",
+    "proTip": "Seller issues credit note to reduce customer's indebtedness or acknowledge overpayment/returns."
+  },
+  {
+    "id": "poa_1995_q12",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Correction of Errors",
+    "year": "1995",
+    "difficulty": "Scholar",
+    "question": "A payment of cash of N20 to John was entered on the receipt side of the cashbook in error and credited to John's account. Which of the following journal entries can be used to correct the error?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "John: N40 Dr, Cash N40 Cr",
+      "Cash N40 Dr, John N40 Cr",
+      "John: N20 Dr, Cash N20 Cr",
+      "Cash N20 Dr, John N20 Cr."
+    ],
+    "correctIndex": 0,
+    "explanation": "The erroneous entries were: debit cash N20 and credit John N20. The correct entries should have been: debit John N20 and credit cash N20. To correct, reverse the wrong entries and post the correct entries: debit John N40 and credit cash N40.",
+    "proTip": "For a complete reversal error, correct with double the amount in the opposite direction."
+  },
+  {
+    "id": "poa_1995_q13",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Trading Account",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The following represents extracts from the trading account of a retail outlet for a given month: Opening Stock N2,400; Closing Stock N6,400; Other expenses N2,000; Sales N11,000; Profit N900. What is the purchase figure for the month?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N13,000",
+      "N12,100",
+      "N12,000",
+      "N11,200."
+    ],
+    "correctIndex": 1,
+    "explanation": "Net profit = Gross profit - Other expenses. Therefore Gross profit = 900 + 2,000 = N2,900. Cost of goods sold = Sales - Gross profit = 11,000 - 2,900 = N8,100. Also COGS = Opening stock + Purchases - Closing stock. So 8,100 = 2,400 + Purchases - 6,400. Purchases = 8,100 - 2,400 + 6,400 = N12,100.",
+    "proTip": "Work backwards from net profit to gross profit, then to cost of sales and purchases."
+  },
+  {
+    "id": "poa_1995_q14",
+    "subject": "Principles of Accounts",
+    "topic": "Bank Transactions and Reconciliation Statements",
+    "subTopic": "Bank Reconciliation",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Adama's bank account showed an overdraft of N600 on 31st March. On going through the account, it was discovered that the N1,080 paid into the account on 29th March had not been credited. What should be the balance in Adama's cash account?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N1,680 Dr.",
+      "N1,080 Cr.",
+      "N600 Dr.",
+      "N480 Cr."
+    ],
+    "correctIndex": 3,
+    "explanation": "The bank statement shows an overdraft of N600 Cr. The N1,080 lodgement is already in the cash book but not yet credited by the bank. Adjusted cash book balance = N1,080 - N600 = N480 debit. The supplied option D is the intended answer, although the source OCR shows Cr; the correct accounting balance is N480 Dr.",
+    "proTip": "Uncredited lodgements are added to a bank statement balance; when reconciling to cash book, allow for deposits not yet credited."
+  },
+  {
+    "id": "poa_1995_q15",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Adjustments for Accruals and Prepayments",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Why are adjustments in the profit and loss account necessary?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "To cover some expenses of the following year.",
+      "To ascertain the actual expenses incurred and income earned during the year.",
+      "To show the provisions made during the year.",
+      "To show the total expenses paid and income received during the year."
+    ],
+    "correctIndex": 1,
+    "explanation": "Adjustments apply the accrual and matching principles. They ensure that the profit and loss account includes only income earned and expenses incurred in the period, regardless of whether cash has been received or paid.",
+    "proTip": "Adjustments convert cash records to accrual-based figures."
+  },
+  {
+    "id": "poa_1995_q16",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Depreciation",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Use the information below: MACHINERY: Historical cost N5,000,000; Estimated useful life 20 years; Residual value N25,000; Date of acquisition 1/1/71; Depreciation method Straight line. Accumulated depreciation on the asset as at 31/12/81 was",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N2,487,500.00",
+      "N2,736,250.00",
+      "N4,511,192.00",
+      "N4,975,000.00."
+    ],
+    "correctIndex": 1,
+    "explanation": "Annual depreciation = (Cost - Residual value) / Useful life = (5,000,000 - 25,000) / 20 = 4,975,000 / 20 = N248,750. From 1/1/71 to 31/12/81 is 11 years. Accumulated depreciation = 248,750 x 11 = N2,736,250.",
+    "proTip": "Straight-line depreciation = (cost - residual value) ÷ useful life; count the number of years carefully."
+  },
+  {
+    "id": "poa_1995_q17",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Depreciation and Book Value",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Use the information below: MACHINERY: Historical cost N5,000,000; Estimated useful life 20 years; Residual value N25,000; Date of acquisition 1/1/71; Depreciation method Straight line. The book value of the asset as at 31/12/86 was",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N3,731,250.00",
+      "N2,487,500.00",
+      "N1,268,750.00",
+      "N1,020,000.00."
+    ],
+    "correctIndex": 3,
+    "explanation": "Annual depreciation = N248,750. From 1/1/71 to 31/12/86 is 16 years. Accumulated depreciation = 248,750 x 16 = N3,980,000. Book value = Cost - Accumulated depreciation = 5,000,000 - 3,980,000 = N1,020,000.",
+    "proTip": "Book value = cost less accumulated depreciation."
+  },
+  {
+    "id": "poa_1995_q18",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Balance Sheet",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The following is a draft balance sheet as at 31/12/92: Fixed Assets: cost N200,000; accumulated depreciation N100,000. Current Assets: Stock in trade N10,000; Trade debtors N4,500; Cash at bank N22,800; Cash in hand N9,700. Trade creditors and capital are unknown. Trade creditors' account was maintained at 25% of the capital. What was the balance in the trade creditors account as at 31/12/92?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N29,800",
+      "N29,500",
+      "N29,400",
+      "N29,000."
+    ],
+    "correctIndex": 2,
+    "explanation": "Current assets = 10,000 + 4,500 + 22,800 + 9,700 = N47,000. Net fixed assets = 200,000 - 100,000 = N100,000. Total assets = N147,000. Let creditors = c; capital = 4c because creditors are 25% of capital. Total = c + 4c = 5c = 147,000. c = 147,000 / 5 = N29,400.",
+    "proTip": "When a liability is a fraction of capital, express the balance sheet total in terms of that fraction."
+  },
+  {
+    "id": "poa_1995_q19",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Balance Sheet",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The following is a draft balance sheet as at 31/12/92: Fixed Assets: cost N200,000; accumulated depreciation N100,000. Current Assets: Stock in trade N10,000; Trade debtors N4,500; Cash at bank N22,800; Cash in hand N9,700. Trade creditors and capital are unknown. Trade creditors' account was maintained at 25% of the capital. What was the balance in the capital account as at 31/12/92?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N76,000",
+      "N83,000",
+      "N117,600",
+      "N117,650."
+    ],
+    "correctIndex": 2,
+    "explanation": "From the previous computation, total assets = N147,000 and creditors = N29,400. Capital = Total assets - Creditors = 147,000 - 29,400 = N117,600. This also satisfies creditors = 25% of capital, since 25% x 117,600 = 29,400.",
+    "proTip": "Capital is the balancing figure after deducting liabilities from total assets."
+  },
+  {
+    "id": "poa_1995_q20",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Accrued Expenses",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The trial balance showed wages N2,500 and a note stated that N500 wages were due but unpaid. When preparing final accounts and balance sheet, it is required to debit profit and loss account with",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N3,000 and show wages accrued N500 in the balance sheet",
+      "N2,000 and show wages accrued N500 in the balance sheet",
+      "N3,000 and show wages prepaid N500 in the balance sheet.",
+      "N2,000 and show wages paid in advance N500 in the balance sheet."
+    ],
+    "correctIndex": 0,
+    "explanation": "Wages due but unpaid are accrued expenses. Charge the full expense to profit and loss: N2,500 + N500 = N3,000. Show N500 as a current liability (accrued wages) in the balance sheet.",
+    "proTip": "Accrued expense: add to expense in P&L and show as a liability."
+  },
+  {
+    "id": "poa_1995_q21",
+    "subject": "Principles of Accounts",
+    "topic": "Control Accounts and Self Balancing Ledger",
+    "subTopic": "Sales Ledger Control Account",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Sales ledger control account contains the total amount in respect of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "creditors",
+      "debtors",
+      "investors",
+      "shareholders."
+    ],
+    "correctIndex": 1,
+    "explanation": "The sales ledger control account is also called the debtors control account. It contains total transactions with credit customers, including credit sales, cash received, discounts allowed, returns inwards and bad debts.",
+    "proTip": "Sales ledger control = debtors; purchases ledger control = creditors."
+  },
+  {
+    "id": "poa_1995_q22",
+    "subject": "Principles of Accounts",
+    "topic": "Control Accounts and Self Balancing Ledger",
+    "subTopic": "Purchases Ledger Control Account",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The purchases ledger control of a company had an opening balance of N45,600 credit and closing balance of N72,600 credit. The company made payments of N437,000 to credit suppliers during the period; and had discount received of N18,600 on this account. What were the credit purchases for the period?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N509,600",
+      "N482,600",
+      "N428,600",
+      "N18,400."
+    ],
+    "correctIndex": 1,
+    "explanation": "Purchases ledger control formula: Closing balance = Opening balance + Credit purchases - Payments - Discount received. Therefore Credit purchases = Closing balance - Opening balance + Payments + Discount received = 72,600 - 45,600 + 437,000 + 18,600 = N482,600.",
+    "proTip": "Use the control account T-account: credit purchases are the missing credit-side figure."
+  },
+  {
+    "id": "poa_1995_q23",
+    "subject": "Principles of Accounts",
+    "topic": "Incomplete Records and Single Entry",
+    "subTopic": "Statement of Affairs",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "The starting point for the production of accounts from incomplete records is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "ascertain the total sales",
+      "compute the opening stock of goods sold",
+      "verify the total purchases",
+      "prepare an opening statement of affairs."
+    ],
+    "correctIndex": 3,
+    "explanation": "Under incomplete records, the opening capital is usually unknown. The first step is to prepare an opening statement of affairs showing assets and liabilities, from which opening capital is derived.",
+    "proTip": "Incomplete records: opening statement of affairs gives opening capital."
+  },
+  {
+    "id": "poa_1995_q24",
+    "subject": "Principles of Accounts",
+    "topic": "Stock Valuation",
+    "subTopic": "Stock Turnover",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Use the information below: I. A retailer when fixing his selling price adds one-quarter to the cost of the article. II. The expense of the retailer is 10% of his sales. III. The total sales is N23,000. IV. He turned over his stock five times in the year. Compute the average amount of stock in hand at cost price.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N3,860",
+      "N3,806",
+      "N3,680",
+      "N3,086."
+    ],
+    "correctIndex": 2,
+    "explanation": "Selling price = Cost + 1/4 cost = 1.25 x cost. Cost of goods sold = Sales / 1.25 = 23,000 / 1.25 = N18,400. Stock turnover = COGS / Average stock = 5. Average stock = 18,400 / 5 = N3,680.",
+    "proTip": "Stock turnover = cost of goods sold ÷ average stock; remove mark-up before using sales."
+  },
+  {
+    "id": "poa_1995_q25",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Net Profit",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Use the information below: I. A retailer when fixing his selling price adds one-quarter to the cost of the article. II. The expense of the retailer is 10% of his sales. III. The total sales is N23,000. IV. He turned over his stock five times in the year. The net profit for the year is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N5,750",
+      "N5,650",
+      "N3,200",
+      "N2,300."
+    ],
+    "correctIndex": 3,
+    "explanation": "Cost of goods sold = 23,000 / 1.25 = N18,400. Gross profit = Sales - COGS = 23,000 - 18,400 = N4,600. Expenses = 10% of sales = 0.10 x 23,000 = N2,300. Net profit = 4,600 - 2,300 = N2,300.",
+    "proTip": "Net profit = gross profit - expenses; compute gross profit after removing mark-up from sales."
+  },
+  {
+    "id": "poa_1995_q27",
+    "subject": "Principles of Accounts",
+    "topic": "Manufacturing Accounts",
+    "subTopic": "Factory Cost of Goods Produced",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "The factory cost of goods produced is made up of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "prime cost and factory overhead",
+      "prime cost and office overhead",
+      "raw materials consumed and fixed cost",
+      "raw materials and Administrative overhead."
+    ],
+    "correctIndex": 0,
+    "explanation": "Factory cost or production cost is prime cost plus factory overhead. Prime cost includes direct materials, direct labour and direct expenses. Factory overhead includes indirect manufacturing costs such as factory rent, depreciation of plant and factory power.",
+    "proTip": "Prime cost + factory overhead = factory/production cost."
+  },
+  {
+    "id": "poa_1995_q29",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Subscriptions in Arrears",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Subscription in arrears are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "credited to the income and expenditure account and shown as a liability in the balance sheet",
+      "debited to the income and expenditure account and shown as an asset in the balance sheet",
+      "credited to the income and expenditure account and shown as an asset in the balance sheet",
+      "debited to the income and expenditure account and shown as a liability in the balance sheet."
+    ],
+    "correctIndex": 2,
+    "explanation": "Subscriptions in arrears are income earned but not yet received. They are credited to the income and expenditure account as income and shown as a current asset (subscriptions receivable) in the balance sheet.",
+    "proTip": "Arrears = accrued income: credit income account, debit asset."
+  },
+  {
+    "id": "poa_1995_q30",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Income and Expenditure Account",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Where a non-profit making organization prepares the account using accruals basis of reporting, the statement showing how well the organization is doing is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "appropriation account",
+      "balance sheet",
+      "income and expenditure account",
+      "receipts and payment account."
+    ],
+    "correctIndex": 2,
+    "explanation": "The income and expenditure account is prepared on an accrual basis and shows whether the organisation has a surplus or deficit. The receipts and payments account is merely a cash summary.",
+    "proTip": "Non-profit performance statement = income and expenditure account; cash statement = receipts and payments."
+  },
+  {
+    "id": "poa_1995_q31",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Subscription Calculation",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "A charitable club has the following figures: Subscriptions received in 1991 N2,800; Subscriptions unpaid in 1990 N300; Subscriptions paid for 1992 N150; Subscriptions due 1991 N180. How much should be charged to the income and expenditure of this club as subscription for 1991?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N2,530",
+      "N2,680",
+      "N2,830",
+      "N2,980."
+    ],
+    "correctIndex": 0,
+    "explanation": "Subscription income for 1991 = cash received in 1991 - arrears from 1990 received + subscriptions due for 1991 - advance for 1992. = 2,800 - 300 + 180 - 150 = N2,530.",
+    "proTip": "For subscription income: exclude prior-year arrears and next-year advances; add current-year arrears."
+  },
+  {
+    "id": "poa_1995_q32",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Subscriptions in Advance",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "A member of a club paid N1,000 as his subscription for 1993 and N1,200 as subscription for 1994. If the financial year of the society ended on 31st December 1993, the N1,200 subscription will be treated in the balance sheet as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "current asset",
+      "current liability",
+      "capital",
+      "profit."
+    ],
+    "correctIndex": 1,
+    "explanation": "The N1,200 relates to 1994, a future period. It is income received in advance and must not be recognised in the 1993 income and expenditure account. It is carried to the balance sheet as a current liability.",
+    "proTip": "Income received in advance = current liability."
+  },
+  {
+    "id": "poa_1995_q35",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Revaluation on Admission",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "A partnership on admitting a new member revalued the business' land and building from N30,000 to N70,000. The difference of N40,000 should be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "credited to land and building account",
+      "debited to asset revaluation account",
+      "credited to asset revaluation account",
+      "credited to profit and loss appropriation account."
+    ],
+    "correctIndex": 2,
+    "explanation": "An increase in the value of an asset on revaluation is a gain to the old partners. Debit the asset account with N40,000 and credit the asset revaluation account with N40,000. The revaluation account balance is then shared among old partners.",
+    "proTip": "Revaluation increase: debit asset, credit revaluation account."
+  },
+  {
+    "id": "poa_1995_q36",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Profit Sharing",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Halidu and Hamed are business partners with N30,000 and N20,000 capital respectively. At the end of the financial year, a profit of N12,000 which included Halidu's salary of N3,000 was made. Halidu's share of the profit is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N7,500",
+      "N6,000",
+      "N5,400",
+      "N4,500."
+    ],
+    "correctIndex": 2,
+    "explanation": "Profit after deducting Halidu's salary = 12,000 - 3,000 = N9,000. The profit-sharing ratio is based on capital: Halidu : Hamed = 30,000 : 20,000 = 3:2. Halidu's share = 3/5 x 9,000 = N5,400.",
+    "proTip": "When no sharing ratio is stated, use capital ratio; deduct partner's salary before sharing residual profit."
+  },
+  {
+    "id": "poa_1995_q37",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Partners' Current Accounts",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Hamed's share of the profit should be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "credited to partners' capital account",
+      "credited to partners' current account",
+      "credited to appropriation account",
+      "debited to partners' drawings account."
+    ],
+    "correctIndex": 1,
+    "explanation": "In partnership accounting, each partner's share of profit is credited to the partner's current account. Drawings, interest on drawings and share of losses are debited to the current account.",
+    "proTip": "Profit share credits current account; drawings debit current account."
+  },
+  {
+    "id": "poa_1995_q38",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Conversion to Limited Liability Company",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "The conversion of a partnership business into a limited liability company affords the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "general partners the chance of enjoying the limited liability protection",
+      "limited liability partners the chance of enjoying the limited liability protection",
+      "creditors the chance of enjoying the limited liability protection",
+      "debtors the chance of enjoying the limited liability protection."
+    ],
+    "correctIndex": 0,
+    "explanation": "In an ordinary partnership, partners generally have unlimited liability. On conversion to a limited liability company, the former partners become shareholders and their liability is limited to the amount unpaid on their shares.",
+    "proTip": "Company formation gives former general partners limited liability."
+  },
+  {
+    "id": "poa_1995_q39",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Equity Shareholders' Fund",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Yakubu (Nigeria) Limited extract balance sheet as at 31st December 1993: Authorized: Ordinary shares N100,000; 10% preference shares N30,000. Issued: Ordinary shares N80,000; 10% preference shares N20,000; Share premium N20,000; Profit and loss A/C N13,000; Trade creditors N30,000; Accruals N5,000; Stock N10,000; Debtors N40,000; Bank N25,000. Equity shareholder fund is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N130,000",
+      "N120,000",
+      "N113,000",
+      "N100,000"
+    ],
+    "correctIndex": 2,
+    "explanation": "Equity shareholders' fund = issued ordinary share capital + share premium + retained profit (profit and loss account). = 80,000 + 20,000 + 13,000 = N113,000. Preference shares are not equity shareholders' fund.",
+    "proTip": "Ordinary shareholders' equity = ordinary share capital + share premium + reserves/retained earnings."
+  },
+  {
+    "id": "poa_1995_q40",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Dividends",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Yakubu (Nigeria) Limited extract balance sheet as at 31st December 1993: Issued ordinary shares N80,000; 10% preference shares N20,000; Share premium N20,000; Profit and loss A/C N13,000. If a 10% dividend is approved, what is the dividend payable to ordinary shareholders?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N13,000",
+      "N11,300",
+      "N10,000",
+      "N8,000"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dividend payable to ordinary shareholders = 10% x issued ordinary share capital = 10% x N80,000 = N8,000. Preference dividend is separate and is not asked for.",
+    "proTip": "Ordinary dividend is calculated on issued ordinary share capital, not authorised capital."
+  },
+  {
+    "id": "poa_1995_q41",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Accounting Ratios",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Which of the following ratios gives an idea of the liquidity of a firm?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Turnover ratio",
+      "Quick ratio",
+      "Debt ratio",
+      "Divided yield."
+    ],
+    "correctIndex": 1,
+    "explanation": "The quick ratio, also called the acid-test ratio, measures a firm's ability to meet short-term obligations using quick assets. It is a liquidity ratio. Debt ratio measures gearing, while turnover and dividend yield measure activity and returns.",
+    "proTip": "Liquidity ratios: current ratio and quick/acid-test ratio."
+  },
+  {
+    "id": "poa_1995_q42",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Share Issue and Refund",
+    "year": "1995",
+    "difficulty": "Scholar",
+    "question": "A total of N400,000 shares of N1 each are to be issued by Sariki Company Ltd. at a price of N1.20 per share. Applications were received for 600,000 shares out of which 100,000 were dishonored. If the available shares are distributed pro rata, what refund will be due a subscriber who applied for 5,000 shares?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N1,000",
+      "N1,200",
+      "N4,800",
+      "N6,000"
+    ],
+    "correctIndex": 1,
+    "explanation": "Valid applications = 600,000 - 100,000 = 500,000 shares. Available shares = 400,000. Allocation ratio = 400,000/500,000 = 4/5. A subscriber who applied for 5,000 shares gets 4/5 x 5,000 = 4,000 shares. Refund for 1,000 shares = 1,000 x N1.20 = N1,200.",
+    "proTip": "Pro-rata refund = unallotted shares x issue price."
+  },
+  {
+    "id": "poa_1995_q43",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Accounting Ratios",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "The measure of a company's ability to pay its debts quickly is called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "current ratio",
+      "turnover ratio",
+      "acid test ratio",
+      "return on investment."
+    ],
+    "correctIndex": 2,
+    "explanation": "The acid-test ratio uses current assets excluding stock to measure immediate short-term debt-paying ability. It is a stricter liquidity test than the current ratio.",
+    "proTip": "Acid-test ratio = quick assets ÷ current liabilities; excludes stock."
+  },
+  {
+    "id": "poa_1995_q44",
+    "subject": "Principles of Accounts",
+    "topic": "Departmental Accounts",
+    "subTopic": "Purpose of Departmental Accounts",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Department accounts are maintained to ascertain the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "profits of the entire organization",
+      "contribution of each department",
+      "expenses of each department",
+      "sales of each department."
+    ],
+    "correctIndex": 1,
+    "explanation": "Departmental accounts are prepared to show the trading result and contribution of each department to the overall profit. This helps management assess departmental performance and make decisions.",
+    "proTip": "Departmental accounts focus on each department's contribution, not only total profit."
+  },
+  {
+    "id": "poa_1995_q45",
+    "subject": "Principles of Accounts",
+    "topic": "Branch Accounts",
+    "subTopic": "Branch Profit",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The Asa branch of Emene Company Ltd. made a sale of N549,000 from the goods sent from the head office during the period ended 31/12/94. These sales were based on a 22% mark up. If branch expenses were N34,400 and there were no discrepancies, what should be the net profit of the branch for the period?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N6,500",
+      "N64,600",
+      "N85,380",
+      "N514,600"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sales = Cost + 22% mark-up = 1.22 x cost. Cost of goods sold = 549,000 / 1.22 = N450,000. Gross profit = 549,000 - 450,000 = N99,000. Net profit = Gross profit - Branch expenses = 99,000 - 34,400 = N64,600.",
+    "proTip": "For mark-up on cost, cost = sales ÷ (1 + mark-up percentage)."
+  },
+  {
+    "id": "poa_1995_q47",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Government Revenue Sources",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Which of the following are sources of revenue to state governments in Nigeria? I Statutory allocation; II Fines from customary courts; III Petroleum tax; IV Income tax.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and IV only",
+      "III and IV only."
+    ],
+    "correctIndex": 2,
+    "explanation": "State governments derive revenue from statutory allocation from the Federation Account and personal income tax. Petroleum tax is a federal revenue source, while fines from customary courts are generally local government revenue.",
+    "proTip": "State revenue: statutory allocation and personal income tax; petroleum tax is federal."
+  },
+  {
+    "id": "poa_1995_q48",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Capital Expenditure",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Eko Local Government Expenditure: Hospital building N200,000; Drugs N180,000; Hospital beds and Mattresses N40,000; Doctors' and nurses' Salaries N120,000; Administrative expenses N50,000. Capital expenditure is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N420,000",
+      "N380,000",
+      "N240,000",
+      "N200,000"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capital expenditure is expenditure on fixed assets. Hospital building N200,000 + hospital beds and mattresses N40,000 = N240,000. Drugs, salaries and administrative expenses are recurrent expenditure.",
+    "proTip": "Capital expenditure creates or improves fixed assets; recurrent expenditure is for day-to-day running."
+  },
+  {
+    "id": "poa_1995_q49",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Recurrent Expenditure",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Eko Local Government Expenditure: Hospital building N200,000; Drugs N180,000; Hospital beds and Mattresses N40,000; Doctors' and nurses' Salaries N120,000; Administrative expenses N50,000. Recurrent expenditure is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N390,000",
+      "N360,000",
+      "N350,000",
+      "N170,000"
+    ],
+    "correctIndex": 2,
+    "explanation": "Recurrent expenditure = Drugs N180,000 + Doctors' and nurses' salaries N120,000 + Administrative expenses N50,000 = N350,000. Hospital building and beds/mattresses are capital expenditure.",
+    "proTip": "Recurrent expenditure covers running costs; capital expenditure covers fixed assets."
+  },
+  {
+    "id": "poa_1995_q50",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Government Financial Control",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "A governmental accounting system must make sure that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "revenue exceeds expenditure",
+      "all applicable legal provisions are complied with",
+      "capital expenditure is equal to revenue",
+      "capital project fund is tied to recurrent expenditure."
+    ],
+    "correctIndex": 1,
+    "explanation": "Public sector accounting is governed by laws, regulations and legislative appropriations. The accounting system must ensure fiscal compliance, accountability and that all applicable legal provisions are followed.",
+    "proTip": "Government accounting emphasises legal compliance and accountability."
+  },
+  {
+    "id": "poa_1997_q1",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Purpose of Accounting",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The most important reason for studying accounting is that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the information provided by accounting is useful in making decisions",
+      "accounting plays an important role in a society",
+      "the study of accounting leads to a challenging career",
+      "accounting provides gross profit information."
+    ],
+    "correctIndex": 0,
+    "explanation": "Accounting exists mainly to provide financial information that helps owners, managers, investors, creditors and other users make informed economic decisions.",
+    "proTip": "Accounting is primarily an information system for decision-making."
+  },
+  {
+    "id": "poa_1997_q2",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Business Entity Concept",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "In preparing accounting records, the owners of a business and the business are treated as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the same person",
+      "having business relationship",
+      "separate legal entities",
+      "partners"
+    ],
+    "correctIndex": 2,
+    "explanation": "The business entity concept treats the business as separate from its owner. Transactions between the owner and the business are recorded as drawings or capital, not as ordinary personal transactions.",
+    "proTip": "Business entity concept: owner and business are separate for accounting purposes."
+  },
+  {
+    "id": "poa_1997_q3",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Users of Accounting Information",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Creditors use accounting information for the purpose of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "planning sales to a company",
+      "controlling a company's affairs",
+      "investing in a company",
+      "assessing a company liquidity."
+    ],
+    "correctIndex": 3,
+    "explanation": "Creditors are interested in whether a business can pay its debts when due. They therefore use accounting information to assess liquidity, profitability and financial stability.",
+    "proTip": "Creditors focus on liquidity and ability to repay."
+  },
+  {
+    "id": "poa_1997_q4",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Source Documents",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The instruments that are generated when firms enter into business transactions with others are called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "purchases documents",
+      "journals",
+      "source documents",
+      "invoices."
+    ],
+    "correctIndex": 2,
+    "explanation": "Source documents are the original written evidence of transactions, such as invoices, receipts, debit notes and credit notes. They support entries in the books of account.",
+    "proTip": "Source documents originate transactions; journals and ledgers record them."
+  },
+  {
+    "id": "poa_1997_q5",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Credit Note",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The document that is used to acknowledge the acceptance of the return of goods by the seller from the buyer is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "credit note",
+      "debit note",
+      "invoice",
+      "voucher."
+    ],
+    "correctIndex": 0,
+    "explanation": "A credit note is issued by a seller to reduce the amount owed by a customer, usually when goods are returned or an overcharge is corrected.",
+    "proTip": "Seller returns/reduces customer balance: credit note."
+  },
+  {
+    "id": "poa_1997_q6",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Effects of Transactions",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The effects of the payment of a liability is that it",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "increases both assets and liabilities",
+      "increases assets and decreases liabilities",
+      "decreases assets and increases liabilities",
+      "decrease both assets and liabilities."
+    ],
+    "correctIndex": 3,
+    "explanation": "Paying a liability reduces cash or bank (an asset decreases) and also reduces the amount owed to the creditor (a liability decreases).",
+    "proTip": "Pay a creditor: debit creditor, credit bank/cash; both liabilities and assets fall."
+  },
+  {
+    "id": "poa_1997_q7",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Books of Original Entry",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Books of original entry are used for",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "recording business transactions",
+      "the adjustment of accounts",
+      "reminding the bookkeeper to post transactions in the ledger",
+      "Informing about the state of affairs."
+    ],
+    "correctIndex": 0,
+    "explanation": "Books of original entry, such as the sales day book, purchases day book, cash book and general journal, first record transactions before they are posted to the ledger.",
+    "proTip": "Books of original entry record first; ledger classifies."
+  },
+  {
+    "id": "poa_1997_q8",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Posting to Ledger",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The term posting in accounting refers to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "recording entries in the journal",
+      "transferring the balances in the ledger to the trial balance",
+      "tracing amounts from the journal to the ledger to find errors",
+      "transferring entries to the ledger from the journal."
+    ],
+    "correctIndex": 3,
+    "explanation": "Posting is the process of transferring entries from books of original entry, such as journals and day books, into the relevant ledger accounts.",
+    "proTip": "Posting = journal/day book to ledger."
+  },
+  {
+    "id": "poa_1997_q9",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Errors and Their Correction",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Erroneous rearrangement of financial figures such as writing N624 as N264 is called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "transposition",
+      "principle",
+      "commission",
+      "omission"
+    ],
+    "correctIndex": 0,
+    "explanation": "A transposition error occurs when digits are rearranged or written in the wrong order, for example N624 written as N264. Such an error may not affect the trial balance total.",
+    "proTip": "Transposition = digits swapped; it often keeps trial balance balanced."
+  },
+  {
+    "id": "poa_1997_q11",
+    "subject": "Principles of Accounts",
+    "topic": "Cash Book",
+    "subTopic": "Imprest System",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Which of the following demonstrates the imprest system?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Float -> expenses paid -> cash in bank -> float.",
+      "Float -> cash from bank -> expenses paid -> float",
+      "Float -> expenses paid -> cash from bank -> float",
+      "Float -> cash in bank -> expenses paid -> float."
+    ],
+    "correctIndex": 2,
+    "explanation": "Under the imprest system, a fixed float is established, expenses are paid out of it, and the amount spent is reimbursed from the bank to restore the float to its original amount.",
+    "proTip": "Imprest cycle: establish float, spend, replenish, restore float."
+  },
+  {
+    "id": "poa_1997_q12",
+    "subject": "Principles of Accounts",
+    "topic": "Bank Transactions and Reconciliation Statements",
+    "subTopic": "Unpresented Cheques",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "When a sum of money appears on the credit side of the cash book but not on the debit side of the bank statement, the sum is regarded as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "uncredited cheques",
+      "dishonoured cheques",
+      "direct remittance to the bank",
+      "unpresented cheques."
+    ],
+    "correctIndex": 3,
+    "explanation": "A payment recorded on the credit side of the cash book but not yet debited by the bank is an unpresented cheque. The bank has not yet cleared the cheque.",
+    "proTip": "Cash book credit not yet bank statement debit = unpresented cheque."
+  },
+  {
+    "id": "poa_1997_q13",
+    "subject": "Principles of Accounts",
+    "topic": "Bank Transactions and Reconciliation Statements",
+    "subTopic": "Bank Reconciliation",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "An examination of the cash book on 3rd August 1993 showed a different balance from the bank statement of 31st July 1993 which read N722. Uncredited cheques were Bimpe N40 and Wale N60 while unpresented cheques were Usman N20, Kalu N32 and Musa N70. What is the cash book balance after the reconciliation?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N700",
+      "N770",
+      "N800.",
+      "N822."
+    ],
+    "correctIndex": 0,
+    "explanation": "Adjusted bank statement balance = Bank statement balance + uncredited cheques - unpresented cheques. Uncredited cheques = 40 + 60 = N100. Unpresented cheques = 20 + 32 + 70 = N122. Adjusted balance = 722 + 100 - 122 = N700.",
+    "proTip": "Reconcile from bank statement: add uncredited lodgements, deduct unpresented cheques."
+  },
+  {
+    "id": "poa_1997_q14",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Prepayments",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "On 30/05/93 Tolu & Co. paid 2 years rent of N50,000 which was debited to the rent account. At 31/12/93, what portion of that amount was prepaid?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N14,583",
+      "N25,000",
+      "N35,417",
+      "N37,415"
+    ],
+    "correctIndex": 2,
+    "explanation": "The rent covers 24 months from 30/05/93. By 31/12/93, about 7 months had expired, leaving 17 months prepaid. Prepaid rent = 50,000 x 17/24 = N35,416.67, approximately N35,417.",
+    "proTip": "Prepaid portion = total payment x unexpired months ÷ total months."
+  },
+  {
+    "id": "poa_1997_q15",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Adjustment for Prepayment",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The adjustment needed as at 31st December 1993 for rent paid in advance is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "debit rent account and credit adjustment account",
+      "debit prepayment account and credit rent account",
+      "debit rent account and credit prepayment account",
+      "debit adjustment account and credit prepayment account"
+    ],
+    "correctIndex": 1,
+    "explanation": "The prepaid portion is an asset, not an expense of the current year. Debit the prepayment account and credit the rent account to reduce the rent expense.",
+    "proTip": "Prepayment adjustment: debit prepayment asset, credit expense."
+  },
+  {
+    "id": "poa_1997_q16",
+    "subject": "Principles of Accounts",
+    "topic": "Cash Book",
+    "subTopic": "Trade and Cash Discount",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The receipt of cash from a customer who bought goods with N800 list price, 25% trade discount and 2/10, n/30 term would, if paid within discount period, amount to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N576",
+      "N588",
+      "N600",
+      "N624"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trade discount is deducted first: N800 - 25% = N600. Cash discount of 2% is then allowed for payment within 10 days: N600 - 2% = N600 - N12 = N588.",
+    "proTip": "Apply trade discount before cash discount."
+  },
+  {
+    "id": "poa_1997_q17",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Correction of Profit",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "At the end of a financial period, the trading profit and loss account of a company showed a profit of N120,000. It was however recorded that revenue of N12,000 was recovered as expenses while expenses of N4,000 had been recorded as revenue. What should be the correct profit for the period?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N104,000",
+      "N128,000",
+      "N136,000",
+      "N144,000"
+    ],
+    "correctIndex": 1,
+    "explanation": "Revenue wrongly treated as expense understated profit by N12,000, so add it back. Expenses wrongly treated as revenue overstated profit by N4,000, so subtract it. Correct profit = 120,000 + 12,000 - 4,000 = N128,000.",
+    "proTip": "Correct mispostings by reversing their effect on profit."
+  },
+  {
+    "id": "poa_1997_q19",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Balance Sheet Total",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Given capital, N13,000; office machinery, N9,000; creditors, N900; stock of goods, N1,550; debtors, N275; cash at bank, N5,075 and loan from Jumbo, N2,000. What is the balance sheet total?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N19,500",
+      "N18,500",
+      "N17,900",
+      "N15,900"
+    ],
+    "correctIndex": 3,
+    "explanation": "Total assets = office machinery 9,000 + stock 1,550 + debtors 275 + bank 5,075 = N15,900. Total liabilities and capital = creditors 900 + loan 2,000 + capital 13,000 = N15,900.",
+    "proTip": "Balance sheet total = total assets = capital + liabilities."
+  },
+  {
+    "id": "poa_1997_q20",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Accrued Expenses",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The recording of wages due but not yet paid is an example of an adjustment for",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "apportionment of revenue between two periods",
+      "recognizing accrued expenses",
+      "recognizing unaccounted revenue",
+      "recognizing prepaid expenses."
+    ],
+    "correctIndex": 1,
+    "explanation": "Wages due but unpaid are expenses incurred in the current period but not yet paid. They are accrued expenses and must be added to the wages expense and shown as a liability.",
+    "proTip": "Due but unpaid expense = accrued expense = current liability."
+  },
+  {
+    "id": "poa_1997_q21",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Amortization",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The process of allocating the cost of an intangible asset over its useful life is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "depreciation",
+      "extraction",
+      "depletion",
+      "amortization"
+    ],
+    "correctIndex": 3,
+    "explanation": "Amortization is the systematic allocation of the cost of an intangible asset, such as goodwill, patent or copyright, over its useful life.",
+    "proTip": "Intangible asset cost allocation = amortization."
+  },
+  {
+    "id": "poa_1997_q22",
+    "subject": "Principles of Accounts",
+    "topic": "Control Accounts and Self Balancing Ledger",
+    "subTopic": "Purpose of Control Accounts",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The principal use of control accounts is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "localize errors within the ledgers",
+      "prevent fraud",
+      "increase sales",
+      "record assets and liabilities"
+    ],
+    "correctIndex": 0,
+    "explanation": "Control accounts summarize a ledger and help localize errors to the particular ledger. They also help check the arithmetical accuracy of postings.",
+    "proTip": "Control accounts localize errors; they do not guarantee fraud prevention."
+  },
+  {
+    "id": "poa_1997_q23",
+    "subject": "Principles of Accounts",
+    "topic": "Incomplete Records and Single Entry",
+    "subTopic": "Missing Sales Figure",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "In the absence of a sales day book or sales account, the credit for sales can be computed from",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "creditors control account",
+      "debtors control account",
+      "opening figures of the balance sheet",
+      "closing figures of the balance sheet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Credit sales can be derived from the debtors control account using opening debtors, cash received, discounts allowed, returns inwards, bad debts and closing debtors.",
+    "proTip": "Missing credit sales: use debtors control account."
+  },
+  {
+    "id": "poa_1997_q24",
+    "subject": "Principles of Accounts",
+    "topic": "Control Accounts and Self Balancing Ledger",
+    "subTopic": "Discount Allowed",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Which of the following conditions best represents the net effect of discount allowed on credit sales on the account of a business?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Decrease in the closing balance of sales ledger control account",
+      "increase in net profit",
+      "increase in the values of sales.",
+      "decrease in the value of purchases in the trading account."
+    ],
+    "correctIndex": 0,
+    "explanation": "Discount allowed reduces the amount owed by debtors. It is credited to the debtors/sales ledger control account, thereby decreasing its closing debit balance. It also reduces profit as an expense.",
+    "proTip": "Discount allowed: debit discount allowed, credit debtors control."
+  },
+  {
+    "id": "poa_1997_q25",
+    "subject": "Principles of Accounts",
+    "topic": "Control Accounts and Self Balancing Ledger",
+    "subTopic": "Purchases Ledger Control Account",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The total of the creditors at the beginning of the year was N4,600 and at the end of the year N5,250. During the year, N26,500 was paid to suppliers and N130 was received in discounts from these suppliers. The purchases for the year would be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N26,630",
+      "N27,038",
+      "N27,150",
+      "N27,280"
+    ],
+    "correctIndex": 3,
+    "explanation": "Using purchases ledger control: Closing creditors = Opening creditors + Purchases - Payments - Discount received. Purchases = Closing creditors - Opening creditors + Payments + Discount received = 5,250 - 4,600 + 26,500 + 130 = N27,280.",
+    "proTip": "Purchases are the balancing figure in the creditors control account."
+  },
+  {
+    "id": "poa_1997_q27",
+    "subject": "Principles of Accounts",
+    "topic": "Incomplete Records and Single Entry",
+    "subTopic": "Investigation Under Incomplete Records",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "In analyzing incomplete records, which of the following should be investigated?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "The general ledger.",
+      "The purchases daybook and sales day book",
+      "The nature trading activities and the basis on which goods are sold.",
+      "The asset register together with the depreciation schedule"
+    ],
+    "correctIndex": 2,
+    "explanation": "In incomplete records, the accountant must understand the nature of the business, its trading activities and the basis of pricing and sales in order to reconstruct missing figures reliably.",
+    "proTip": "Incomplete records reconstruction starts with understanding the business."
+  },
+  {
+    "id": "poa_1997_q28",
+    "subject": "Principles of Accounts",
+    "topic": "Stock Valuation",
+    "subTopic": "LIFO Under Inflation",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Which of the following stock valuation methods is suitable under inflationary conditions?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "FIFO",
+      "LIFO",
+      "Simple average",
+      "Weighed average"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under inflation, LIFO charges the most recent higher costs to cost of sales. This gives a more current matching of costs with revenue and reduces reported profit and tax.",
+    "proTip": "Rising prices: LIFO matches current costs and reduces profit."
+  },
+  {
+    "id": "poa_1997_q29",
+    "subject": "Principles of Accounts",
+    "topic": "Manufacturing Accounts",
+    "subTopic": "Prime Cost",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Given: Direct material N10,000; Direct labour N5,000; Direct expenses N2,000; Factory overhead N4,000. What is the prime cost?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N21,000",
+      "N17,000",
+      "N15,000",
+      "N6,000"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prime cost = direct materials + direct labour + direct expenses = 10,000 + 5,000 + 2,000 = N17,000. Factory overhead is excluded from prime cost.",
+    "proTip": "Prime cost excludes factory overhead."
+  },
+  {
+    "id": "poa_1997_q30",
+    "subject": "Principles of Accounts",
+    "topic": "Manufacturing Accounts",
+    "subTopic": "Work in Progress",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The understatement of closing value of work-in-process would have the effect of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "understating cost of goods manufactured",
+      "overstating prime cost of goods manufactured",
+      "overstating cost of goods manufactured",
+      "understating prime cost of goods manufactured."
+    ],
+    "correctIndex": 2,
+    "explanation": "Cost of goods manufactured = prime cost + factory overhead + opening work-in-process - closing work-in-process. If closing work-in-process is understated, less is deducted, so cost of goods manufactured is overstated.",
+    "proTip": "Understated closing WIP overstates cost of goods manufactured."
+  },
+  {
+    "id": "poa_1997_q32",
+    "subject": "Principles of Accounts",
+    "topic": "Manufacturing Accounts",
+    "subTopic": "Manufacturing vs Trading Account",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The difference between a trading account and a manufacturing account is that while the manufacturing account",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "has no particular period, the trading account has",
+      "does not consider the cost of goods involved, the trading account does",
+      "is concerned with the cost of production, the trading account is not",
+      "is not concerned with the stock of raw materials, the trading account is."
+    ],
+    "correctIndex": 2,
+    "explanation": "A manufacturing account is prepared to ascertain the cost of production of finished goods. A trading account is prepared to ascertain gross profit from buying and selling goods.",
+    "proTip": "Manufacturing account = production cost; trading account = gross profit."
+  },
+  {
+    "id": "poa_1997_q33",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Income and Expenditure Account",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "An income and expenditure account is a summary of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "all income and expenditure during a period",
+      "revenue income and expenditure during a period",
+      "receipts and payment during a period",
+      "the trading income during a period"
+    ],
+    "correctIndex": 1,
+    "explanation": "The income and expenditure account summarizes revenue income and revenue expenditure on an accrual basis. It excludes capital receipts and payments and mere cash movements.",
+    "proTip": "Income and expenditure account uses revenue items, not all receipts and payments."
+  },
+  {
+    "id": "poa_1997_q34",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Subscription Income",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Gbagada Social Club receipts and payments for 1993 include subscriptions received N14,300. Additional information: subscriptions in arrears at 1/1/93 N300; subscriptions in arrears at 31/12/93 N450; subscriptions received in advance at 1/1/93 N500; subscriptions received in advance at 31/12/93 N400. Subscription relating to the accounting year 1993 in the income and expenditure account is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N15,050",
+      "N14,550",
+      "N14,300",
+      "N13,400"
+    ],
+    "correctIndex": 1,
+    "explanation": "Subscription income for 1993 = cash received + opening advance - closing advance - opening arrears + closing arrears = 14,300 + 500 - 400 - 300 + 450 = N14,550.",
+    "proTip": "Subscription for year = cash received ± opening/closing arrears and advances."
+  },
+  {
+    "id": "poa_1997_q35",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Accumulated Fund",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Gbagada Social Club had on 1 January 1993: cash balance N720; subscriptions in arrears N300; subscriptions in advance N500; furniture N7,000. The accumulated fund on 1 January 1993 is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N8,570",
+      "N8,470",
+      "N7,850",
+      "N7,520"
+    ],
+    "correctIndex": 3,
+    "explanation": "Accumulated fund is the club's opening capital. Using the opening assets and the subscription advance liability: N720 cash + N7,000 furniture + N300 subscription arrears - N500 subscription in advance = N7,520.",
+    "proTip": "Accumulated fund = opening assets less opening liabilities."
+  },
+  {
+    "id": "poa_1997_q36",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Profit Sharing and Interest on Capital",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Adamu, Babaji and Chukwu are in partnership and share profits and losses in the ratio 3:2:1. Their respective capitals are N20,000, N15,000 and N5,000 on which they are entitled to interest at 5% per annum. The profit for the year before charging interest on capital amounted to N5,500. Calculate the profit for Adamu.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N583",
+      "N1,000",
+      "N1,167",
+      "N1,750"
+    ],
+    "correctIndex": 3,
+    "explanation": "Total interest on capital = 5% x (20,000 + 15,000 + 5,000) = 5% x 40,000 = N2,000. Residual profit = 5,500 - 2,000 = N3,500. Adamu's share = 3/6 x 3,500 = N1,750.",
+    "proTip": "Deduct total interest on capital before sharing residual profit."
+  },
+  {
+    "id": "poa_1997_q37",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Partners' Current Accounts",
+    "year": "1997",
+    "difficulty": "Scholar",
+    "question": "Partners' current account data (with errors in arrangement): Musa has interest on capital N1,000, share of profit N26,200, drawings N8,800 and opening balance b/d debit N1,800. The correct closing balance for Musa's current account is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N36,200 credit",
+      "N16,600 credit",
+      "N16,600 debit",
+      "N1,800 credit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Credit entries: interest on capital N1,000 + share of profit N26,200 = N27,200. Debit entries: drawings N8,800 + opening debit balance N1,800 = N10,600. Closing balance = 27,200 - 10,600 = N16,600 credit.",
+    "proTip": "Current account: credit profit share/interest; debit drawings and debit opening balance."
+  },
+  {
+    "id": "poa_1997_q38",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Partners' Current Accounts",
+    "year": "1997",
+    "difficulty": "Scholar",
+    "question": "Partners' current account data (with errors in arrangement): Lawal has interest on capital N8,000, share of profit N13,100, drawings N6,000 and interest on drawings N360. The correct closing balance of Lawal's current account is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N21,100 debit",
+      "N14,740 debit",
+      "N14,740 credit",
+      "N540 credit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Credit entries: interest on capital N8,000 + share of profit N13,100 = N21,100. Debit entries: drawings N6,000 + interest on drawings N360 = N6,360. Closing balance = 21,100 - 6,360 = N14,740 credit.",
+    "proTip": "Interest on drawings reduces the partner's current account credit balance."
+  },
+  {
+    "id": "poa_1997_q39",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Distribution of Loss",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Faruk and Osawe are in partnership sharing profits and losses in the ratio of 3:7. Faruk is to receive a salary of N9,000. In one accounting period, the business recorded a loss of N1,500 before deduction of Faruk's salary. The appropriate distribution of the net loss would be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Faruk N450; Osawe N1,050",
+      "Faruk N3,150; Osawe N7,350",
+      "Faruk N2,250; Osawe N5,250",
+      "Faruk N8,550; Osawe N1,050"
+    ],
+    "correctIndex": 1,
+    "explanation": "Net loss after charging Faruk's salary = 1,500 + 9,000 = N10,500. Share Faruk = 3/10 x 10,500 = N3,150; Osawe = 7/10 x 10,500 = N7,350.",
+    "proTip": "Salary is charged first; then share the resulting loss in the agreed ratio."
+  },
+  {
+    "id": "poa_1997_q40",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Dissolution and Insolvency",
+    "year": "1997",
+    "difficulty": "Scholar",
+    "question": "On partnership dissolution, if partner's capital account has a debit balance and the partner is insolvent, the deficiency will in accordance with the decision of the case of Garner v Murray be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Borne by all the partners",
+      "Borne by the insolvent partner",
+      "Written off",
+      "Borne by the solvent partners"
+    ],
+    "correctIndex": 3,
+    "explanation": "Garner v Murray establishes that where a partner is insolvent and unable to make good a debit balance on capital, the deficiency is borne by the solvent partners.",
+    "proTip": "Garner v Murray: insolvent partner's deficiency borne by solvent partners."
+  },
+  {
+    "id": "poa_1997_q41",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Share Premium",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Share premium can be used to: i. Write off discount on shares; ii. Give loans to directors; iii. Pay dividends; iv. Pay company's formation expenses.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "i and iv only",
+      "i and iii",
+      "ii and iii only",
+      "iii and iv only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Share premium may be used for specified purposes such as writing off preliminary/formation expenses and discount on shares. It cannot be used to pay dividends or give loans to directors.",
+    "proTip": "Share premium is capital reserve; not for dividends or directors' loans."
+  },
+  {
+    "id": "poa_1997_q42",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Debenture Interest",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "A company has 5% debentures worth N500,000, ordinary capital N2,000,000, and preference shares N1,500,000. If the company made a profit of N1,000,000, the debenture interest would amount to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N1,000,000",
+      "N500,000",
+      "N50,000",
+      "N25,000"
+    ],
+    "correctIndex": 3,
+    "explanation": "Debenture interest = 5% x N500,000 = N25,000. It is a finance cost and does not depend on the profit figure.",
+    "proTip": "Debenture interest = rate x debenture value."
+  },
+  {
+    "id": "poa_1997_q43",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Share Premium",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Alabede (Nig.) Limited issued 50,000 ordinary shares of N1 each at market value of N2.50 each. The share premium is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N125,000",
+      "N100,000",
+      "N75,000",
+      "N50,000"
+    ],
+    "correctIndex": 2,
+    "explanation": "Share premium per share = issue price - nominal value = N2.50 - N1.00 = N1.50. Total share premium = 50,000 x N1.50 = N75,000.",
+    "proTip": "Share premium = (issue price - nominal value) x number of shares."
+  },
+  {
+    "id": "poa_1997_q45",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Working Capital",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Udoh Trading Company balance sheet as at 31st December 1992: Capital N39,000; Loan term N15,000; Creditors N9,000; Accrued wages N5,000; Land N20,000; Building N30,000; Stock N4,000; Cash N8,000; Debtors N6,000. What is the working capital?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N12,000",
+      "N11,000",
+      "N8,000",
+      "N4,000"
+    ],
+    "correctIndex": 3,
+    "explanation": "Current assets = stock 4,000 + cash 8,000 + debtors 6,000 = N18,000. Current liabilities = creditors 9,000 + accrued wages 5,000 = N14,000. Working capital = 18,000 - 14,000 = N4,000.",
+    "proTip": "Working capital = current assets - current liabilities."
+  },
+  {
+    "id": "poa_1997_q46",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Acid Test Ratio",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Udoh Trading Company balance sheet as at 31st December 1992: Stock N4,000; Cash N8,000; Debtors N6,000; Creditors N9,000; Accrued wages N5,000. The acid test ratio is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "1:1",
+      "1:2",
+      "2:3",
+      "3:2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quick assets = cash 8,000 + debtors 6,000 = N14,000. Current liabilities = creditors 9,000 + accrued wages 5,000 = N14,000. Acid test ratio = 14,000:14,000 = 1:1.",
+    "proTip": "Acid test ratio excludes stock from current assets."
+  },
+  {
+    "id": "poa_1997_q47",
+    "subject": "Principles of Accounts",
+    "topic": "Branch Accounts",
+    "subTopic": "Cash Remitted to Head Office",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "If goods are invoiced to the branch at cost and the invoice par value is N2,000 with 5% discount rate, cash remitted to the head office is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N2,100",
+      "N2,000",
+      "N1,900",
+      "N100"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cash remitted = invoice value - 5% discount = 2,000 - (5% x 2,000) = 2,000 - 100 = N1,900.",
+    "proTip": "Discount reduces the amount remitted."
+  },
+  {
+    "id": "poa_1997_q48",
+    "subject": "Principles of Accounts",
+    "topic": "Departmental Accounts",
+    "subTopic": "Advantages of Departmental Accounts",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Which of the following are advantages of departmental accounts? (i) The department making the highest profit can be easily determined (ii) The capital of the business can be calculated easily (iii) Easy knowledge of the sources of funding (iv) Encouragement of healthy rivalry among the various departments.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "i and iv only",
+      "ii and iii only",
+      "ii and iv only",
+      "iii and iv only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Departmental accounts help determine each department's profit or loss and encourage healthy rivalry. They are not primarily used to calculate capital or identify sources of funding.",
+    "proTip": "Departmental accounts focus on departmental performance and comparison."
+  },
+  {
+    "id": "poa_1997_q49",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Basis of Public Sector Accounting",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Public sector accounting is based on",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cash",
+      "accrual",
+      "budgets",
+      "consolidated fund."
+    ],
+    "correctIndex": 0,
+    "explanation": "Traditional public sector accounting in Nigeria is based on the cash basis, where revenue and expenditure are recognised when cash is received or paid.",
+    "proTip": "Government accounting is traditionally cash-based."
+  },
+  {
+    "id": "poa_1997_q50",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Government Financial Reporting",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The end result of governmental accounting procedure is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "keep proper records of government expenditures",
+      "give financial information to the public and investors",
+      "produce timely and accurate financial reports for legislators and the public",
+      "give information on the performance of public enterprises"
+    ],
+    "correctIndex": 2,
+    "explanation": "Government accounting culminates in timely and accurate financial reports that support legislative oversight, accountability and public information.",
+    "proTip": "Public sector accounting ends in accountability reports for legislature and public."
+  },
+  {
+    "id": "poa_1998_q1",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Professional Bodies",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The Act establishing the Institute of Chartered Accountants of Nigeria (ICAN) came into force on",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "1st September, 1960",
+      "1st October, 1960",
+      "1st October, 1963",
+      "1st September, 1965"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Institute of Chartered Accountants of Nigeria (ICAN) was established by Act of Parliament No. 15 of 1965, which came into force on 1st September, 1965.",
+    "proTip": "ICAN was established in 1965; remember the year and date."
+  },
+  {
+    "id": "poa_1998_q2",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Cost Reports for Management",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "Cost reports for attention of management should reflect",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "as much details as possible",
+      "summary figures only",
+      "details of non-controllable expenses",
+      "cost and comparable data useful in decision making"
+    ],
+    "correctIndex": 3,
+    "explanation": "Management cost reports should be relevant, concise and provide cost and comparable data that aid planning, control and decision-making. Excessive detail or only summary figures may not be useful.",
+    "proTip": "Management reports should be decision-useful, not overly detailed."
+  },
+  {
+    "id": "poa_1998_q3",
+    "subject": "Principles of Accounts",
+    "topic": "Nature and Significance of Book Keeping and Accounting",
+    "subTopic": "Responsibility Accounting",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "Responsibility accounting is particularly concerned with",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "historical accounting",
+      "controllable costs",
+      "storekeeping",
+      "valuation of stocks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Responsibility accounting assigns costs and revenues to managers who are accountable for them. It focuses on controllable costs, which managers can influence.",
+    "proTip": "Responsibility accounting = controllable costs and accountability."
+  },
+  {
+    "id": "poa_1998_q4",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Voucher System",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "An advantage of the use of the voucher system is that it",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "reduces the number of cheques that will be written during any given period",
+      "provides a highly flexible system for handling unusual transactions",
+      "provides a comprehensive record of business done with particular suppliers",
+      "ensures that every expenditure is reviewed and verified before payment is made"
+    ],
+    "correctIndex": 3,
+    "explanation": "A voucher system requires supporting documents and authorization before payment. It therefore ensures that every expenditure is reviewed and verified before payment.",
+    "proTip": "Voucher system = pre-payment review and verification."
+  },
+  {
+    "id": "poa_1998_q5",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Business Transactions",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "A business transaction is recorded in the books of accounts when the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "owner of the business invests his N10,000 in another company",
+      "business retains part of its profits for future expansion purposes",
+      "business applies for overdraft facilities from its bankers",
+      "owner of the business collects N5,000 from the accountant"
+    ],
+    "correctIndex": 3,
+    "explanation": "A business transaction involves an exchange that affects the financial position of the business. When the owner collects N5,000 from the business accountant, it is a withdrawal (drawings) and must be recorded. The other options are personal, internal appropriations or mere applications, not completed transactions.",
+    "proTip": "Record only transactions that affect the business entity's financial position."
+  },
+  {
+    "id": "poa_1998_q6",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Effects of Transactions",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "When a transaction causes an asset account to increase, there is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "a decrease of equal amount in the owner's equity account",
+      "an increase in a liability account",
+      "an increase of equal amount in another asset account",
+      "a decrease of equal amount in a liability account"
+    ],
+    "correctIndex": 1,
+    "explanation": "An increase in an asset is a debit. The corresponding credit may be an increase in a liability (e.g., purchase of an asset on credit), an increase in capital, or a decrease in another asset. Option B correctly identifies a possible increase in a liability account.",
+    "proTip": "Asset increase (debit) can be matched by liability increase (credit)."
+  },
+  {
+    "id": "poa_1998_q7",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Trial Balance",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Given: Bank account N59,410; Capital account N50,000; Purchases account N20,000; Rent N2,500; Stationery N90; Typewriter N6,500; Sales N38,000. In preparing a trial balance from the list of balances given above, what is the total in debit and credit columns?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N147,910",
+      "N138,500",
+      "N88,500",
+      "N88,500"
+    ],
+    "correctIndex": 2,
+    "explanation": "Debit balances: Bank 59,410 + Purchases 20,000 + Rent 2,500 + Stationery 90 + Typewriter 6,500 = N88,500. Credit balances: Capital 50,000 + Sales 38,000 = N88,500. The trial balance total is N88,500.",
+    "proTip": "Trial balance total = total debits = total credits."
+  },
+  {
+    "id": "poa_1998_q8",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Classification of Expenditure",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The purchase of two generators by Hassan Electronics Enterprises should be recorded as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "an acquisition of fixed assets",
+      "an expense in its general office expenses column",
+      "an acquisition of stock",
+      "a part of capital in the capital account"
+    ],
+    "correctIndex": 0,
+    "explanation": "Generators are items of property, plant and equipment used in the business, not goods for resale. They are therefore recorded as fixed assets.",
+    "proTip": "Items used long-term in the business are fixed assets, not expenses or stock."
+  },
+  {
+    "id": "poa_1998_q9",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Effects of Stock Valuation Errors",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "If the inventory at the end of the current year is understated and the error is not caught during the following year, the effect is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "understate income this year and understate in next year",
+      "overstate income this year and overstate in next year",
+      "understate this year's income with no effect on next year's",
+      "overstate the income for the two-year period"
+    ],
+    "correctIndex": 0,
+    "explanation": "Understating closing inventory overstates cost of goods sold and understates current year's profit. If not corrected, the next year's opening inventory is also understated, which understates cost of goods sold and overstates next year's profit. However, option A is the intended JAMB answer as the only option indicating understatement in the current year. Note the accounting nuance: the next year is actually overstated, not understated.",
+    "proTip": "Understated closing stock understates current profit; next year's opening stock is understated, affecting next year's profit."
+  },
+  {
+    "id": "poa_1998_q10",
+    "subject": "Principles of Accounts",
+    "topic": "Cash Book",
+    "subTopic": "Discounts Received",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The total of the discounts received column in the cash book is posted to the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "credit of the discounts received account",
+      "debit of the discounts allowed account",
+      "credit of the discounts allowed account",
+      "debit of the discounts received account"
+    ],
+    "correctIndex": 0,
+    "explanation": "Discount received is an income to the business. The total of the discounts received column is credited to the discount received account.",
+    "proTip": "Discount received = credit; discount allowed = debit."
+  },
+  {
+    "id": "poa_1998_q11",
+    "subject": "Principles of Accounts",
+    "topic": "Cash Book",
+    "subTopic": "Petty Cash Book",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "The initial imprest as at July 1st was N500. Petty cash vouchers with the custodian by July 15th added up to N394. An IOU slip received from a co-worker was N65 and there was a shortage of N5 cash. What was the actual cash in the till as at 15th July?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N106",
+      "N101",
+      "N70",
+      "N36"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cash in till = Imprest - vouchers - IOU - shortage = 500 - 394 - 65 - 5 = N36.",
+    "proTip": "Cash in petty cash till = imprest less payments and non-cash vouchers/IOUs and shortages."
+  },
+  {
+    "id": "poa_1998_q12",
+    "subject": "Principles of Accounts",
+    "topic": "Cash Book",
+    "subTopic": "Imprest System",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "The amount required to replenish the payments made from the imprest was",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N399",
+      "N394",
+      "N358",
+      "N101"
+    ],
+    "correctIndex": 0,
+    "explanation": "Replenishment restores the imprest to N500. Cash in till was N36 before the IOU refund. After the N65 refund, cash becomes N101. Amount needed = 500 - 101 = N399. Alternatively, expenses paid = vouchers N394 + shortage N5 = N399.",
+    "proTip": "Imprest reimbursement = amount spent from the float."
+  },
+  {
+    "id": "poa_1998_q13",
+    "subject": "Principles of Accounts",
+    "topic": "Bank Transactions and Reconciliation Statements",
+    "subTopic": "Bank Reconciliation Adjustments",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "State Bank collected a note for Al-Makura Company. This collection, not yet recorded in Al-Makura's books, appears on the bank reconciliation as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "an addition to balance per books",
+      "a deduction from balance per bank statement",
+      "an addition to balance per bank statement",
+      "a deduction from balance per books"
+    ],
+    "correctIndex": 0,
+    "explanation": "A direct collection by the bank increases the bank statement balance but is not yet in the cash book. It is therefore added to the cash book (balance per books) during reconciliation.",
+    "proTip": "Items credited by bank but not in cash book are added to cash book balance."
+  },
+  {
+    "id": "poa_1998_q14",
+    "subject": "Principles of Accounts",
+    "topic": "Principles of Double Entry",
+    "subTopic": "Special Journals",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "Mayana Corporation uses special journals to record its transactions. If one of Mayana's customers returns merchandise purchased with cash (for a refund), it makes an entry in the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cash receipts journal",
+      "sales journal",
+      "general journal",
+      "cash disbursement journal"
+    ],
+    "correctIndex": 3,
+    "explanation": "A cash refund to a customer is a cash payment. All cash payments are recorded in the cash disbursement journal.",
+    "proTip": "Cash refunds and payments go to cash disbursement journal."
+  },
+  {
+    "id": "poa_1998_q15",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Gross Profit and Inventory",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "A pottery company had sales of N176,000 during the current period and a gross profit rate of 40%. The company's cost of merchandise available for sale during the period was N128,000. The company's ending inventory is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N22,400",
+      "N32,000",
+      "N51,200",
+      "N76,800"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gross profit = 40% x 176,000 = N70,400. Cost of goods sold = Sales - Gross profit = 176,000 - 70,400 = N105,600. Ending inventory = Cost of goods available for sale - Cost of goods sold = 128,000 - 105,600 = N22,400.",
+    "proTip": "Ending inventory = goods available for sale - cost of goods sold."
+  },
+  {
+    "id": "poa_1998_q16",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Balance Sheet Total",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Wazobia Enterprises balance sheet as at 1/1/95: Capital N40,000; Furnishing N10,000; Ceiling fan N1,500; Cash in hand N28,500. Additional information at 31/1/95: Rent shop N12,000 paid for the year; Total purchases N15,000; Total sales N8,200; Stock of goods left N10,000; Paid sales boy N500. What is the new balance sheet total as at 31/1/95?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N40,000",
+      "N41,500",
+      "N41,700",
+      "N48,500"
+    ],
+    "correctIndex": 2,
+    "explanation": "Profit for January: Sales 8,200 - Cost of goods sold (15,000 - 10,000 = 5,000) = Gross profit 3,200. Expenses: rent for one month (12,000/12 = 1,000) + sales boy 500 = 1,500. Net profit = 1,700. New capital = 40,000 + 1,700 = 41,700. Assets: cash = 28,500 + 8,200 - 15,000 - 12,000 - 500 = 9,200; prepaid rent 11,000; stock 10,000; furnishing 10,000; ceiling fan 1,500. Total assets = 41,700.",
+    "proTip": "Balance sheet total = capital + liabilities = total assets after adjusting for profit and prepayments."
+  },
+  {
+    "id": "poa_1998_q17",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Cash Account Balance",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Wazobia Enterprises balance sheet as at 1/1/95: Cash in hand N28,500. Additional information at 31/1/95: Rent shop N12,000 paid for the year; Total purchases N15,000; Total sales N8,200; Paid sales boy N500. What is the balance on its cash account as at 31/1/95?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N22,800",
+      "N21,200",
+      "N9,200",
+      "N800"
+    ],
+    "correctIndex": 2,
+    "explanation": "Closing cash = Opening cash 28,500 + Sales 8,200 - Purchases 15,000 - Rent paid 12,000 - Sales boy 500 = N9,200.",
+    "proTip": "Cash balance = opening cash + receipts - payments."
+  },
+  {
+    "id": "poa_1998_q18",
+    "subject": "Principles of Accounts",
+    "topic": "Final Accounts of a Sole Trader",
+    "subTopic": "Depreciation and Disposal",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "On 1st January, 1993, Lobo Company purchased equipment for N18,000. It uses straight-line depreciation and estimates an eight-year useful life and a N2,000 salvage value. On 31st December, 1996, it sells the equipment for N8,000. In recording this sale, it should reflect",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N10,000 loss",
+      "N2,000 loss",
+      "N6,000 gain",
+      "N8,000 gain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Annual depreciation = (18,000 - 2,000)/8 = N2,000. Accumulated depreciation for 4 years (1993-1996) = N8,000. Book value = 18,000 - 8,000 = N10,000. Sale proceeds = N8,000. Loss on disposal = 10,000 - 8,000 = N2,000.",
+    "proTip": "Loss/gain on disposal = sale proceeds - book value."
+  },
+  {
+    "id": "poa_1998_q19",
+    "subject": "Principles of Accounts",
+    "topic": "Control Accounts and Self Balancing Ledger",
+    "subTopic": "Purchases Ledger Control Account",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The balance on a purchases ledger control account represents the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "present amount that a business owes its suppliers at date",
+      "total credit available to the business at the end of the year to be utilized in future",
+      "total credit the business enjoyed for the particular year from its suppliers",
+      "total credit owed the business by its customers"
+    ],
+    "correctIndex": 0,
+    "explanation": "The purchases ledger control account balance shows the total amount owed to suppliers (creditors) at a given date.",
+    "proTip": "Purchases ledger control = creditors; balance = amount owed to suppliers."
+  },
+  {
+    "id": "poa_1998_q20",
+    "subject": "Principles of Accounts",
+    "topic": "Control Accounts and Self Balancing Ledger",
+    "subTopic": "Control Over Sales Ledger",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "A powerful instrument of control over both the sales ledger and the clerk whose duty is to post the ledger is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "total debtors account",
+      "purchases day book",
+      "sales daybook",
+      "cash book"
+    ],
+    "correctIndex": 0,
+    "explanation": "The total debtors account (sales ledger control account) independently summarizes the sales ledger. It helps check the accuracy of postings by the ledger clerk and localizes errors.",
+    "proTip": "Sales ledger control = total debtors account, a control over postings."
+  },
+  {
+    "id": "poa_1998_q21",
+    "subject": "Principles of Accounts",
+    "topic": "Control Accounts and Self Balancing Ledger",
+    "subTopic": "Sales Ledger Control Account",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Mini Enterprises sales ledger as at 31/12/94: Balance b/f N12,750; Total credit sales N28,185; Payments by debtors N12,112; Discount allowed N638; Sales returns N1,500. Determine the balance due from debtors.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N40,935",
+      "N27,961",
+      "N26,685",
+      "N1,185"
+    ],
+    "correctIndex": 2,
+    "explanation": "Debit side: Opening balance 12,750 + Credit sales 28,185 = 40,935. Credit side: Payments 12,112 + Discount allowed 638 + Sales returns 1,500 = 14,250. Closing balance = 40,935 - 14,250 = N26,685.",
+    "proTip": "Sales ledger control closing balance = opening debtors + credit sales - receipts - discounts - returns."
+  },
+  {
+    "id": "poa_1998_q22",
+    "subject": "Principles of Accounts",
+    "topic": "Control Accounts and Self Balancing Ledger",
+    "subTopic": "Purchases Ledger Control Account",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Determine the year's purchases from the following information relating to a firm: Total creditors b/f N7,200; Total cash payments to suppliers N98,800; Total creditors c/f N8,400.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N7,200",
+      "N98,800",
+      "N100,000",
+      "N105,200"
+    ],
+    "correctIndex": 2,
+    "explanation": "Purchases = Closing creditors - Opening creditors + Payments = 8,400 - 7,200 + 98,800 = N100,000.",
+    "proTip": "Purchases = closing creditors - opening creditors + cash paid."
+  },
+  {
+    "id": "poa_1998_q23",
+    "subject": "Principles of Accounts",
+    "topic": "Incomplete Records and Single Entry",
+    "subTopic": "Deriving Sales Figure",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Derive the total sales figure from the following: Total debtors b/f N5,600; Total cash receipts from debtors and cash sales N153,000; Total debtors c/f N6,800.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N6,800",
+      "N153,000",
+      "N154,200",
+      "N159,800"
+    ],
+    "correctIndex": 2,
+    "explanation": "Let cash sales = C and credit sales = S. Receipts from debtors = 5,600 + S - 6,800 = S - 1,200. Total receipts = C + (S - 1,200) = 153,000. Therefore C + S = 154,200. Total sales = N154,200.",
+    "proTip": "Total sales = total cash receipts + increase in debtors (or - decrease)."
+  },
+  {
+    "id": "poa_1998_q24",
+    "subject": "Principles of Accounts",
+    "topic": "Incomplete Records and Single Entry",
+    "subTopic": "Statement of Affairs",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The statement of affairs prepared from incomplete records can be described as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the summary of all the business transactions of the trader ascertained by the accountant",
+      "a balance sheet at a particular date showing the assets and liabilities of the business",
+      "a schedule of all the business ventures entered into for the period to which the records relate",
+      "the statement that shows the profit or loss made during the period"
+    ],
+    "correctIndex": 1,
+    "explanation": "A statement of affairs is a balance sheet prepared from incomplete records to show assets, liabilities and capital at a particular date.",
+    "proTip": "Statement of affairs = balance sheet from incomplete records."
+  },
+  {
+    "id": "poa_1998_q25",
+    "subject": "Principles of Accounts",
+    "topic": "Manufacturing Accounts",
+    "subTopic": "Contribution Margin",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The contribution margin on a job is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "gross profit",
+      "net profit",
+      "excess of sales revenue over variable costs",
+      "difference between fixed and variable costs"
+    ],
+    "correctIndex": 2,
+    "explanation": "Contribution margin = Sales revenue - Variable costs. It contributes towards covering fixed costs and generating profit.",
+    "proTip": "Contribution = sales - variable costs."
+  },
+  {
+    "id": "poa_1998_q26",
+    "subject": "Principles of Accounts",
+    "topic": "Manufacturing Accounts",
+    "subTopic": "Cost Allocation",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The objective of allocating all costs to product is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "produce a scientifically accurate cost",
+      "avoid unallocated overhead and compute total product cost",
+      "co-ordinate the cost and financial accounts",
+      "compute the contribution of the product to the final profit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cost allocation ensures that all overheads are absorbed by products so that the total product cost can be determined. It avoids unallocated overhead.",
+    "proTip": "Allocate all costs to obtain full product cost."
+  },
+  {
+    "id": "poa_1998_q27",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Features of Non-Profit Organizations",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "A non-profit-making organization differs from a profit making one in that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "it does not earn income",
+      "proceeds from sale of shares form part of its income",
+      "all its income is committed",
+      "annual subscriptions and levies form part of its income"
+    ],
+    "correctIndex": 3,
+    "explanation": "Non-profit organizations are usually funded by subscriptions, levies and donations rather than share capital. They may earn income but do not distribute profit to owners.",
+    "proTip": "Non-profit income sources include subscriptions and levies, not share capital."
+  },
+  {
+    "id": "poa_1998_q28",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Receipts and Payments Account",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The limitations of the receipts and payments account arise mainly because of the reliance",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cash movement as evidence of transaction",
+      "the accounting officer to report",
+      "the capital account of the organization",
+      "the transaction papers as evidence of transaction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Receipts and payments account records only cash movements. It does not show accruals, prepayments or non-cash transactions, which limits its usefulness.",
+    "proTip": "Receipts and payments = cash basis only; misses accruals."
+  },
+  {
+    "id": "poa_1998_q29",
+    "subject": "Principles of Accounts",
+    "topic": "Accounts of Not-For-Profit-Making Organizations",
+    "subTopic": "Income and Expenditure Account",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The trading account is to a sole trader what income and expenditure account is to a",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "partnership",
+      "public limited organization",
+      "manufacturing organization",
+      "non-profit-making organization"
+    ],
+    "correctIndex": 3,
+    "explanation": "A trading account ascertains gross profit for a sole trader. Similarly, an income and expenditure account ascertains surplus or deficit for a non-profit-making organization.",
+    "proTip": "Trading account : sole trader :: income and expenditure account : non-profit organization."
+  },
+  {
+    "id": "poa_1998_q30",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Features of Partnership",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "Which of the following indicate that a partnership business is in place? (i) there is a business (ii) it is run commonly by partners (iii) it has profit-making in view (iv) partners' liability is limited.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "i and ii only",
+      "ii and iii only",
+      "i, ii and iv only",
+      "iii and iv only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A partnership requires a business carried on in common by partners. Profit motive is also essential, but limited liability is not a general feature of partnership. Option A is the closest: business and common running.",
+    "proTip": "Partnership: business in common; liability usually unlimited."
+  },
+  {
+    "id": "poa_1998_q31",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Valuation of Non-Monetary Assets",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "When forming a partnership, new partners should record non-monetary assets on the new partnership's books at",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "their current fair market values",
+      "their historical costs when first used",
+      "their historical costs when first purchased by each new partner",
+      "the highest values practical so that future income tax deductions are maximized"
+    ],
+    "correctIndex": 0,
+    "explanation": "On formation of a partnership, non-monetary assets contributed are recorded at their agreed fair market values at the date of formation, not historical cost.",
+    "proTip": "Partnership formation: record assets at fair market value."
+  },
+  {
+    "id": "poa_1998_q32",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Admission of New Partner",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Umar and Ahmed share profits and losses equally and have capital balances of N40,000 and N60,000 respectively. If Abdullahi purchases a one-third interest with no bonus, how much will he have to contribute to the partnership?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N33,333",
+      "N40,000",
+      "N44,444",
+      "N50,000"
+    ],
+    "correctIndex": 3,
+    "explanation": "Total capital after admission = 40,000 + 60,000 + C = 100,000 + C. Abdullahi's one-third interest = (100,000 + C)/3. No bonus means C = (100,000 + C)/3 => 3C = 100,000 + C => 2C = 100,000 => C = N50,000.",
+    "proTip": "No bonus: new partner's contribution equals his share of total capital."
+  },
+  {
+    "id": "poa_1998_q33",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Goodwill",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "Which of the following is an intangible asset and a measure of a firm's superior earning power?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Patent",
+      "Goodwill",
+      "Trademark",
+      "Right issue"
+    ],
+    "correctIndex": 1,
+    "explanation": "Goodwill is an intangible asset representing the excess earning power of a business over normal returns. It arises from reputation, customer loyalty and other factors.",
+    "proTip": "Goodwill = intangible asset reflecting superior earning power."
+  },
+  {
+    "id": "poa_1998_q34",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Interest on Drawings",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Dan & Baker are in partnership with capitals of N50,000 and N30,000. Baker drew N14,000 in four equal installments on 31/3, 30/6, 30/9 and 31/12. Interest on drawings is 6% p.a. What is the interest on the drawings by Baker?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N210",
+      "N315",
+      "N450",
+      "N840"
+    ],
+    "correctIndex": 1,
+    "explanation": "Each installment = 14,000/4 = 3,500. Interest: 31/3 for 9 months = 3,500 x 6% x 9/12 = 157.50; 30/6 for 6 months = 105; 30/9 for 3 months = 52.50; 31/12 = 0. Total = 315.",
+    "proTip": "Interest on drawings = amount x rate x months outstanding/12."
+  },
+  {
+    "id": "poa_1998_q35",
+    "subject": "Principles of Accounts",
+    "topic": "Partnership Accounts",
+    "subTopic": "Interest on Capital",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Dan & Baker are in partnership with capitals of N50,000 and N30,000. The agreement provides for interest on capital at 6% p.a. Determine the total interest on capital due to the partners.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N1,200",
+      "N1,800",
+      "N3,000",
+      "N4,800"
+    ],
+    "correctIndex": 3,
+    "explanation": "Total capital = 50,000 + 30,000 = N80,000. Interest on capital = 6% x 80,000 = N4,800.",
+    "proTip": "Total interest on capital = total capital x rate."
+  },
+  {
+    "id": "poa_1998_q36",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Shareholders' Rights",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The ordinary shareholders enjoy the following rights except the right to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "vote at annual general meetings",
+      "elect the board of directors",
+      "participate in additional issues of shares",
+      "receive dividends at a predetermined rate"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ordinary shareholders do not have a predetermined dividend rate; their dividend depends on profits and directors' recommendation. Preference shareholders usually have a fixed dividend rate.",
+    "proTip": "Ordinary dividends are variable, not predetermined."
+  },
+  {
+    "id": "poa_1998_q37",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Book Value per Share",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Granada Corporation has net assets of N600,000 and contributed capital of N180,000. The corporation has 30,000 shares of common stock outstanding with no preferred stock. This suggests that the corporation has",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "a book value of N14 per share",
+      "a book value of N20 per share",
+      "a deficit of N420,000",
+      "retained earnings of N600,000"
+    ],
+    "correctIndex": 1,
+    "explanation": "Book value per share = Net assets / Number of ordinary shares = 600,000 / 30,000 = N20 per share.",
+    "proTip": "Book value per share = net assets ÷ ordinary shares outstanding."
+  },
+  {
+    "id": "poa_1998_q38",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Issue of Shares at Discount",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Under which of these conditions can a company issue shares at discount? (i) a resolution must be passed at a general meeting (ii) the amount of discount must be stated in the resolution (iii) the share must have existed for at least six years (iv) on the order of a court.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "i, ii and iii only",
+      "i, ii and iv only",
+      "i, iii and iv only",
+      "ii, iii and iv only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Companies can issue shares at a discount if: a resolution is passed at a general meeting, the amount of discount is stated, and the issue is sanctioned by the court. Six years existence is not a requirement.",
+    "proTip": "Issue at discount: resolution + stated amount + court sanction."
+  },
+  {
+    "id": "poa_1998_q39",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Reserves",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The part of equity which is payable on winding up is called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "general reserve",
+      "revenue reserve",
+      "capital reserve",
+      "normal reserve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capital reserves are not normally distributable as dividends but may be available to shareholders on winding up after external liabilities are settled.",
+    "proTip": "Capital reserve is a non-distributable reserve, relevant on winding up."
+  },
+  {
+    "id": "poa_1998_q40",
+    "subject": "Principles of Accounts",
+    "topic": "Introduction to Company Accounts",
+    "subTopic": "Gearing Ratio",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "To compute gearing ratio, divide",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "profit by capital employed",
+      "current assets by current liability",
+      "profit by total assets",
+      "long-term debt by equity capital"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gearing ratio measures the proportion of long-term debt to equity capital. It is calculated as long-term debt divided by equity capital.",
+    "proTip": "Gearing = long-term debt ÷ equity capital."
+  },
+  {
+    "id": "poa_1998_q41",
+    "subject": "Principles of Accounts",
+    "topic": "Departmental Accounts",
+    "subTopic": "Goods Charged at Selling Price",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Which of the following entries is effected by a department when goods are charged to it at selling prices?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Stock account is debited",
+      "Purchases account is debited",
+      "Stock account is credited",
+      "Mark-up account is debited"
+    ],
+    "correctIndex": 0,
+    "explanation": "When a department receives goods charged at selling price, it debits its stock account with the selling price. The supplying department or head office is credited.",
+    "proTip": "Receiving department debits stock at transfer price."
+  },
+  {
+    "id": "poa_1998_q42",
+    "subject": "Principles of Accounts",
+    "topic": "Branch Accounts",
+    "subTopic": "Branch vs Company Books",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The difference between the closure of the books of a branch and those of a separate company is that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "there is retained earnings account on the branch books",
+      "the revenue and expense account is closed to branch current account",
+      "there is no retained earnings account on the branch books",
+      "the revenue and expense account is not closed to the home office current account"
+    ],
+    "correctIndex": 2,
+    "explanation": "A branch is not a separate legal entity and does not maintain a retained earnings account. Its revenue and expenses are closed to the branch current account with head office.",
+    "proTip": "Branches have no retained earnings account; companies do."
+  },
+  {
+    "id": "poa_1998_q43",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Fiscal Compliance",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The term fiscal compliance means",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "all financial and related laws and regulations are adhered to",
+      "only the budget for the current period is compiled with and no deficits allowed",
+      "all physical assets requirements have been met",
+      "accountability in the public sector"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fiscal compliance means adherence to all financial laws, regulations and legislative appropriations in the public sector.",
+    "proTip": "Fiscal compliance = obeying financial laws and regulations."
+  },
+  {
+    "id": "poa_1998_q44",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Capital Expenditure in Public Corporations",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "In a public corporation, the capital expenditure incurred in a financial period is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "spread over the useful life of the assets through depreciation",
+      "apportioned at a pre-determined rate stipulated by law",
+      "written off in the year in which they occur",
+      "merged with recurrent expenditure and reported in one lump sum"
+    ],
+    "correctIndex": 2,
+    "explanation": "Public sector accounting traditionally uses cash basis, and capital expenditure is often written off in the year incurred rather than depreciated.",
+    "proTip": "Government accounting: capital expenditure written off in year incurred."
+  },
+  {
+    "id": "poa_1998_q45",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Consolidated Revenue Fund",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "Money not required to meet chargeable expenditure in any fiscal year under cash accounting should be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "surrendered to the consolidated revenue fund",
+      "carried forward to the next financial year",
+      "reserved to meet any deficits or contingencies",
+      "returned to the taxpayer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Unspent balances under cash accounting are usually surrendered to the Consolidated Revenue Fund at the end of the fiscal year.",
+    "proTip": "Unspent government funds are surrendered to Consolidated Revenue Fund."
+  },
+  {
+    "id": "poa_1998_q46",
+    "subject": "Principles of Accounts",
+    "topic": "Public Sector Accounting",
+    "subTopic": "Agency Fund",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "If a monthly insurance premium is remitted to a company by the state government, the initial deductions from employees are recorded in",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the general fund",
+      "agency fund",
+      "special fund",
+      "general long-term fund"
+    ],
+    "correctIndex": 1,
+    "explanation": "Deductions from employees for third-party payments such as insurance are held in an agency fund until remitted to the insurance company.",
+    "proTip": "Third-party deductions = agency fund."
+  }
+]
