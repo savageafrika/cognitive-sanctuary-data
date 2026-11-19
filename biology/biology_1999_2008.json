@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "biology_1999_q1",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Taenia solium cysticercus muscles pig",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The habitat of the cysticercus of Taenia solium is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "alimentary canal of cattle",
+      "muscles of pig",
+      "alimentary canal of pig",
+      "muscles of cattle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pork tapeworm larval cysticercus cellulosae encysts in pig skeletal muscles intermediate host.",
+    "proTip": "Taenia solium cysticercus = pig muscle."
+  },
+  {
+    "id": "biology_1999_q2",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Hydrostatic skeleton earthworm",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The organism that has a hydrostatic skeleton is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Tilapia",
+      "Hydra",
+      "Mosquito larva",
+      "Earthworm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Earthworm coelomic fluid turgor provides hydrostatic support.",
+    "proTip": "Hydrostatic skeleton = earthworm."
+  },
+  {
+    "id": "biology_1999_q3",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Birds reptiles scales eggs shells bony head",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "The possession of scales, laying of eggs with shells and bony structure of the head are characteristics shared by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "birds and reptiles",
+      "fishes and birds",
+      "reptiles and fishes",
+      "birds and molluscs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Birds and reptiles both have keratin scales (birds on legs), shelled amniotic eggs, bony skull.",
+    "proTip": "Scales + shelled eggs + bony head = birds & reptiles."
+  },
+  {
+    "id": "biology_1999_q4",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Arthropods no antennae arachnida",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The group of Arthropods that has no antennae is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "crustacea",
+      "chilopoda",
+      "arachnida",
+      "diplopoda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arachnids spiders scorpions lack antennae, have chelicerae pedipalps.",
+    "proTip": "No antennae = arachnida."
+  },
+  {
+    "id": "biology_1999_q5",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Nucleus most identified light microscope",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The structure that is most commonly identified in all living cells under the light microscope is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nucleus large visible under light microscope, mitochondria ribosomes require electron microscope.",
+    "proTip": "Light microscope all cells = nucleus."
+  },
+  {
+    "id": "biology_1999_q6",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Organ liver",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "Which of the following is an organ?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "guard cell",
+      "liver",
+      "xylem bundle",
+      "blood"
+    ],
+    "correctIndex": 1,
+    "explanation": "Organ collection tissues performing function, liver is organ, guard cell is cell, xylem bundle tissue, blood tissue.",
+    "proTip": "Organ example = liver."
+  },
+  {
+    "id": "biology_1999_q7",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Cockroach antenna feeling",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The structure labelled II in cockroach head is used for",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "tasting",
+      "feeling",
+      "biting",
+      "sucking"
+    ],
+    "correctIndex": 1,
+    "explanation": "Antenna sensory for touch feeling.",
+    "proTip": "Cockroach II antenna = feeling."
+  },
+  {
+    "id": "biology_1999_q8",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Mandible cockroach",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "The structure labelled III represents the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "mandible",
+      "palp",
+      "proboscis",
+      "labium"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mandible biting mouthpart in cockroach.",
+    "proTip": "Cockroach biting part = mandible."
+  },
+  {
+    "id": "biology_1999_q9",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Bilateral symmetry division",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The division of a body into two equal halves along a longitudinal plane is called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "bilateral symmetry",
+      "transverse section",
+      "radial symmetry",
+      "longitudinal section"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bilateral symmetry single plane divides into mirror halves.",
+    "proTip": "Two equal halves longitudinal = bilateral."
+  },
+  {
+    "id": "biology_1999_q10",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Rhizopus each cell nutrition reproduction",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "In which of the following organisms does each cell combine the function of nutrition, reproduction and growth?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Rhizopus",
+      "Dryopteris",
+      "Brachymenium (moss)",
+      "Spirogyra"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rhizopus fungus coenocytic hyphae but unicellular concept? Actually question about unicellular? Might refer to unicellular? Among options Rhizopus simplest thallus each hyphal cell can function? JAMB key Rhizopus.",
+    "proTip": "Each cell all functions = lower organisms like Rhizopus."
+  },
+  {
+    "id": "biology_1999_q11",
+    "subject": "Biology",
+    "topic": "Evolution among Organisms",
+    "subTopic": "Amphibians water land gills lungs",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The key event in the transition of the amphibians from water to land is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "replacement of the gills with lungs",
+      "possession of webbed limbs",
+      "development of long hind limbs",
+      "possession of tympanic membrane"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amphibians evolved lungs for air breathing transitioning to land.",
+    "proTip": "Water to land key = gills to lungs."
+  },
+  {
+    "id": "biology_1999_q12",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Chloroplasts within cytoplasm",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "In plant cells, the chloroplasts are located",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "inside the cell wall",
+      "outside the protoplasm",
+      "within the vacuole",
+      "within the cytoplasm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chloroplasts organelles in cytoplasm.",
+    "proTip": "Chloroplasts location = cytoplasm."
+  },
+  {
+    "id": "biology_1999_q13",
+    "subject": "Biology",
+    "topic": "Respiration",
+    "subTopic": "Woody stems lenticels gaseous exchange",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "In woody stems, gaseous exchange takes place through the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "micropyles",
+      "stomata",
+      "lenticels",
+      "vessels"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lenticels cork pores allow gas exchange in woody stems.",
+    "proTip": "Woody stems gas exchange = lenticels."
+  },
+  {
+    "id": "biology_1999_q14",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Leaves manufactured sieve tubes",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "Substances manufactured by the leaves are transported to other parts of the plant through the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "xylem",
+      "companion cells",
+      "sieve tubes (phloem)",
+      "cambium"
+    ],
+    "correctIndex": 2,
+    "explanation": "Phloem sieve tubes translocate photosynthates.",
+    "proTip": "Leaf products transport = sieve tubes phloem."
+  },
+  {
+    "id": "biology_1999_q15",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Highest glucose hepatic portal vein after meal",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "After a meal of yam has been digested the highest concentration of glucose is to be found in the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "hepatic artery",
+      "pulmonary vein",
+      "hepatic portal vein",
+      "posterior vena cava"
+    ],
+    "correctIndex": 2,
+    "explanation": "Portal vein carries nutrient-rich blood from intestine to liver highest glucose after digestion.",
+    "proTip": "Highest glucose after meal = hepatic portal vein."
+  },
+  {
+    "id": "biology_1999_q16",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Dark reaction CO2 glucose ATP",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "The dark reaction of photosynthesis involves",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "fixation of carbon (IV) oxide to give a six-carbon sugar",
+      "fixation of carbon (IV) oxide with the help of oxygen",
+      "use of carbon (IV) oxide to produce glucose using ATP",
+      "fixation of carbon (IV) oxide on chlorophyll using hydrogen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Calvin cycle uses CO2 + ATP + NADPH to produce glucose.",
+    "proTip": "Dark reaction = CO2 -> glucose using ATP."
+  },
+  {
+    "id": "biology_1999_q17",
+    "subject": "Biology",
+    "topic": "Respiration",
+    "subTopic": "Acclimatize high altitude erythrocytes",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "Mammals acclimatize to reduced oxygen content at high altitudes by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the stimulation of marrow to reduce the amount of erythrocytes produced",
+      "increasing the rate at which erythrocytes are destroyed",
+      "the stimulation of marrow to produce more erythrocytes",
+      "increasing the breakdown of the protein portion of the erythrocytes"
+    ],
+    "correctIndex": 2,
+    "explanation": "High altitude hypoxia stimulates erythropoietin more RBCs to carry O2.",
+    "proTip": "High altitude acclimatize = more erythrocytes."
+  },
+  {
+    "id": "biology_1999_q18",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Nitrobacter chemosynthetic parasitic holozoic",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "The modes of nutrition in Nitrobacter, Ascaris and Homo sapiens respectively are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "photosynthetic",
+      "chemosynthetic, parasitic and holozoic",
+      "photosynthetic, parasitic and heterophytic",
+      "chemosynthetic, holophytic and holozoic"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nitrobacter chemoautotrophic nitrifying bacteria, Ascaris endoparasite, humans holozoic.",
+    "proTip": "Nitrobacter Ascaris Homo = chemosynthetic parasitic holozoic."
+  },
+  {
+    "id": "biology_1999_q19",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Vitamin A palm oil carrots",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The richest sources of vitamin A are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "palm oil and groundnut oil",
+      "palm oil and carrots",
+      "rice and groundnut oil",
+      "oranges and carrots"
+    ],
+    "correctIndex": 1,
+    "explanation": "Palm oil rich beta-carotene pro-vitamin A, carrots also.",
+    "proTip": "Vitamin A rich = palm oil carrots."
+  },
+  {
+    "id": "biology_1999_q20",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Cohesion hydrogen bonds xylem stream",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "The force that holds water together in the form of a stream within the xylem tube is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cohesion of water molecules to one another by hydrogen bonds",
+      "force of gravity attracting the water molecules through the hydrogen bonds",
+      "attraction between the water and xylem by osmotic force",
+      "normal flow of water from the ground with the help of gravitational force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cohesion-tension theory hydrogen bonding between water molecules maintains continuous column.",
+    "proTip": "Xylem stream held = cohesion hydrogen bonds."
+  },
+  {
+    "id": "biology_1999_q21",
+    "subject": "Biology",
+    "topic": "Soil",
+    "subTopic": "Yellowing leaves magnesium nitrogen iron",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "Yellowing of leaves is a symptom associated with deficiency of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "iron, calcium and magnesium",
+      "nitrogen, sulphur and potassium",
+      "sulphur, phosphorus and iron",
+      "magnesium, nitrogen and iron"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mg central chlorophyll, N component chlorophyll, Fe needed synthesis, deficiency causes chlorosis.",
+    "proTip": "Yellowing = Mg N Fe deficiency."
+  },
+  {
+    "id": "biology_1999_q22",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Lymphatic rejoins subclavian vein",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "The lymphatic system of mammals rejoins the blood circulatory system at the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "hepatic vein",
+      "subclavian vein",
+      "renal vein",
+      "common iliac vein"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thoracic duct and right lymphatic duct drain into subclavian veins.",
+    "proTip": "Lymph rejoins = subclavian vein."
+  },
+  {
+    "id": "biology_1999_q23",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Rib cage expose diaphragm heart lungs",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "In dissection, the rib cage of a mammal has to be opened in order to expose the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "diaphragm / heart and lungs",
+      "liver",
+      "heart (heated typo)",
+      "sternum"
+    ],
+    "correctIndex": 0,
+    "explanation": "Opening rib cage exposes thoracic cavity heart lungs diaphragm.",
+    "proTip": "Rib cage opened = expose heart lungs."
+  },
+  {
+    "id": "biology_1999_q24",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Fertilization upper oviduct",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "Fertilization in humans usually takes place in the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "lower part of the uterus",
+      "upper part of the uterus",
+      "lower part of the oviduct",
+      "upper part of the oviduct (ampulla)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fertilization in ampulla of fallopian tube upper oviduct.",
+    "proTip": "Fertilization = upper oviduct."
+  },
+  {
+    "id": "biology_1999_q25",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Insects visit flowers feed nectar",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "Insects visit flowers in order to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "feed on the nectar",
+      "deposit pollen on the stigma",
+      "pollinate the flowers",
+      "transfer pollen from anthers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Insects primary motive feed nectar, pollination incidental.",
+    "proTip": "Insects visit = feed nectar."
+  },
+  {
+    "id": "biology_1999_q26",
+    "subject": "Biology",
+    "topic": "Growth",
+    "subTopic": "Epigeal cotyledons hypocotyl above ground",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "In epigeal germination, the cotyledons are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "carried above the ground by the elongating hypocotyl",
+      "pulled underground by the elongating hypocotyl",
+      "pulled underground by the elongating epicotyl",
+      "carried above the ground by the elongating epicotyl"
+    ],
+    "correctIndex": 0,
+    "explanation": "Epigeal hypocotyl elongates lifting cotyledons above soil e.g., bean.",
+    "proTip": "Epigeal = hypocotyl lifts cotyledons above."
+  },
+  {
+    "id": "biology_1999_q27",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Bacteria binary fission",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "Bacteria multiply rapidly by means of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "budding",
+      "fragmentation",
+      "binary fission",
+      "spore formation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bacteria asexual binary fission.",
+    "proTip": "Bacteria multiply = binary fission."
+  },
+  {
+    "id": "biology_1999_q28",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Smell sequence dissolved chemicals sensory olfactory brain",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "The correct sequence for the operation of smell in mammals is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "chemicals -> olfactory nerve endings -> brain",
+      "dissolved chemicals -> nasal sensory cell -> brain",
+      "chemicals -> mucus membrane -> sensory cells -> brain",
+      "dissolved chemicals -> sensory cells -> olfactory nerve -> brain"
+    ],
+    "correctIndex": 3,
+    "explanation": "Odorants dissolve in mucus, stimulate olfactory sensory cells, impulse via olfactory nerve to olfactory bulb brain.",
+    "proTip": "Smell sequence = dissolved chemicals -> sensory cells -> olfactory nerve -> brain."
+  },
+  {
+    "id": "biology_1999_q29",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Skin III protection",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The part labelled III in skin diagram is for",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "protection",
+      "insulation",
+      "lubrication",
+      "growth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Skin epidermis protective barrier.",
+    "proTip": "Skin label protection."
+  },
+  {
+    "id": "biology_1999_q30",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Sweat gland structure II",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The structure labelled II in skin is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "sweat gland",
+      "lymph vessel",
+      "blood vessel",
+      "nerve ending"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sweat gland coiled tubular in dermis.",
+    "proTip": "Skin II = sweat gland."
+  },
+  {
+    "id": "biology_1999_q31",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Pancreas digestive endocrine",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "In mammals, the organ which performs digestive and endocrine functions is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "liver",
+      "pancreas",
+      "gastric gland",
+      "salivary gland"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pancreas exocrine digestive enzymes, endocrine insulin glucagon.",
+    "proTip": "Digestive + endocrine = pancreas."
+  },
+  {
+    "id": "biology_1999_q32",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Chitin strengthened calcium compounds",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The chitin in the exoskeleton of many arthropods is strengthened by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "calcium compounds",
+      "organic salts",
+      "lipids",
+      "proteins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Crustaceans deposit calcium carbonate to harden chitin.",
+    "proTip": "Chitin strengthened = calcium compounds."
+  },
+  {
+    "id": "biology_1999_q33",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Hinge joint radius ulna",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "The structure labelled II articulates with III to form a",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "sliding joint",
+      "hinge joint",
+      "pivot joint",
+      "ball-and-socket joint"
+    ],
+    "correctIndex": 1,
+    "explanation": "Elbow joint between humerus and radius-ulna is hinge joint.",
+    "proTip": "Elbow articulation = hinge joint."
+  },
+  {
+    "id": "biology_1999_q34",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Radius bone",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "Which of the bones is the radius?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "I humerus",
+      "II radius",
+      "III ulna",
+      "IV carpal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Radius lateral bone of forearm.",
+    "proTip": "Forearm lateral = radius."
+  },
+  {
+    "id": "biology_1999_q35",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "Dams increase malaria bilharzia onchocerciasis",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The construction of dams may lead to an increase in the prevalence of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "typhoid fever, measles and yellow fever",
+      "tuberculosis, leprosy and trypanosomiasis",
+      "guinea worm, malaria and tuberculosis",
+      "malaria, bilharziasis and onchocerciasis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dams create standing water breeding mosquitoes malaria, snails bilharzia, blackfly onchocerciasis fast water spillways.",
+    "proTip": "Dams increase = malaria bilharzia oncho."
+  },
+  {
+    "id": "biology_1999_q36",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Floating heterotrophs zooplankton",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "Floating microscopic heterotrophs are mostly grouped as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "phytoplankton",
+      "zooplankton",
+      "microbes",
+      "nekton"
+    ],
+    "correctIndex": 1,
+    "explanation": "Zooplankton animal heterotrophic plankton, phytoplankton autotrophic.",
+    "proTip": "Floating heterotrophs = zooplankton."
+  },
+  {
+    "id": "biology_1999_q37",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "Vaccination stimulate antibodies",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "Vaccination is carried out in order to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "check the production of poison",
+      "increase the activity of white blood cells",
+      "increase the number of red blood cell",
+      "stimulate the production of antibodies"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vaccine introduces antigen stimulating active immunity antibody production.",
+    "proTip": "Vaccination = stimulate antibodies."
+  },
+  {
+    "id": "biology_1999_q38",
+    "subject": "Biology",
+    "topic": "Soil",
+    "subTopic": "Laterite alumina iron oxide",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "A soil consisting of alumina and iron (II) oxide is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "loamy soil",
+      "clayey soil",
+      "laterite",
+      "podzol"
+    ],
+    "correctIndex": 2,
+    "explanation": "Laterite tropical soil rich in iron and aluminium oxides reddish.",
+    "proTip": "Alumina + iron oxide = laterite."
+  },
+  {
+    "id": "biology_1999_q39",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Commensalism + 0",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The sign + is used to indicate an organism gains, while 0 is used where unaffected. An association + 0 is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "predation",
+      "commensalism",
+      "parasitism",
+      "competition"
+    ],
+    "correctIndex": 1,
+    "explanation": "+0 one benefits other unaffected commensalism.",
+    "proTip": "+ 0 = commensalism."
+  },
+  {
+    "id": "biology_1999_q40",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Primary consumers 1 3 7",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "Primary consumers are found in (food chain diagram)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "1,2 and 3",
+      "1,3 and 7",
+      "2,3 and 7",
+      "2,4 and 5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Primary consumers herbivores feeding directly on producers labelled 1,3,7 in diagram.",
+    "proTip": "Primary consumers = herbivores."
+  },
+  {
+    "id": "biology_1999_q41",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Biomass increase sequence 1 3 4 5",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "The biomass is likely to increase in the sequence",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "1 -> 2 -> 4 -> 5",
+      "1 -> 3 -> 4 -> 5",
+      "3 -> 5 -> 6 -> 7",
+      "5 -> 4 -> 3 -> 1"
+    ],
+    "correctIndex": 1,
+    "explanation": "Biomass increases towards producers, so reverse of food chain towards producer base increases.",
+    "proTip": "Biomass increases towards producer base."
+  },
+  {
+    "id": "biology_1999_q42",
+    "subject": "Biology",
+    "topic": "Natural Habitats",
+    "subTopic": "White mangrove breathing roots",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "Which of the following characterized the white mangrove?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "prop roots",
+      "buttress roots",
+      "breathing roots / pneumatophores",
+      "stilt roots"
+    ],
+    "correctIndex": 2,
+    "explanation": "White mangrove Avicennia has pneumatophores breathing roots for aeration in waterlogged soil.",
+    "proTip": "White mangrove = breathing roots pneumatophores."
+  },
+  {
+    "id": "biology_1999_q43",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Brown black mouse genotypes 3",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "If the offspring of a cross between brown mouse (bb) and a black mouse (BB) are allowed to interbreed, how many different genotypes would result?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "explanation": "F1 all Bb, F1 x F1 Bb x Bb -> BB, Bb, bb 3 genotypes.",
+    "proTip": "Bb x Bb = 3 genotypes."
+  },
+  {
+    "id": "biology_1999_q44",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Unique individual DNA",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The biological factor that is unique to each individual is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "DNA fingerprint",
+      "eye colour",
+      "blood group",
+      "RNA"
+    ],
+    "correctIndex": 0,
+    "explanation": "DNA unique except identical twins.",
+    "proTip": "Unique individual = DNA."
+  },
+  {
+    "id": "biology_1999_q45",
+    "subject": "Biology",
+    "topic": "Evidence of Evolution",
+    "subTopic": "Older fossil rock invertebrates vertebrates",
+    "year": "1999",
+    "difficulty": "Advanced",
+    "question": "From an evolutionary standpoint, the older a fossil-bearing rock is the more likely it is to contain",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "aves as opposed to amphibians",
+      "invertebrates as opposed to vertebrates",
+      "angiosperms as opposed to algae",
+      "vertebrates as opposed to invertebrates"
+    ],
+    "correctIndex": 1,
+    "explanation": "Older rocks contain simpler invertebrates before vertebrates evolved.",
+    "proTip": "Older rocks = invertebrates before vertebrates."
+  },
+  {
+    "id": "biology_1999_q46",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Mushroom bright colours warning poisonous",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The very bright colours in some types of mushroom",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "are a warning that they may be poisonous",
+      "indicate that they are very tasty",
+      "attract potential transporters of their spores",
+      "perform the same function as bright colours in flowers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aposematic coloration warning poisonous.",
+    "proTip": "Bright mushroom = warning poisonous."
+  },
+  {
+    "id": "biology_1999_q47",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Least adaptive arboreal countershading",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The least adaptive feature for arboreal life is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "possession of four limbs",
+      "possession of claws",
+      "development of a long tail",
+      "counter shading of coat colour"
+    ],
+    "correctIndex": 3,
+    "explanation": "Countershading camouflage for aquatic, claws tail limbs help climbing.",
+    "proTip": "Least arboreal = countershading."
+  },
+  {
+    "id": "biology_1999_q48",
+    "subject": "Biology",
+    "topic": "Theories of Evolution",
+    "subTopic": "Lamarck inheritance acquired traits",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "Which of the following is one of Lamarck’s theories?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "some variations are more favorable to existence in a given environment than others",
+      "all living organisms are constantly involved in a struggle for existence",
+      "the size of a given population remains fairly constant",
+      "new species originate through the inheritance of acquired traits"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lamarck inheritance of acquired characteristics.",
+    "proTip": "Lamarck = inheritance acquired traits."
+  },
+  {
+    "id": "biology_1999_q49",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Brooding hen cry warn chicks danger",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The loud cry made by a brooding hen when a predator is around is meant to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "alert the poultry attendants",
+      "attract cocks to come and fight the predator",
+      "advertise the boundaries of its territory to intruders",
+      "warn its chicks and other chickens of impending danger"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alarm call warns offspring.",
+    "proTip": "Brooding hen cry = warn chicks danger."
+  },
+  {
+    "id": "biology_1999_q50",
+    "subject": "Biology",
+    "topic": "Factors Affecting the Distribution of Organisms",
+    "subTopic": "Epiphytes compete light",
+    "year": "1999",
+    "difficulty": "Apprentice",
+    "question": "The most important environmental factor which epiphytes in the rain forest compete for is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "water",
+      "nutrient",
+      "light",
+      "space"
+    ],
+    "correctIndex": 2,
+    "explanation": "Epiphytes high in canopy compete for light.",
+    "proTip": "Epiphytes rain forest compete = light."
+  },
+  {
+    "id": "biology_2000_q1",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Insect development feeling organ",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "The part that will develop into an organ for feeling is labelled (insect larva diagram)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "IV",
+      "III",
+      "II antenna rudiment",
+      "I"
+    ],
+    "correctIndex": 2,
+    "explanation": "Antennal rudiment develops into antenna sensory organ for feeling.",
+    "proTip": "Feeling organ development = antenna."
+  },
+  {
+    "id": "biology_2000_q2",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Silk thread thorax anchor insect",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "The part labelled II is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "silk thread",
+      "thorax",
+      "fore wing",
+      "anchor / spinneret"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thorax middle body segment bearing legs and wings.",
+    "proTip": "Label II middle = thorax."
+  },
+  {
+    "id": "biology_2000_q3",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Monocots features parallel venation one seed leaf petals threes",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "Which of the following features are all associated with monocots?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Fibrous root system, branched network of veins and one seed leaf",
+      "Fibrous root system, two seed leaves and floral parts in threes",
+      "One seed leaf, petals in threes or groups of threes and parallel venation of leaves",
+      "One seed leaf, net-veined leaves and petals in three or multiples of three"
+    ],
+    "correctIndex": 2,
+    "explanation": "Monocots one cotyledon, parallel venation, floral parts in threes, fibrous roots.",
+    "proTip": "Monocots = 1 seed leaf + parallel + 3s."
+  },
+  {
+    "id": "biology_2000_q4",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Fish fins steering balancing pectoral pelvic",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The set of fins that controls steering, balancing and change of direction and pitch in fish is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "dorsal and anal",
+      "pectoral and pelvic",
+      "caudal and dorsal",
+      "anal and pelvic"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paired pectoral and pelvic fins act like oars and stabilizers steering.",
+    "proTip": "Steering balancing = pectoral + pelvic."
+  },
+  {
+    "id": "biology_2000_q5",
+    "subject": "Biology",
+    "topic": "Evolution among Organisms",
+    "subTopic": "Most recently evolved structure feather hair",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "The most recently evolved structure in animals is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "hair",
+      "cilium",
+      "scale",
+      "feather"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hair in mammals most recent among listed, feathers also recent but hair considered most recent mammalian innovation in this series.",
+    "proTip": "Most recently evolved = hair / feather mammalian/avian."
+  },
+  {
+    "id": "biology_2000_q6",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Coelom absent coelenterata",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "Coelom is absent in the class of animals termed",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "mollusca",
+      "reptilia",
+      "arthropoda",
+      "coelenterata"
+    ],
+    "correctIndex": 3,
+    "explanation": "Coelenterates acoelomate diploblastic no true coelom.",
+    "proTip": "No coelom = coelenterata."
+  },
+  {
+    "id": "biology_2000_q7",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Unique mammals scrotum",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "A characteristic of vertebrates that is unique to mammals is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the presence of pentadactyl limbs",
+      "parental care",
+      "the possession of scrotum",
+      "pulmonary circulation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Scrotum housing testes external is mammalian unique among listed.",
+    "proTip": "Unique mammals = scrotum / hair / mammary glands."
+  },
+  {
+    "id": "biology_2000_q8",
+    "subject": "Biology",
+    "topic": "Evolution among Organisms",
+    "subTopic": "Plant evolution order schizophyta thallophyta bryophyta pteridophyta spermatophyta",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "The order in which organic evolution has progressed in plants is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "thallophyta, schizophyta, bryophyta, pteridophyta and spermatophyta",
+      "schizophyta, thallophyta, bryophyta, pteridophyta and spermatophyta",
+      "pteridophyta, spermatophyta, thallophyta, schizophyta and bryophyta",
+      "bryophyta, pteridophyta, spermatophyta, thallophyta and schizophyta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Evolution bacteria schizophyta -> algae thallophyta -> mosses bryophyta -> ferns pteridophyta -> seed plants spermatophyta.",
+    "proTip": "Plant evolution = schizo -> thallo -> bryo -> ptero -> spermato."
+  },
+  {
+    "id": "biology_2000_q9",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Growth hormone head pituitary",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "In which part of the human body does the secretion of the growth hormone occur?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "head region (pituitary)",
+      "waist region",
+      "neck region (thyroid)",
+      "gonads"
+    ],
+    "correctIndex": 0,
+    "explanation": "Growth hormone GH secreted by anterior pituitary in head.",
+    "proTip": "Growth hormone = pituitary head."
+  },
+  {
+    "id": "biology_2000_q10",
+    "subject": "Biology",
+    "topic": "Excretion",
+    "subTopic": "Malpighian body glomerulus Bowmans capsule",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "The parts labelled I and II make up the (kidney diagram)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "glomerulus",
+      "convoluted tubules",
+      "malpighian body / renal corpuscle",
+      "bowman's capsule"
+    ],
+    "correctIndex": 2,
+    "explanation": "Malpighian body = glomerulus + Bowman's capsule.",
+    "proTip": "I+II = malpighian body."
+  },
+  {
+    "id": "biology_2000_q11",
+    "subject": "Biology",
+    "topic": "Excretion",
+    "subTopic": "Salt reabsorption nephron",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "In mammals, re-absorption of salt takes place in (nephron diagram)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "IV distal tubule",
+      "III loop of Henle",
+      "II proximal tubule",
+      "I Bowman's capsule"
+    ],
+    "correctIndex": 1,
+    "explanation": "Loop of Henle and proximal tubule reabsorb Na+ Cl-.",
+    "proTip": "Salt reabsorption = loop of Henle proximal tubule."
+  },
+  {
+    "id": "biology_2000_q12",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Posture cerebellum cerebrum",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The part of the brain that controls body posture in mammals is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "thalamus",
+      "cerebrum / cerebellum",
+      "spinal cord",
+      "cerebellum"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cerebellum coordinates balance and posture.",
+    "proTip": "Posture control = cerebellum."
+  },
+  {
+    "id": "biology_2000_q13",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Peripheral vascular dicots stem",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "Peripheral arrangement of vascular tissues in dicots is a characteristic of the internal structure of the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "leaf",
+      "petiole",
+      "stem",
+      "root"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dicot stem vascular bundles in ring peripheral, root central.",
+    "proTip": "Peripheral vascular dicot = stem."
+  },
+  {
+    "id": "biology_2000_q14",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Photosynthesis substance origin",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "The substance labelled II originates from (photosynthesis experiment)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "III only",
+      "IV only",
+      "I and IV",
+      "III and IV"
+    ],
+    "correctIndex": 3,
+    "explanation": "Starch from leaves and CO2 origin.",
+    "proTip": "Photosynthesis product origin = leaf and CO2."
+  },
+  {
+    "id": "biology_2000_q15",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Gas space oxygen",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The gas occupying the space labelled I is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "carbon (IV) oxide",
+      "nitrogen",
+      "hydrogen",
+      "oxygen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Oxygen produced in photosynthesis experiment.",
+    "proTip": "Gas space I = oxygen."
+  },
+  {
+    "id": "biology_2000_q16",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Scapula ischium appendicular skeleton",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The scapula and the ischium are part of the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "pectoral girdle",
+      "pelvic girdle",
+      "appendicular skeleton",
+      "hind limb"
+    ],
+    "correctIndex": 2,
+    "explanation": "Scapula pectoral girdle, ischium pelvic girdle both appendicular skeleton.",
+    "proTip": "Scapula + ischium = appendicular skeleton."
+  },
+  {
+    "id": "biology_2000_q17",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Bacteria large intestine vitamins K B2",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "Bacteria in the large intestine of man are important in the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "synthesis of vitamins K and B2",
+      "digestion of vegetables",
+      "synthesis of vitamins A and D",
+      "absorption of water"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gut flora E. coli synthesizes vitamin K and B complex.",
+    "proTip": "Large intestine bacteria = vitamins K B."
+  },
+  {
+    "id": "biology_2000_q18",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Short-sightedness concave lens",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "Short-sightedness can be corrected by lenses which are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "convex",
+      "biconvex",
+      "plano-convex",
+      "concave"
+    ],
+    "correctIndex": 3,
+    "explanation": "Myopia corrected with concave diverging lens.",
+    "proTip": "Short-sight = concave lens."
+  },
+  {
+    "id": "biology_2000_q19",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Inner ear cochlea semicircular canals",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The inner ear contains two main organs, namely, the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "eardrum and eustachian tube",
+      "cochlea and semi-circular canals",
+      "oval window and ossicles",
+      "pinna and cochlea"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inner ear cochlea hearing, semicircular canals balance.",
+    "proTip": "Inner ear = cochlea + semicircular canals."
+  },
+  {
+    "id": "biology_2000_q20",
+    "subject": "Biology",
+    "topic": "Growth",
+    "subTopic": "Anabolism exceeds catabolism growth",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "For growth to occur in organisms, the rate of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "food storage must be low",
+      "catabolism must exceed that of anabolism",
+      "anabolism must exceed that of catabolism",
+      "food storage must be high"
+    ],
+    "correctIndex": 2,
+    "explanation": "Growth when synthesis anabolism exceeds breakdown catabolism.",
+    "proTip": "Growth = anabolism > catabolism."
+  },
+  {
+    "id": "biology_2000_q21",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Biuret protein violet",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The production of violet colouration, when dilute NaOH solution is added to a solution of food substance, followed by drops of 1% CuSO4 solution indicates the presence of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "protein",
+      "carbohydrates",
+      "fats",
+      "reducing sugar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Biuret test violet indicates peptide bonds protein.",
+    "proTip": "Violet NaOH + CuSO4 = protein."
+  },
+  {
+    "id": "biology_2000_q22",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Greatest energy butter fat",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The greatest amount of energy will be obtained by the oxidation of 100kg of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "meat",
+      "butter",
+      "sugar",
+      "biscuits"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fat butter yields ~9 kcal/g vs protein/carb ~4 kcal/g, most energy.",
+    "proTip": "Most energy = fat butter."
+  },
+  {
+    "id": "biology_2000_q23",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Heart thickest wall left ventricle",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The chamber of the mammalian heart with the thickest wall is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "right ventricle",
+      "left auricle",
+      "right auricle",
+      "left ventricle"
+    ],
+    "correctIndex": 3,
+    "explanation": "Left ventricle pumps blood to whole body systemic circulation thickest myocardium.",
+    "proTip": "Thickest heart wall = left ventricle."
+  },
+  {
+    "id": "biology_2000_q24",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Serum lacks fibrinogen",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "Serum differs from blood plasma because it",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "contains blood cell and fibrinogen",
+      "contains soluble food and mineral salts",
+      "lacks the blood protein fibrinogen",
+      "lacks blood cells and albumin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Serum is plasma without fibrinogen and clotting factors after clotting.",
+    "proTip": "Serum = plasma minus fibrinogen."
+  },
+  {
+    "id": "biology_2000_q25",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Mesocarp pericarp fruit",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "The part labelled II in fruit diagram is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "mesocarp",
+      "pericarp",
+      "endocarp",
+      "epicarp"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mesocarp middle fleshy layer of fruit.",
+    "proTip": "Fruit II = mesocarp."
+  },
+  {
+    "id": "biology_2000_q26",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Fruit dispersal animals",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The fruit represented is mainly dispersed by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "animals",
+      "water",
+      "wind",
+      "birds"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fleshy fruit adapted for animal dispersal.",
+    "proTip": "Fleshy fruit = animal dispersal."
+  },
+  {
+    "id": "biology_2000_q27",
+    "subject": "Biology",
+    "topic": "Soil",
+    "subTopic": "Air volume soil experiment r < p+q",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "In an experiment to estimate the volume of air in a soil sample using a measuring cylinder, it was found that: Initial volume of water = p, Volume of soil before mixing = q, Final volume after adding soil = r. Which deduction is correct?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "r = p + q",
+      "r > p + q",
+      "q = r - p",
+      "r < p + q (air trapped displaced)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Air in soil escapes, final volume less than sum p+q, air volume = (p+q)-r.",
+    "proTip": "Soil air experiment r < p+q."
+  },
+  {
+    "id": "biology_2000_q28",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Succession increase diversity",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "An ecological succession often leads to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "an increase in species diversity",
+      "a decrease in species diversity",
+      "an unstable community",
+      "the dispersal of species"
+    ],
+    "correctIndex": 0,
+    "explanation": "Succession progresses to climax with greater diversity and stability.",
+    "proTip": "Succession = increase diversity."
+  },
+  {
+    "id": "biology_2000_q29",
+    "subject": "Biology",
+    "topic": "Soil",
+    "subTopic": "Atmospheric nitrogen lightning nitrification",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "Atmospheric nitrogen is converted to soil nitrogen for plant use by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "nitrification and combustion",
+      "putrefaction and lightning",
+      "lightning and nitrification",
+      "combustion and putrefaction"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lightning fixes N2 to nitrates, nitrifying bacteria convert ammonia to nitrates.",
+    "proTip": "Atmospheric N to soil = lightning + nitrification."
+  },
+  {
+    "id": "biology_2000_q30",
+    "subject": "Biology",
+    "topic": "The Ecology of Populations",
+    "subTopic": "Overcrowding birth immigration low mortality emigration",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "Which combination can cause rapid overcrowding in climax communities? I High birth & high immigration II Low birth & high immigration III Low mortality & low emigration IV High mortality & high emigration",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "II and III",
+      "I and III",
+      "I and IV",
+      "I and II"
+    ],
+    "correctIndex": 1,
+    "explanation": "High birth + high immigration increase population, low mortality low emigration also increase, combined cause overcrowding.",
+    "proTip": "Overcrowding = high birth immigration + low mortality emigration."
+  },
+  {
+    "id": "biology_2000_q31",
+    "subject": "Biology",
+    "topic": "Soil",
+    "subTopic": "Soil toxic range high concentration",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "The soil becomes toxic to plants when the concentration of its essential elements is in the range labelled (graph)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "IV high toxic",
+      "III optimal to high",
+      "II deficient",
+      "I severely deficient"
+    ],
+    "correctIndex": 0,
+    "explanation": "At very high concentration essential elements become toxic range IV.",
+    "proTip": "Soil toxic = highest concentration range IV."
+  },
+  {
+    "id": "biology_2000_q32",
+    "subject": "Biology",
+    "topic": "Soil",
+    "subTopic": "Optimal growth range soil elements",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "The range at which soil essential element concentration is recorded for optimal plant growth is marked",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "IV toxic",
+      "III optimal",
+      "II low",
+      "I deficient"
+    ],
+    "correctIndex": 1,
+    "explanation": "Optimal growth at intermediate concentration range III before toxicity.",
+    "proTip": "Optimal growth range = III."
+  },
+  {
+    "id": "biology_2000_q33",
+    "subject": "Biology",
+    "topic": "Growth",
+    "subTopic": "Gibberellins stem elongation",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "Which of the following growth activities in plants is brought about by gibberellins?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Rapid cell division",
+      "Tropic response",
+      "Cell elongation",
+      "Main stem elongation / bolting"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gibberellins promote internode elongation and bolting.",
+    "proTip": "Gibberellins = stem elongation bolting."
+  },
+  {
+    "id": "biology_2000_q34",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Aquatic adaptations gills streamlined lateral line",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "Which of the following are adaptations of animals to aquatic habitats?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Gills, streamlined bodies and lateral line",
+      "Lateral line, streamlined bodies and lungs",
+      "Gills, scaly skin and lungs",
+      "Gills, streamlined bodies and spiracles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aquatic fish have gills respiration, streamlined reduce drag, lateral line detects water movement.",
+    "proTip": "Aquatic adaptations = gills + streamlined + lateral line."
+  },
+  {
+    "id": "biology_2000_q35",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Forest species buttress roots",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "Which of the following is an adaptation of forest species?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Few stomata",
+      "Thick bark",
+      "Buttress roots",
+      "Reduced leaves"
+    ],
+    "correctIndex": 2,
+    "explanation": "Buttress roots support tall trees in shallow forest soils.",
+    "proTip": "Forest adaptation = buttress roots."
+  },
+  {
+    "id": "biology_2000_q36",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Food chain succeeding level decrease individuals",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "In a food chain, each succeeding level in a forward direction, represents",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "an increase in the number of individuals",
+      "a decrease in the number of individuals",
+      "an increase in the biomass of individuals",
+      "a gain in the total energy being transferred"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pyramid of numbers decreases up chain due to energy loss.",
+    "proTip": "Food chain forward = fewer individuals."
+  },
+  {
+    "id": "biology_2000_q37",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "Least destructive disaster grasshopper pests",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The disaster that would have the least destructive impact on animal life and balance in nature is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "chemical pollution",
+      "forest fires",
+      "oil spillage",
+      "grasshopper pests"
+    ],
+    "correctIndex": 3,
+    "explanation": "Grasshopper pests mainly affect crops, other disasters cause widespread mortality and ecosystem disruption.",
+    "proTip": "Least destructive = grasshopper pests vs pollution fires oil."
+  },
+  {
+    "id": "biology_2000_q38",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Egret heron similar niche",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "The legs and beak of an egret resemble those of the heron because they",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "both feed on fishes",
+      "are both birds",
+      "occupy similar niche",
+      "occupy the same trophic level"
+    ],
+    "correctIndex": 2,
+    "explanation": "Convergent adaptation similar niche wading fish feeding leads to similar morphology.",
+    "proTip": "Similar beak legs = similar niche."
+  },
+  {
+    "id": "biology_2000_q39",
+    "subject": "Biology",
+    "topic": "Factors Affecting the Distribution of Organisms",
+    "subTopic": "Vegetation zones temperature light rain humidity",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The factors that determine the distribution of vegetation zones are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "temperature, light, rain and humidity",
+      "light, humidity, air and mist",
+      "temperature, light, air and humidity",
+      "humidity, snow, frost and dew"
+    ],
+    "correctIndex": 0,
+    "explanation": "Climatic factors temperature, light, rainfall, humidity control vegetation zones.",
+    "proTip": "Vegetation zones = temp light rain humidity."
+  },
+  {
+    "id": "biology_2000_q40",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Albino cross phenotypically normal carriers",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "A cross between an albino female and a genetically normal male will result in offspring that are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "all albino",
+      "all phenotypically normal (carriers)",
+      "all genetically normal",
+      "half albino and half normal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Albino recessive aa x AA normal -> all Aa heterozygous phenotypically normal carriers.",
+    "proTip": "aa x AA = all normal carriers."
+  },
+  {
+    "id": "biology_2000_q41",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "Ozone depletion CFCs",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The pollutants that contribute to the depletion of the ozone layer in the atmosphere are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "radioactive materials",
+      "oxides of sulphur",
+      "oxides of carbon",
+      "chlorofluorocarbons"
+    ],
+    "correctIndex": 3,
+    "explanation": "CFCs release chlorine radicals destroying ozone.",
+    "proTip": "Ozone depletion = CFCs."
+  },
+  {
+    "id": "biology_2000_q42",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Combine best qualities selective breeding",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The surest way to combine the best qualities of both parents in the offspring is by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cross-breeding",
+      "inbreeding",
+      "selective breeding / cross-breeding",
+      "pure breeding"
+    ],
+    "correctIndex": 2,
+    "explanation": "Selective breeding selects desired traits from both parents to combine.",
+    "proTip": "Combine best qualities = selective breeding."
+  },
+  {
+    "id": "biology_2000_q43",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Blood grouping three alleles",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "Blood grouping in human beings is derived from combination of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "two different alleles",
+      "four different alleles",
+      "three different alleles (A, B, O)",
+      "two different genes"
+    ],
+    "correctIndex": 2,
+    "explanation": "ABO blood group controlled by three alleles IA IB IO.",
+    "proTip": "Blood grouping = 3 alleles A B O."
+  },
+  {
+    "id": "biology_2000_q44",
+    "subject": "Biology",
+    "topic": "Evidence of Evolution",
+    "subTopic": "Older rocks invertebrates birds",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "The older fossil-bearing rocks, in contrast to the more recent ones, are more likely to contain",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "animals rather than plant remains",
+      "invertebrates rather than birds",
+      "flowering plants rather than mosses",
+      "reptiles rather than fishes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Older strata contain primitive invertebrates before birds evolved.",
+    "proTip": "Older rocks = invertebrates not birds."
+  },
+  {
+    "id": "biology_2000_q45",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Agama brightest head dominant male",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "In a group of male Agama lizards, the one with brightest head colour is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "dominant",
+      "youngest",
+      "oldest",
+      "largest"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dominant male Agama has brightest head for display territory.",
+    "proTip": "Brightest Agama head = dominant."
+  },
+  {
+    "id": "biology_2000_q46",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "Water-borne sex-linked dracunculiasis haemophilia",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "Examples of water-borne and sex-linked disease are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "taeniasis and malaria",
+      "cholera and gonorrhoea",
+      "typhoid and syphilis",
+      "dracunculiasis and haemophilia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dracunculiasis guinea worm water-borne, haemophilia X-linked recessive.",
+    "proTip": "Water-borne + sex-linked = dracunculiasis + haemophilia."
+  },
+  {
+    "id": "biology_2000_q47",
+    "subject": "Biology",
+    "topic": "Theories of Evolution",
+    "subTopic": "Mutation theory Hugo de Vries",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "The mutation theory of organic evolution was propounded by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Gregor Mendel",
+      "Hugo de Vries",
+      "Jean Lamarck",
+      "Charles Darwin"
+    ],
+    "correctIndex": 1,
+    "explanation": "De Vries proposed mutation theory sudden heritable changes.",
+    "proTip": "Mutation theory = Hugo de Vries."
+  },
+  {
+    "id": "biology_2000_q48",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Grasshopper colour camouflage predation",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "A certain savanna grasshopper changes colour from green during rainy season to brown during dry season bush fires. The reason for these colour changes is that the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "grasshopper is getting older",
+      "environment temperature is changing",
+      "grasshopper is avoiding predation / camouflage",
+      "grasshopper is frequently moulting"
+    ],
+    "correctIndex": 2,
+    "explanation": "Colour change camouflage to match seasonal vegetation avoiding predators.",
+    "proTip": "Grasshopper green to brown = camouflage avoid predation."
+  },
+  {
+    "id": "biology_2000_q49",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Complex social behaviour insects",
+    "year": "2000",
+    "difficulty": "Apprentice",
+    "question": "Complex social behaviour and organization are found mostly in",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "insects (bees, ants, termites)",
+      "birds",
+      "reptiles",
+      "mammals"
+    ],
+    "correctIndex": 0,
+    "explanation": "Social insects exhibit caste system complex organization.",
+    "proTip": "Complex social = insects bees ants termites."
+  },
+  {
+    "id": "biology_2000_q50",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Water conservation feathers vs scales",
+    "year": "2000",
+    "difficulty": "Advanced",
+    "question": "Which of the following structural features are adapted for uses other than water conservation?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Succulent stems",
+      "Scales in animals",
+      "Spines in plants",
+      "Feathers in birds"
+    ],
+    "correctIndex": 3,
+    "explanation": "Succulent stems store water, scales reduce water loss, spines reduce transpiration, feathers mainly flight insulation not primarily water conservation.",
+    "proTip": "Not water conservation = feathers flight."
+  },
+  {
+    "id": "biology_2001_q1",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Rhizobium legume symbiosis",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "An association between the root nodule of a leguminous plant and Rhizobium sp is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "commensalism",
+      "mycorrhiza",
+      "parasitism",
+      "symbiosis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rhizobium fixes nitrogen for plant, plant provides shelter nutrients mutualistic symbiosis.",
+    "proTip": "Root nodule Rhizobium = symbiosis."
+  },
+  {
+    "id": "biology_2001_q2",
+    "subject": "Biology",
+    "topic": "Natural Habitats",
+    "subTopic": "Amphibians water moist land",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "Amphibians are normally found",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "on dry land and in water",
+      "in water and on moist land",
+      "on moist land",
+      "in water"
+    ],
+    "correctIndex": 1,
+    "explanation": "Amphibians require water for breeding, moist land adult.",
+    "proTip": "Amphibians = water + moist land."
+  },
+  {
+    "id": "biology_2001_q3",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Viviparity mammals",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "Viviparity occurs mainly in the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "mammals",
+      "reptiles",
+      "aves",
+      "amphibians"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mammals give birth to live young viviparous.",
+    "proTip": "Viviparity = mammals."
+  },
+  {
+    "id": "biology_2001_q4",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Antenna touch smell vibration",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The jointed structure in insects that bears organs which are sensitive to touch, smell and vibration is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "maxilla",
+      "labium",
+      "antenna",
+      "abdomen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Antenna sensory organ for touch, olfaction, vibration.",
+    "proTip": "Sensitive touch smell vibration = antenna."
+  },
+  {
+    "id": "biology_2001_q5",
+    "subject": "Biology",
+    "topic": "Evolution among Organisms",
+    "subTopic": "Most advanced group gymnosperms",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "Which of the following groups is the most advanced?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Pteridophytes",
+      "Bryophytes",
+      "Thallophytes",
+      "Gymnosperms"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gymnosperms more advanced than pteridophytes bryophytes thallophytes due to seeds.",
+    "proTip": "Most advanced among listed = gymnosperms."
+  },
+  {
+    "id": "biology_2001_q6",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Monocots sword-like leaves",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "Most monocots are easily recognized by their",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "short leaves with petioles",
+      "long and sword-like leaves",
+      "long and palm-like leaves",
+      "short leaves with many veinlets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Monocots typical long narrow parallel-veined sword-like leaves e.g., grasses, maize.",
+    "proTip": "Monocots = sword-like leaves."
+  },
+  {
+    "id": "biology_2001_q7",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Crustacea water fleas barnacles",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "Water fleas, wood lice and barnacles belong to the group",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "arachnida",
+      "crustacea",
+      "insecta",
+      "chilopoda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Crustaceans include water fleas Daphnia, wood lice Isopods, barnacles.",
+    "proTip": "Water fleas barnacles = crustacea."
+  },
+  {
+    "id": "biology_2001_q8",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Amoeba Hydra heterotrophic",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The mode of feeding in Amoeba and Hydra is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "heterotrophic / holozoic",
+      "holophytic",
+      "autotrophic",
+      "symbiotic"
+    ],
+    "correctIndex": 0,
+    "explanation": "Both are heterotrophic holozoic feeding on other organisms.",
+    "proTip": "Amoeba Hydra = heterotrophic holozoic."
+  },
+  {
+    "id": "biology_2001_q9",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Volvox colonial not single free cell",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "Which of the following organisms does not exist as a single free living cell?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Paramecium",
+      "Volvox",
+      "Amoeba",
+      "Chlamydomonas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Volvox colonial coenobium many cells, others unicellular free living.",
+    "proTip": "Not single free cell = Volvox colonial."
+  },
+  {
+    "id": "biology_2001_q10",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Fern sporangium annulus stalk",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "The structures labelled II and III in fern sori respectively are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "female organs and rhizoid",
+      "male organs and rhizoid",
+      "sporophyte and sori",
+      "annulus and stalk of sporangium"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fern sporangium has annulus for dehiscence and stalk.",
+    "proTip": "Fern sori II III = annulus stalk."
+  },
+  {
+    "id": "biology_2001_q11",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Fern equivalent moss sporophyte",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "In ferns, the structure above is equivalent to the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "zygote of a moss",
+      "gametophyte generation of a moss",
+      "sporophyte generation of a moss",
+      "sporophyte of a moss (seta capsule)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fern sporophyte corresponds to moss sporophyte generation.",
+    "proTip": "Fern sporophyte = moss sporophyte equivalent."
+  },
+  {
+    "id": "biology_2001_q12",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Learning memory cerebrum",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The centre for learning and memory in the human brain is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "medulla oblongata",
+      "cerebellum",
+      "cerebrum",
+      "olfactory lobe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cerebrum especially cerebral cortex for learning memory.",
+    "proTip": "Learning memory = cerebrum."
+  },
+  {
+    "id": "biology_2001_q13",
+    "subject": "Biology",
+    "topic": "Excretion",
+    "subTopic": "Urea formation liver",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "Urea formation occurs in the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "heart",
+      "liver",
+      "lung",
+      "kidney"
+    ],
+    "correctIndex": 1,
+    "explanation": "Liver deaminates amino acids forming urea via urea cycle.",
+    "proTip": "Urea formation = liver."
+  },
+  {
+    "id": "biology_2001_q14",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Chalaza holds yolk",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "The structure that holds the yolk in position is labelled (egg diagram)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "II chalaza",
+      "I shell",
+      "IV albumen",
+      "III germinal disc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chalaza twisted albumen cords suspend yolk.",
+    "proTip": "Holds yolk = chalaza."
+  },
+  {
+    "id": "biology_2001_q15",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Albumen egg",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The part labelled IV is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "albumen (egg white)",
+      "germinal disc",
+      "yolk",
+      "shell"
+    ],
+    "correctIndex": 0,
+    "explanation": "Albumen egg white provides water protein.",
+    "proTip": "Egg IV = albumen."
+  },
+  {
+    "id": "biology_2001_q16",
+    "subject": "Biology",
+    "topic": "Respiration",
+    "subTopic": "CO2 identification lime water calcium hydroxide",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The gas produced during tissue respiration can be identified by using",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "calcium hydroxide (lime water)",
+      "copper sulphate",
+      "calcium carbonate",
+      "sodium hydroxide"
+    ],
+    "correctIndex": 0,
+    "explanation": "CO2 turns lime water calcium hydroxide milky.",
+    "proTip": "Respiration gas CO2 = lime water test."
+  },
+  {
+    "id": "biology_2001_q17",
+    "subject": "Biology",
+    "topic": "Growth",
+    "subTopic": "Etiolated seedling dark",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "A seedling grown in the dark is likely to be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "etiolated",
+      "dormant",
+      "sturdy",
+      "stunted"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dark growth pale yellow elongated weak etiolated due to lack chlorophyll.",
+    "proTip": "Dark seedling = etiolated."
+  },
+  {
+    "id": "biology_2001_q18",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Invertase sucrose glucose fructose",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The enzyme invertase will hydrolyze sucrose to give",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "maltose and glucose",
+      "glycerol and fatty acid",
+      "glucose and fructose",
+      "mannose and galactose"
+    ],
+    "correctIndex": 2,
+    "explanation": "Invertase sucrase splits sucrose into glucose + fructose.",
+    "proTip": "Invertase sucrose = glucose + fructose."
+  },
+  {
+    "id": "biology_2001_q19",
+    "subject": "Biology",
+    "topic": "Respiration",
+    "subTopic": "Yeast anaerobic alcohol CO2",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "When yeast respires anaerobically, it converts simple sugar to carbon (IV) oxide and",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "oxygen",
+      "acid",
+      "alcohol",
+      "water"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alcoholic fermentation sugar -> ethanol + CO2.",
+    "proTip": "Yeast anaerobic = alcohol + CO2."
+  },
+  {
+    "id": "biology_2001_q20",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Erythrocytes transport O2 CO2",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The transportation of oxygen and carbon (IV) oxide in mammals is carried out by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "leucocytes",
+      "thrombocytes",
+      "phagocytes",
+      "erythrocytes"
+    ],
+    "correctIndex": 3,
+    "explanation": "RBCs erythrocytes contain haemoglobin carrying O2 and CO2.",
+    "proTip": "O2 CO2 transport = erythrocytes."
+  },
+  {
+    "id": "biology_2001_q21",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Leaf veins vascular bundles",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The veins of the leaf are formed by the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "vascular bundles",
+      "cambium cells",
+      "palisade tissue",
+      "spongy mesophyll"
+    ],
+    "correctIndex": 0,
+    "explanation": "Veins are vascular bundles xylem phloem.",
+    "proTip": "Leaf veins = vascular bundles."
+  },
+  {
+    "id": "biology_2001_q22",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Hearing parts ear",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "The parts which function together to bring about hearing are labelled (ear diagram)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "IV, V and VI",
+      "I, II, IV and VI",
+      "I, II, III and IV eardrum ossicles oval window",
+      "I, II and IV"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hearing eardrum -> ossicles -> oval window -> cochlea.",
+    "proTip": "Hearing = eardrum ossicles oval window."
+  },
+  {
+    "id": "biology_2001_q23",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Ear ossicles fenestra ovalis",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "The part labelled II is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "fenestra ovalis / oval window",
+      "middle ear canal",
+      "internal auditory meatus",
+      "ear ossicles"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ear ossicles malleus incus stapes transmit sound.",
+    "proTip": "Ear label II = ossicles."
+  },
+  {
+    "id": "biology_2001_q24",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Iodine starch blue-black",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "When specimen X is mixed with few drops of iodine solution, the appearance of a blue-black colour confirms that X is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Galactose",
+      "Starch",
+      "Sucrose",
+      "Glucose"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iodine starch complex blue-black.",
+    "proTip": "Iodine blue-black = starch."
+  },
+  {
+    "id": "biology_2001_q25",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Lumbar vertebra",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "The structure above represents a (vertebra diagram)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "caudal vertebra",
+      "lumbar vertebra",
+      "thoracic vertebra",
+      "cervical vertebra"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lumbar vertebra large centrum, no transverse foramen.",
+    "proTip": "Large centrum vertebra = lumbar."
+  },
+  {
+    "id": "biology_2001_q26",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Vertebral foramen blood vessels",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "Blood vessels usually pass through the structure labelled",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "III neural spine",
+      "II transverse process foramen",
+      "V centrum",
+      "IV neural canal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vertebrarterial foramen in transverse process allows blood vessels.",
+    "proTip": "Blood vessels pass transverse foramen."
+  },
+  {
+    "id": "biology_2001_q27",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Salts water absorbed xylem diffusion",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "Salts and water are absorbed in the roots and transported to the leaves by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "diffusion through the xylem tissues",
+      "osmosis through the phloem tissues",
+      "diffusion through the phloem tissues",
+      "osmosis through the xylem tissues"
+    ],
+    "correctIndex": 0,
+    "explanation": "Water salts move via xylem through diffusion and transpiration pull.",
+    "proTip": "Salts water to leaves = xylem."
+  },
+  {
+    "id": "biology_2001_q28",
+    "subject": "Biology",
+    "topic": "The Ecology of Populations",
+    "subTopic": "Percentage Imperata 46%",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "The number of plant species obtained from a population study of a garden is: Guinea grass 15, Ipomoea 5, Sida 7, Imperata 23. What is the percentage occurrence of Imperata spp?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "35%",
+      "16%",
+      "46%",
+      "23%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Total 15+5+7+23=50, Imperata 23/50*100=46%.",
+    "proTip": "Percentage = count/total*100 = 46%."
+  },
+  {
+    "id": "biology_2001_q29",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "CO2 least affected respiration",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "Carbon (IV) oxide content of the atmosphere is least affected by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cutting down and clearing of forest",
+      "forest fires",
+      "burning of fossil fuels",
+      "plant and animal respiration"
+    ],
+    "correctIndex": 3,
+    "explanation": "Respiration is balanced natural cycle, deforestation fires fossil fuels increase CO2 significantly.",
+    "proTip": "CO2 least affected = respiration natural cycle."
+  },
+  {
+    "id": "biology_2001_q30",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "Food shortage mixed cropping least affects",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The factor that least affects food shortages in sub-Saharan Africa is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "flooding",
+      "pests",
+      "mixed-cropping",
+      "drought"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mixed cropping improves food security reduces shortage, while flooding pests drought cause shortage.",
+    "proTip": "Least affects shortage = mixed-cropping improves."
+  },
+  {
+    "id": "biology_2001_q31",
+    "subject": "Biology",
+    "topic": "Natural Habitats",
+    "subTopic": "Epiphytic arboreal habitat",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The epiphytic habitat can best be described as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "arboreal",
+      "estuarine",
+      "aquatic",
+      "terrestrial"
+    ],
+    "correctIndex": 0,
+    "explanation": "Epiphytes live on trees arboreal habitat above ground.",
+    "proTip": "Epiphytic = arboreal."
+  },
+  {
+    "id": "biology_2001_q32",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Highest energy producers",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The highest percentage of energy in an ecosystem occurs at the level of the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "secondary consumers",
+      "decomposers",
+      "producers",
+      "primary consumers"
+    ],
+    "correctIndex": 2,
+    "explanation": "Producers have 100% energy base, 10% transferred up.",
+    "proTip": "Highest energy = producers."
+  },
+  {
+    "id": "biology_2001_q33",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "Greatest influence stable ecosystem man",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The greatest influence on a stable ecosystem in nature is exerted by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "man",
+      "pollution",
+      "animals",
+      "rainfall"
+    ],
+    "correctIndex": 0,
+    "explanation": "Human activities deforestation pollution overexploitation greatest impact.",
+    "proTip": "Greatest influence ecosystem = man."
+  },
+  {
+    "id": "biology_2001_q34",
+    "subject": "Biology",
+    "topic": "Natural Habitats",
+    "subTopic": "Freshwater pond water lily fish water scorpion dragonfly larva",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "A freshwater pond may contain",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "tadpole, water boatman, leeches and crab (marine)",
+      "water beetle, shrimps, water snail and water bug",
+      "water lily, fish, water scorpion and dragonfly larva",
+      "pond skater, water lily, shark and mosquito larva"
+    ],
+    "correctIndex": 2,
+    "explanation": "Freshwater pond typical organisms water lily plant, fish, water scorpion insect, dragonfly larva.",
+    "proTip": "Freshwater pond = water lily fish water scorpion dragonfly larva."
+  },
+  {
+    "id": "biology_2001_q35",
+    "subject": "Biology",
+    "topic": "Factors Affecting the Distribution of Organisms",
+    "subTopic": "Hygrometer relative humidity",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The hygrometer is used for measuring",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "relative humidity",
+      "specific gravity",
+      "rainfall",
+      "salinity"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hygrometer measures relative humidity.",
+    "proTip": "Hygrometer = humidity."
+  },
+  {
+    "id": "biology_2001_q36",
+    "subject": "Biology",
+    "topic": "Factors Affecting the Distribution of Organisms",
+    "subTopic": "Rain forest distribution sunlight",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "The distribution of plants in a rain forest is governed mainly by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "vegetation",
+      "soil types",
+      "amount of sunlight",
+      "rainfall pattern"
+    ],
+    "correctIndex": 2,
+    "explanation": "Light stratification in rain forest canopy determines plant distribution.",
+    "proTip": "Rain forest plant distribution = sunlight."
+  },
+  {
+    "id": "biology_2001_q37",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Recessive dominant same locus homologous chromosome",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "Both recessive and dominant characters are found",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "on different chromosomes in the cell",
+      "at the same locus of a homologous chromosome",
+      "mother’s sex cell",
+      "mother’s X chromosome"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alleles recessive dominant at same locus on homologous chromosomes.",
+    "proTip": "Dominant recessive same locus homologous."
+  },
+  {
+    "id": "biology_2001_q38",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Baby sex father's sex cell",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The probability of a baby being a boy or a girl depends on the condition of the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "father’s sex cell (X or Y sperm)",
+      "father’s somatic chromosome",
+      "mother’s sex cell (always X)",
+      "mother’s X chromosome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Father determines sex X sperm girl, Y sperm boy, mother always X.",
+    "proTip": "Baby sex depends = father's sperm X or Y."
+  },
+  {
+    "id": "biology_2001_q39",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "AB universal recipient blood group",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "Which of the following statements is true of blood groups and blood transfusion?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Group O is the universal recipient",
+      "Group A can donate to group A only",
+      "Group AB is the universal recipient",
+      "Group B can donate to group B only"
+    ],
+    "correctIndex": 2,
+    "explanation": "AB has no antibodies receives all blood types, O universal donor.",
+    "proTip": "AB = universal recipient."
+  },
+  {
+    "id": "biology_2001_q40",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Inbreeding monoecious hermaphrodite",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "Which of the following is likely to encourage inbreeding in plants",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Dioecious (separate sexes)",
+      "Protandrous",
+      "Monoecious (both sexes same plant)",
+      "Hermaphrodite self-compatible"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hermaphrodite bisexual flowers self-pollination inbreeding, dioecious prevents.",
+    "proTip": "Inbreeding encouraged = hermaphrodite selfing."
+  },
+  {
+    "id": "biology_2001_q41",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Tall dwarf genotypes Tt tt half tall half dwarf",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "A tall plant crossed with a dwarf one produces offspring of which half are tall and half are dwarf. What are the genotypes of the parents?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "TT x TT",
+      "Tt x Tt (3:1)",
+      "TT x tt (all tall)",
+      "Tt x tt (1:1)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Test cross Tt x tt gives 1 tall 1 dwarf ratio.",
+    "proTip": "Half tall half dwarf = Tt x tt."
+  },
+  {
+    "id": "biology_2001_q42",
+    "subject": "Biology",
+    "topic": "Variation in Population",
+    "subTopic": "Tongue rolling morphological variation",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "In man, the ability to roll the tongue is a variation classified as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "anatomical",
+      "physiological",
+      "structural",
+      "morphological"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tongue rolling discontinuous morphological trait.",
+    "proTip": "Tongue rolling = morphological variation."
+  },
+  {
+    "id": "biology_2001_q43",
+    "subject": "Biology",
+    "topic": "Theories of Evolution",
+    "subTopic": "Darwin organic evolution",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "Darwin is considered the first scientist who correctly explained the theory of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "special creation",
+      "spontaneous generation",
+      "use and disuse",
+      "organic evolution / natural selection"
+    ],
+    "correctIndex": 3,
+    "explanation": "Darwin natural selection theory of organic evolution.",
+    "proTip": "Darwin = organic evolution natural selection."
+  },
+  {
+    "id": "biology_2001_q44",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Aquatic plant air cavities buoyancy",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The stem of a typical aquatic plant usually has many",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "air cavities (aerenchyma)",
+      "intercellular spaces",
+      "water cavities",
+      "water-conducting cells"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aerenchyma air cavities provide buoyancy and oxygen transport.",
+    "proTip": "Aquatic stem = air cavities."
+  },
+  {
+    "id": "biology_2001_q45",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Male honey bee mate queen",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The role of the male adult honey bee is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "clean the hive",
+      "ventilate the hive",
+      "mate with the queen",
+      "care for the young"
+    ],
+    "correctIndex": 2,
+    "explanation": "Drones sole function mate queen.",
+    "proTip": "Male honey bee = mate queen."
+  },
+  {
+    "id": "biology_2001_q46",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Adaptation ability live successfully environment",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "The ability of an organism to live successfully in an environment is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "resistance",
+      "competition",
+      "succession",
+      "adaptation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Adaptation traits increasing fitness in environment.",
+    "proTip": "Live successfully = adaptation."
+  },
+  {
+    "id": "biology_2001_q47",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Xerophytes protoplasm resist damage water loss",
+    "year": "2001",
+    "difficulty": "Advanced",
+    "question": "The most important adaptation of xerophytes is the ability of the protoplasm to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "resist being damaged by loss of water",
+      "store sugar and minerals in the vacuoles",
+      "absorb water and swell",
+      "shrink from the cell wall"
+    ],
+    "correctIndex": 0,
+    "explanation": "Xerophyte protoplasm tolerant desiccation resists damage.",
+    "proTip": "Xerophyte protoplasm = resist damage water loss."
+  },
+  {
+    "id": "biology_2001_q48",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Cryptic colouration green snake grass",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "A green snake in green grass is able to escape notice from predators because of its",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "disruptive colouration",
+      "countershading",
+      "warning colouration",
+      "cryptic colouration / camouflage"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cryptic colouration matches background camouflage.",
+    "proTip": "Green snake green grass = cryptic camouflage."
+  },
+  {
+    "id": "biology_2001_q49",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Heterotrophs competition least light",
+    "year": "2001",
+    "difficulty": "Apprentice",
+    "question": "For heterotrophic organisms, competition is least caused by the inadequacy of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "mates",
+      "space",
+      "light",
+      "nutrients"
+    ],
+    "correctIndex": 2,
+    "explanation": "Heterotrophs don't need light for photosynthesis, light least competitive factor, autotrophs compete for light.",
+    "proTip": "Heterotrophs least compete for light."
+  },
+  {
+    "id": "biology_2001_q50",
+    "subject": "Biology",
+    "topic": "The Ecology of Populations",
+    "subTopic": "Population study garden Imperata",
+    "year": "2001",
+    "difficulty": "Scholar",
+    "question": "What is the percentage of occurrence of Imperata spp calculated earlier? (Combined recap)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Recap: 46% Imperata",
+      "35%",
+      "16%",
+      "23%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Total plants 50, Imperata 23 =46%.",
+    "proTip": "Recap percentage calculation."
+  },
+  {
+    "id": "biology_2002_q1",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Single cell Amoeba chicken egg",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "An Amoeba and an unlaid chicken egg are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "animal tissues",
+      "organelles",
+      "single cells",
+      "organisms"
+    ],
+    "correctIndex": 2,
+    "explanation": "Both are single cells though sizes differ, Amoeba unicellular organism, egg single cell.",
+    "proTip": "Amoeba and egg = single cell."
+  },
+  {
+    "id": "biology_2002_q2",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Corn food stored leaves",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "In corn food is usually stored in the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "leaves",
+      "stems",
+      "roots",
+      "buds / seeds"
+    ],
+    "correctIndex": 0,
+    "explanation": "In maize vegetative food temporarily in leaves before translocation to grains.",
+    "proTip": "Corn food storage = leaves then grains."
+  },
+  {
+    "id": "biology_2002_q3",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Flagella Chlamydomonas Euglena",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The animals that move by means of flagella include",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Chlamydomonas and Euglena",
+      "Planaria and Amoeba",
+      "Amoeba and Hydra",
+      "Paramecium and Planaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chlamydomonas and Euglena use flagella for locomotion.",
+    "proTip": "Flagella movement = Euglena Chlamydomonas."
+  },
+  {
+    "id": "biology_2002_q4",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Plant only cell wall chloroplast",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The structures found only in plant cells are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cell membrane and cytoplasm",
+      "chromatin and nucleolus",
+      "cell wall and chloroplast",
+      "cell membrane and lysosome"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cell wall and chloroplasts unique to plants, animal cells lack them.",
+    "proTip": "Plant only = cell wall + chloroplast."
+  },
+  {
+    "id": "biology_2002_q5",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Perfect flower stamens pistil",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "A flower that has both stamens and pistil is said to be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "staminate",
+      "pistillate",
+      "perfect / hermaphrodite",
+      "imperfect"
+    ],
+    "correctIndex": 2,
+    "explanation": "Perfect flower contains both male and female parts.",
+    "proTip": "Both stamens pistil = perfect."
+  },
+  {
+    "id": "biology_2002_q6",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "Oil suffocates mosquito pupae",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "When oil is poured into the breeding site of mosquitoes, it",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "deprives the larvae of water",
+      "kills the adults",
+      "suffocates the pupae / larvae by blocking spiracles",
+      "slows down egg development"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oil film blocks respiratory siphons/trumpets preventing air intake.",
+    "proTip": "Oil mosquito = suffocates larvae pupae."
+  },
+  {
+    "id": "biology_2002_q7",
+    "subject": "Biology",
+    "topic": "Evolution among Organisms",
+    "subTopic": "Evolutionary sequence organisms diagram",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "The correct evolutionary sequence of the organisms represented is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "I -> III -> II -> IV fish amphibian reptile mammal",
+      "II -> III -> IV -> I",
+      "III -> II -> IV -> IV",
+      "IV -> II -> III -> I fish -> amphibian -> reptile -> mammal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Evolutionary sequence fish -> amphibian -> reptile -> bird/mammal.",
+    "proTip": "Evolution sequence = fish amphibian reptile mammal."
+  },
+  {
+    "id": "biology_2002_q8",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Ovoviviparity organism labelled",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "Ovoviviparity is the type of reproduction exhibited by the organism labelled",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "I fish",
+      "II frog",
+      "III reptile / Vipera",
+      "IV mammal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ovoviviparous reptiles retain eggs inside body hatching internally e.g., Vipera.",
+    "proTip": "Ovoviviparity = reptile Vipera."
+  },
+  {
+    "id": "biology_2002_q9",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Hawk tertiary consumer",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "In the diagram, the hawk is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "an omnivore",
+      "a primary consumer",
+      "a tertiary consumer / top carnivore",
+      "a scavenger"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hawk feeds on secondary consumers tertiary level.",
+    "proTip": "Hawk = tertiary consumer."
+  },
+  {
+    "id": "biology_2002_q10",
+    "subject": "Biology",
+    "topic": "The Ecology of Populations",
+    "subTopic": "Competitors grasshopper mouse",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "Example of competitors are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "lizard and mouse",
+      "snake and lizard",
+      "grasshopper and mouse (both herbivores)",
+      "rabbit and snake"
+    ],
+    "correctIndex": 2,
+    "explanation": "Grasshopper and mouse both feed on grasses grains competing for same resource.",
+    "proTip": "Competitors = same food niche grasshopper mouse."
+  },
+  {
+    "id": "biology_2002_q11",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Monkey opposable digits arboreal",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "One of the adaptations to life on trees by a monkey is its possession of digits which are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "extensible",
+      "big",
+      "opposable",
+      "long"
+    ],
+    "correctIndex": 2,
+    "explanation": "Opposable thumb for grasping branches.",
+    "proTip": "Monkey tree digits = opposable."
+  },
+  {
+    "id": "biology_2002_q12",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Climax vegetation same species year to year",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The community of plants in which the same species occur from year to year is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "annual species",
+      "pioneer vegetation",
+      "perennial species",
+      "climax vegetation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Climax stable community same species persist.",
+    "proTip": "Same species year to year = climax."
+  },
+  {
+    "id": "biology_2002_q13",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "AIDS transmission sexual intercourse",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The most common means of transmitting Acquired Immune Deficiency Syndrome (AIDS) is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "from mother to child",
+      "through blood transfusion",
+      "through sexual intercourse",
+      "through the sharing of needles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sexual transmission most common worldwide.",
+    "proTip": "AIDS most common = sexual intercourse."
+  },
+  {
+    "id": "biology_2002_q14",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Prevent overcrowding seed dispersal",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "Plants tend to prevent overcrowding by means of efficient",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "water uptake",
+      "seed germination",
+      "pollination",
+      "seed dispersal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Seed dispersal spreads offspring reducing competition near parent.",
+    "proTip": "Prevent overcrowding plants = seed dispersal."
+  },
+  {
+    "id": "biology_2002_q15",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Physical climatic factors determine community organisms",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The physical and climatic factors of a region primarily determine the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "kinds of animals inhabiting the area",
+      "types of plants found in the area",
+      "nature of the soil in the region",
+      "community of organisms in the region"
+    ],
+    "correctIndex": 3,
+    "explanation": "Climate determines biome community of plants and animals.",
+    "proTip": "Physical climatic factors = community organisms."
+  },
+  {
+    "id": "biology_2002_q16",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Trophic level energy movement",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "A step in the movement of energy through an ecosystem is a description that best fits the term",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "food chain",
+      "trophic level",
+      "pyramid of numbers",
+      "food web"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trophic level each step feeding level in energy flow.",
+    "proTip": "Step energy movement = trophic level."
+  },
+  {
+    "id": "biology_2002_q17",
+    "subject": "Biology",
+    "topic": "The Ecology of Populations",
+    "subTopic": "Density waterleaf 1.2 per m2",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "In a field experiment the frequency of waterleaf was observed to be 48 after 20 tosses of a 2m2 quadrat. What is the density of the plant in the field?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "1.2 per m2",
+      "2.4 per m2",
+      "4.8 per m2",
+      "9.6 per m2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Density = total count / total area sampled =48/(20*2)=1.2 per m2.",
+    "proTip": "Density = count / (tosses * quadrat area)."
+  },
+  {
+    "id": "biology_2002_q18",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Xylem poorly developed submerged water plants",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The supporting tissue of xylem is most poorly developed in",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "mangrove swamp plants",
+      "grassland plants",
+      "submerged water plants",
+      "desert plants"
+    ],
+    "correctIndex": 2,
+    "explanation": "Submerged hydrophytes have reduced xylem water readily available buoyancy support.",
+    "proTip": "Poorly developed xylem = submerged water plants."
+  },
+  {
+    "id": "biology_2002_q19",
+    "subject": "Biology",
+    "topic": "Soil",
+    "subTopic": "Lime clay soil prevent water-logging",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The addition of lime to clay soil serves to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "aid water retention",
+      "close up the texture",
+      "prevent water-logging / improve structure",
+      "improve capillary action"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lime Ca(OH)2 flocculates clay improving aeration drainage.",
+    "proTip": "Lime clay soil = improve structure prevent water-logging."
+  },
+  {
+    "id": "biology_2002_q20",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "Agrochemicals pollution fresh water",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The excessive use of agro-chemicals could lead to the pollution of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the lithosphere",
+      "the atmosphere",
+      "fresh water (eutrophication)",
+      "space"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fertilizers pesticides leach into water bodies causing pollution eutrophication.",
+    "proTip": "Agrochemicals excess = fresh water pollution."
+  },
+  {
+    "id": "biology_2002_q21",
+    "subject": "Biology",
+    "topic": "The Ecology of Populations",
+    "subTopic": "Transect highest species rain forest",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "In a population study using the transect method, a student is likely to record the highest number of species in",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "a tropical rain forest",
+      "a guinea savanna",
+      "a sahel savanna",
+      "an estuarine swamp"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rain forest highest biodiversity.",
+    "proTip": "Highest species = rain forest."
+  },
+  {
+    "id": "biology_2002_q22",
+    "subject": "Biology",
+    "topic": "Theories of Evolution",
+    "subTopic": "Darwin most successful best adapt",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "In his theory of evolution, Darwin implied that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the struggle for existence among living organisms is sporadic",
+      "the most successful organisms are those that best adapt to their environment",
+      "organs of the body which are not regularly used will disappear",
+      "any traits acquired during lifetime can be passed on"
+    ],
+    "correctIndex": 1,
+    "explanation": "Darwin natural selection best adapted survive.",
+    "proTip": "Darwin = best adapt most successful."
+  },
+  {
+    "id": "biology_2002_q23",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Carnassial teeth last upper premolar first lower molar",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "The carnassial teeth of a carnivorous animal consists of the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "last upper premolar and the first lower molar",
+      "last upper molar and the last lower molar",
+      "first upper premolar and the first lower molar",
+      "first upper molar and the first lower molar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carnassial shearing teeth last upper premolar and first lower molar in carnivores.",
+    "proTip": "Carnassial = last upper premolar + first lower molar."
+  },
+  {
+    "id": "biology_2002_q24",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Caste bees termites workers sterile",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "A feature of the caste systems of bees and termites is that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the workers are sterile",
+      "the kings are bigger than the queens",
+      "only the worker perform duties",
+      "nuptial flight is performed by all members"
+    ],
+    "correctIndex": 0,
+    "explanation": "Workers sterile non-reproductive caste in social insects.",
+    "proTip": "Bees termites workers = sterile."
+  },
+  {
+    "id": "biology_2002_q25",
+    "subject": "Biology",
+    "topic": "Evidence of Evolution",
+    "subTopic": "Common ancestry gill slits embryos",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The structure that is common in the embryos of mammals, amphibians, birds, fishes and reptiles and which is an evidence of their common ancestry is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "eye",
+      "chorion",
+      "allantois",
+      "gill slits / pharyngeal pouches"
+    ],
+    "correctIndex": 3,
+    "explanation": "Embryonic gill slits present in all vertebrate embryos indicating common ancestry recapitulation.",
+    "proTip": "Common embryo structure = gill slits."
+  },
+  {
+    "id": "biology_2002_q26",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Animals restive hot dry",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "Animals are restive when the environment in which they live becomes",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "hot and dry",
+      "cold and wet",
+      "warm and humid",
+      "windy and snowy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hot dry uncomfortable causes restlessness aestivation.",
+    "proTip": "Animals restive = hot dry."
+  },
+  {
+    "id": "biology_2002_q27",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Wading birds fish catchers long beak neck legs",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "Birds which are large with long straight pointed beaks, long necks and long legs are likely to be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "insect eaters",
+      "fish catchers / waders",
+      "nectar feeders",
+      "fruit eaters"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wading birds herons egrets long legs necks beaks for catching fish.",
+    "proTip": "Long beak neck legs large = fish catchers waders."
+  },
+  {
+    "id": "biology_2002_q28",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Extracellular digestion Rhizopus housefly Hydra",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "Examples of organisms in which extracellular digestion occurs are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Fungus, Loranthus and housefly",
+      "Rhizopus, sponges and earthworm",
+      "Roundworm, tapeworm and Hydra",
+      "Rhizopus, housefly and Hydra"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rhizopus saprophytic extracellular, housefly extraoral digestion, Hydra in coelenteron extracellular.",
+    "proTip": "Extracellular digestion = Rhizopus housefly Hydra."
+  },
+  {
+    "id": "biology_2002_q29",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Mammalian erythrocytes discoid enucleated",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The mammalian erythrocytes differ from other vertebrate erythrocytes are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "discoid and nucleated",
+      "discoid and enucleated (anucleate)",
+      "amoeboid and nucleated",
+      "amoeboid and enucleated"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mammalian RBCs biconcave disc enucleated, other vertebrates nucleated oval.",
+    "proTip": "Mammalian RBC = discoid enucleated."
+  },
+  {
+    "id": "biology_2002_q30",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Endoskeleton vertebrata",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The presence of endoskeleton is characteristic of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "invertebrata",
+      "vertebrata",
+      "insecta",
+      "coelenterata"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vertebrates have internal skeleton endoskeleton.",
+    "proTip": "Endoskeleton = vertebrata."
+  },
+  {
+    "id": "biology_2002_q31",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Pitcher plant heterotrophic carnivorous",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The capture and digestion of insects by a pitcher plant is a special form of nutrition termed",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "autotrophic",
+      "heterotrophic / carnivorous / insectivorous",
+      "chemosynthetic",
+      "saprophytic"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pitcher plant photosynthetic but supplements nitrogen by carnivory heterotrophic.",
+    "proTip": "Pitcher plant insect = heterotrophic carnivorous."
+  },
+  {
+    "id": "biology_2002_q32",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Photosynthesis control experiment",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "Which of the following statements is correct about the photosynthesis experiment (leaf inside flask with KOH)?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "The flask must be of the conical type",
+      "Caustic soda can be replaced with distilled water",
+      "The enclosed leaf will lose its green colour",
+      "The leaves outside the flask serve as control"
+    ],
+    "correctIndex": 3,
+    "explanation": "Outside leaves with CO2 access are control vs inside CO2-free.",
+    "proTip": "Photosynthesis CO2 experiment control = outside leaves."
+  },
+  {
+    "id": "biology_2002_q33",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "CO2 necessary photosynthesis experiment",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The experimental set-up can be used to demonstrate that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "light is necessary for photosynthesis",
+      "oxygen is necessary for photosynthesis",
+      "photosynthesis occurs in the leaves of plants",
+      "carbon (IV) oxide is necessary for photosynthesis"
+    ],
+    "correctIndex": 3,
+    "explanation": "KOH absorbs CO2 showing leaf without CO2 no starch.",
+    "proTip": "KOH experiment = CO2 necessary photosynthesis."
+  },
+  {
+    "id": "biology_2002_q34",
+    "subject": "Biology",
+    "topic": "Factors Affecting the Distribution of Organisms",
+    "subTopic": "Marine fish freshwater hypotonic burst",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "When a marine fish was taken from the ocean and put in a tank of fresh water, it died after a short period because",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the tank was too small compared to the large ocean",
+      "the body cells of the fish swelled and burst as a result of the hypotonic fresh water",
+      "the body cells of the fish shrank as their sap was hypertonic to the fresh water",
+      "there was no food in the tank, so the fish starved"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marine fish hypertonic to fresh water, water rushes in by osmosis cells swell burst.",
+    "proTip": "Marine fish in fresh water = cells swell burst hypotonic."
+  },
+  {
+    "id": "biology_2002_q35",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Anterior half lungs heart",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "Which of the following pairs of organs is located in the anterior half of the mammalian body cavity?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Kidneys and lungs",
+      "Heart and ovary",
+      "Lungs and heart",
+      "Kidneys and heart"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thoracic cavity anterior contains lungs and heart.",
+    "proTip": "Anterior body cavity = lungs heart."
+  },
+  {
+    "id": "biology_2002_q36",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Tapeworm parasitic",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The mode of nutrition exhibited by a tapeworm is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "symbiotic",
+      "saprophytic",
+      "parasitic",
+      "holozoic"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tapeworm endoparasite in intestine absorbs nutrients.",
+    "proTip": "Tapeworm = parasitic."
+  },
+  {
+    "id": "biology_2002_q37",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Pancreas duodenal loop",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The organ located within the duodenal loop in the mammal is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "spleen",
+      "pancreas",
+      "liver",
+      "gall bladder"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pancreas lies in U-shaped duodenal loop.",
+    "proTip": "Duodenal loop = pancreas."
+  },
+  {
+    "id": "biology_2002_q38",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Caryopsis pericarp inseparable seed coat",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "In which of the following groups of fruits is the pericarp inseparable from the seed coat?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Nut",
+      "Follicle",
+      "Cypsela",
+      "Caryopsis (maize, rice)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Caryopsis grain pericarp fused to testa seed coat.",
+    "proTip": "Pericarp inseparable = caryopsis."
+  },
+  {
+    "id": "biology_2002_q39",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Obese avoid margarine butter fat",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "A person that is obese must avoid meals containing",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "carrots and oranges",
+      "margarine and butter (fats)",
+      "beef and beans (protein)",
+      "rice and yam (carbs)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Obese should avoid high fat energy dense foods margarine butter.",
+    "proTip": "Obese avoid = fat margarine butter."
+  },
+  {
+    "id": "biology_2002_q40",
+    "subject": "Biology",
+    "topic": "Respiration",
+    "subTopic": "Tissue respiration release energy",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "Tissue respiration is important for the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "absorption of oxygen into the alveoli",
+      "release of carbon (IV) oxide into the lungs",
+      "release of energy for body use",
+      "exhalation of carbon (IV) oxide from lungs"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cellular respiration releases ATP energy for metabolism.",
+    "proTip": "Tissue respiration = release energy."
+  },
+  {
+    "id": "biology_2002_q41",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Absorption root hair structure",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "The function of absorption is performed by the structure labelled (root diagram)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "I root cap",
+      "II piliferous layer",
+      "III root hair",
+      "IV cortex"
+    ],
+    "correctIndex": 2,
+    "explanation": "Root hairs increase surface area for water absorption.",
+    "proTip": "Absorption root = root hair."
+  },
+  {
+    "id": "biology_2002_q42",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Xylem structure labelled I",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "The structure labelled I represents the (root TS)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "phloem",
+      "xylem",
+      "cortex",
+      "pericycle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Xylem central in root stele transport.",
+    "proTip": "Root TS I = xylem."
+  },
+  {
+    "id": "biology_2002_q43",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Thyroid gland position",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "The gland usually found in the position labelled (neck diagram) is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "adrenal",
+      "thyroid",
+      "pancreatic",
+      "pituitary"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thyroid in neck anterior trachea.",
+    "proTip": "Neck gland = thyroid."
+  },
+  {
+    "id": "biology_2002_q44",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Adrenaline emergency hormone",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "A hormone secreted at IV (adrenal) serves to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "facilitate the development of facial hairs",
+      "raise the level of calcium ions in the blood",
+      "lower blood glucose level",
+      "make the body react to emergencies / fight or flight"
+    ],
+    "correctIndex": 3,
+    "explanation": "Adrenaline from adrenal medulla prepares emergency response.",
+    "proTip": "Adrenal hormone = emergency reaction."
+  },
+  {
+    "id": "biology_2002_q45",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Retain large body size inbreed",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "To select and retain the desirable trait of large body size the farmer has observed in his herd, the farmer needs to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "feed the animals in the herd with more food",
+      "cross-breed his animals with a different herd",
+      "inbreed the animals in his herd",
+      "prevent diseases in his herd"
+    ],
+    "correctIndex": 2,
+    "explanation": "Inbreeding increases homozygosity retaining desired traits, though risks.",
+    "proTip": "Retain desirable trait = inbreed."
+  },
+  {
+    "id": "biology_2002_q46",
+    "subject": "Biology",
+    "topic": "Variation in Population",
+    "subTopic": "Continuous variation size height weight colour",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "In a population of living things, the parameters of size, height, weight and colour are example of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "discontinuous variations",
+      "continuous variations",
+      "physiological variations",
+      "non-heritable variations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Size height weight show gradation continuous variation polygenic.",
+    "proTip": "Size height weight = continuous variation."
+  },
+  {
+    "id": "biology_2002_q47",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Colour-blindness YXn boy colour-blind",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "If XN is dominant normal vision and Xn recessive colour-blindness, a boy with genotype YXn will",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "have normal vision",
+      "be colour-blind",
+      "be totally blind",
+      "be a carrier of colour-blindness"
+    ],
+    "correctIndex": 1,
+    "explanation": "Boy has only one X, Xn expresses colour-blindness, cannot be carrier.",
+    "proTip": "Boy YXn = colour-blind."
+  },
+  {
+    "id": "biology_2002_q48",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Probability fifth child girl 1/2",
+    "year": "2002",
+    "difficulty": "Apprentice",
+    "question": "The first four children of a couple were all girls. The probability that the fifth will also be a girl is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "1/5",
+      "1/4",
+      "1/3",
+      "1/2"
+    ],
+    "correctIndex": 3,
+    "explanation": "Each birth independent 50% boy girl.",
+    "proTip": "Probability fifth child girl = 1/2 independent."
+  },
+  {
+    "id": "biology_2002_q49",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Genetic counselling Rh- woman Rh+ man",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "Genetic counselling is important when a marriage is planned between a",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Rh- woman and Rh+ man (risk of haemolytic disease newborn)",
+      "Rh+ woman and Rh+ man",
+      "Rh- woman and Rh- man",
+      "Rh+ woman and Rh- man"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rh incompatibility Rh- mother Rh+ fetus risk erythroblastosis fetalis needs counselling.",
+    "proTip": "Genetic counselling Rh = Rh- woman Rh+ man."
+  },
+  {
+    "id": "biology_2002_q50",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Heterozygous cross recessive 1/4",
+    "year": "2002",
+    "difficulty": "Advanced",
+    "question": "What proportion of the offspring of a cross between two heterozygous parents will exhibit the recessive condition phenotypically?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "4/4"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aa x Aa Mendelian ratio 3 dominant 1 recessive 25%.",
+    "proTip": "Aa x Aa recessive phenotype = 1/4."
+  },
+  {
+    "id": "biology_2003_q1",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Mushroom pileus umbrella fruiting body",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The umbrella-shaped fruiting body of a fully developed mushroom is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "mycelium",
+      "basidium",
+      "pileus",
+      "stipe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pileus cap umbrella-shaped top bearing gills.",
+    "proTip": "Mushroom umbrella = pileus."
+  },
+  {
+    "id": "biology_2003_q2",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Evaporation osmosis kidney model",
+    "year": "2003",
+    "difficulty": "Advanced",
+    "question": "The processes of water loss and intake indicated by the arrows labelled I and II are respectively (kidney dialysis model)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "evaporation and osmosis",
+      "exhalation and osmosis",
+      "osmosis and diffusion",
+      "urination and diffusion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Model shows evaporation water loss and osmosis water intake.",
+    "proTip": "Water loss intake = evaporation osmosis."
+  },
+  {
+    "id": "biology_2003_q3",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Aquatic adaptation webbed digits",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "A noticeable adaptation of the animal to its aquatic habitat is the possession of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "webbed digits",
+      "four limbs",
+      "a wide mouth",
+      "large eyes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Webbed digits aid swimming in aquatic animals e.g., duck, frog.",
+    "proTip": "Aquatic adaptation = webbed digits."
+  },
+  {
+    "id": "biology_2003_q4",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Similarity least kingdom classification",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The similarity among organisms belonging to the same group will be least within each",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "order",
+      "family",
+      "species",
+      "kingdom"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kingdom largest least similarity, species most similarity.",
+    "proTip": "Least similarity = kingdom largest group."
+  },
+  {
+    "id": "biology_2003_q5",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Hermaphroditic annelids molluscs platyhelminthes",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "Hermaphroditic reproduction can be found among the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "annelids and molluscs",
+      "pisces and amphibians",
+      "coelenterates and platyhelminthes",
+      "arthropods and nematodes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Earthworms annelids and snails molluscs are hermaphrodites.",
+    "proTip": "Hermaphroditic = annelids molluscs."
+  },
+  {
+    "id": "biology_2003_q6",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Liverworts alternation of generation",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "One distinctive feature in the life history of liverworts is that they exhibit",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "vegetative reproduction",
+      "alternation of generation",
+      "sexual reproduction",
+      "asexual reproduction"
+    ],
+    "correctIndex": 1,
+    "explanation": "Liverworts bryophytes show alternation gametophyte dominant and sporophyte.",
+    "proTip": "Liverworts = alternation of generation."
+  },
+  {
+    "id": "biology_2003_q7",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Food stored cell structure",
+    "year": "2003",
+    "difficulty": "Advanced",
+    "question": "Food is stored in the structure labelled (cell diagram)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "IIII vacuole",
+      "IV nucleus",
+      "I cytoplasm / granule",
+      "II mitochondrion"
+    ],
+    "correctIndex": 2,
+    "explanation": "Food storage vacuole or cytoplasm granules store food.",
+    "proTip": "Food storage = vacuole cytoplasm."
+  },
+  {
+    "id": "biology_2003_q8",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Common plant animal cell structures",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The structures that are common to both plant and animal cell are labelled",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "II and III nucleus mitochondria",
+      "III and IV cell wall chloroplast",
+      "IV and I",
+      "I and II"
+    ],
+    "correctIndex": 0,
+    "explanation": "Both have nucleus mitochondria cytoplasm membrane.",
+    "proTip": "Common plant animal = nucleus mitochondria."
+  },
+  {
+    "id": "biology_2003_q9",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Prokaryotic ribosome",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The cell component that is present in a prokaryotic cell is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "ribosome",
+      "mitochondrion",
+      "chloroplast",
+      "nuclear envelope"
+    ],
+    "correctIndex": 0,
+    "explanation": "Prokaryotes have 70S ribosomes but no membrane-bound organelles.",
+    "proTip": "Prokaryotic present = ribosome."
+  },
+  {
+    "id": "biology_2003_q10",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Bird embryo disc",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "In the egg of a bird, the embryo is located in the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "yolk",
+      "embryo disc / blastodisc",
+      "chalaza",
+      "albumen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Blastodisc germinal disc on yolk surface develops into embryo.",
+    "proTip": "Bird embryo = embryo disc."
+  },
+  {
+    "id": "biology_2003_q11",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Butterfly harmful beneficial",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "An insect whose economic importance is both harmful and beneficial is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "butterfly (pollinator and larva pest)",
+      "mosquito",
+      "blackfly",
+      "tsetsefly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Butterfly adult pollinates beneficial, larva caterpillar destroys crops harmful.",
+    "proTip": "Harmful + beneficial = butterfly."
+  },
+  {
+    "id": "biology_2003_q12",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Transpiration through leaves",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The experiment is used to demonstrate that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "transpiration occurs through the leaves",
+      "plants lose water through guttation",
+      "leaves are important to photosynthesis",
+      "water is necessary for photosynthesis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cobalt chloride or potometer experiment shows transpiration via leaves.",
+    "proTip": "Leaves water loss experiment = transpiration."
+  },
+  {
+    "id": "biology_2003_q13",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Oil prevents evaporation",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "In the experiment, the layer of oil serves to prevent water loss by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Osmosis",
+      "Transpiration",
+      "Evaporation",
+      "Guttation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oil layer on water surface prevents direct evaporation.",
+    "proTip": "Oil layer = prevent evaporation."
+  },
+  {
+    "id": "biology_2003_q14",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Red stain xylem water transport",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "If water that has been coloured red is poured at the base of a wilting plant, it will appear as a red stain in the cells of the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "phloem",
+      "parenchyma",
+      "xylem",
+      "epidermis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Xylem conducts water upward.",
+    "proTip": "Coloured water stain = xylem."
+  },
+  {
+    "id": "biology_2003_q15",
+    "subject": "Biology",
+    "topic": "Soil",
+    "subTopic": "Nitrogen deficiency rhizobium inoculation",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The stunted growth of a leguminous plant suffering from nitrogen deficiency may be corrected by inoculating the soil with",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "saprophytic bacteria",
+      "rhizobium",
+      "denitrifying bacteria",
+      "nitrosomonas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rhizobium fixes atmospheric nitrogen for legumes.",
+    "proTip": "Legume nitrogen deficiency = Rhizobium."
+  },
+  {
+    "id": "biology_2003_q16",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Complex transport surface volume 1:5",
+    "year": "2003",
+    "difficulty": "Advanced",
+    "question": "Organisms I, II, III and IV have surface/volume ratios of 1:2, 1:3, 1:4 and 1:5 respectively. The organism that is likely to have the most complex transport system is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "III (1:4)",
+      "IV (1:5 lowest SA:V largest)",
+      "II (1:3)",
+      "I (1:2 highest SA:V)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lowest SA:V ratio needs complex transport to reach interior.",
+    "proTip": "Most complex transport = lowest SA:V 1:5."
+  },
+  {
+    "id": "biology_2003_q17",
+    "subject": "Biology",
+    "topic": "Respiration",
+    "subTopic": "CO2 exhaled air experiment",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The aim of the experiment is to demonstrate (lime water breathing experiment)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the presence of carbon (IV) oxide in exhaled air",
+      "that in mammals gaseous exchange takes place in the lungs",
+      "the part played by the pleural cavity and diaphragm in respiration",
+      "that a large amount of oxygen is absorbed by the lungs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lime water turns milky with CO2 in exhaled air.",
+    "proTip": "Lime water breathing = CO2 exhaled."
+  },
+  {
+    "id": "biology_2003_q18",
+    "subject": "Biology",
+    "topic": "Respiration",
+    "subTopic": "Rubber sheet diaphragm model",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "In the experimental set-up, the rubber sheet represents the organ called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "diaphragm",
+      "lungs (balloons)",
+      "intercostal muscles",
+      "pleural cavity"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bell jar model rubber sheet = diaphragm, balloons = lungs.",
+    "proTip": "Rubber sheet model = diaphragm."
+  },
+  {
+    "id": "biology_2003_q19",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Absorption ileum",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The part of the mammalian digestive system where absorption of nutrients takes place is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "duodenum",
+      "colon",
+      "ileum",
+      "oesophagus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ileum with villi main absorption site.",
+    "proTip": "Absorption nutrients = ileum."
+  },
+  {
+    "id": "biology_2003_q20",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Dark reaction CO2 reduction organic",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The dark reaction of photosynthesis involves the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "release of oxygen and the splitting of water",
+      "photolysis of water and the production of starch",
+      "reduction of carbon (IV) oxide to organic compounds",
+      "splitting of water into hydrogen ions"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dark Calvin cycle reduces CO2 to carbohydrates.",
+    "proTip": "Dark reaction = CO2 reduction to organic."
+  },
+  {
+    "id": "biology_2003_q21",
+    "subject": "Biology",
+    "topic": "Growth",
+    "subTopic": "Ethylene fruit ripening",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The most important hormone that induces the ripening of fruit is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Cytokinin",
+      "Indole acetic acid",
+      "Ethylene",
+      "Gibberellin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ethylene gaseous hormone triggers ripening.",
+    "proTip": "Ripening hormone = ethylene."
+  },
+  {
+    "id": "biology_2003_q22",
+    "subject": "Biology",
+    "topic": "Excretion",
+    "subTopic": "Urea production liver",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "Metabolic production of urea is carried out in the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "urinary bladder and kidney",
+      "pancreas",
+      "kidney and malpighian tubule",
+      "liver"
+    ],
+    "correctIndex": 3,
+    "explanation": "Urea cycle in liver from deamination.",
+    "proTip": "Urea production = liver."
+  },
+  {
+    "id": "biology_2003_q23",
+    "subject": "Biology",
+    "topic": "Excretion",
+    "subTopic": "Urethra shared excretory reproductive male",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "In mammalian males, the excretory and reproductive system share the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "ureter",
+      "testes",
+      "vas deferens",
+      "urethra"
+    ],
+    "correctIndex": 3,
+    "explanation": "Urethra conveys both urine and semen in males.",
+    "proTip": "Male shared = urethra."
+  },
+  {
+    "id": "biology_2003_q24",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Sugarcane stem cuttings propagation",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The best method of propagating sugarcane is by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "stem cuttings / setts",
+      "seed sowing",
+      "layering",
+      "grafting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sugarcane vegetatively propagated via stem cuttings with nodes.",
+    "proTip": "Sugarcane propagation = stem cuttings."
+  },
+  {
+    "id": "biology_2003_q25",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Nastic movement non-directional",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The response of plants to external stimuli in a non-directional manner is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "nastic movement",
+      "phototropism",
+      "tactic movement",
+      "geotropism"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nastic movements independent direction e.g., Mimosa.",
+    "proTip": "Non-directional plant response = nastic."
+  },
+  {
+    "id": "biology_2003_q26",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Neuron peripheral central nervous systems",
+    "year": "2003",
+    "difficulty": "Advanced",
+    "question": "The structure (neuron) can be found in the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "peripheral and central nervous systems",
+      "peripheral nervous system only",
+      "sympathetic and parasympathetic nervous systems",
+      "central nervous system only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neurons found in both CNS and PNS.",
+    "proTip": "Neuron found = peripheral + central."
+  },
+  {
+    "id": "biology_2003_q27",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Node of Ranvier point I",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The point marked I is referred to as (neuron diagram)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "myelin sheath",
+      "dendrites",
+      "node of Ranvier",
+      "axon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Node of Ranvier gap between myelin sheaths for saltatory conduction.",
+    "proTip": "Neuron gap = node of Ranvier."
+  },
+  {
+    "id": "biology_2003_q28",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Homologous chromosomes separate meiosis",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "Homologous pairs of chromosomes separate during",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "meiosis (anaphase I)",
+      "cytolysis",
+      "mitosis",
+      "cleavage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Meiosis I homologous separate reducing chromosome number.",
+    "proTip": "Homologous separate = meiosis."
+  },
+  {
+    "id": "biology_2003_q29",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Caryopsis maize grain",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "An example of a caryopsis is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "coconut",
+      "tomato",
+      "guava",
+      "maize grain"
+    ],
+    "correctIndex": 3,
+    "explanation": "Caryopsis grain fruit where pericarp fused to seed coat e.g., maize.",
+    "proTip": "Caryopsis = maize grain."
+  },
+  {
+    "id": "biology_2003_q30",
+    "subject": "Biology",
+    "topic": "Soil",
+    "subTopic": "Limiting factor chemical factory pH",
+    "year": "2003",
+    "difficulty": "Advanced",
+    "question": "A limiting factor in a plant population near a chemical factory is likely to be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "humidity",
+      "pH (acid pollution)",
+      "wind",
+      "light"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chemical effluents alter soil pH acid toxicity limiting plants.",
+    "proTip": "Chemical factory limiting = pH."
+  },
+  {
+    "id": "biology_2003_q31",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Pioneer organisms lichens",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The pioneer organisms in ecological succession are usually the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "lichens",
+      "algae",
+      "ferns",
+      "mosses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lichens colonize bare rock primary succession.",
+    "proTip": "Pioneer = lichens."
+  },
+  {
+    "id": "biology_2003_q32",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Mycorrhiza fungi roots higher plants",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "Mycorrhiza is an association between fungi and",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "roots of higher plants",
+      "filamentous algae",
+      "bacteria",
+      "protozoans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mycorrhiza mutualistic fungus roots aiding nutrient absorption.",
+    "proTip": "Mycorrhiza = fungi + roots higher plants."
+  },
+  {
+    "id": "biology_2003_q33",
+    "subject": "Biology",
+    "topic": "The Ecology of Populations",
+    "subTopic": "Density-dependent disease",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "A density-dependent factor that regulates the population size of organisms is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "sudden flood",
+      "disease",
+      "fire outbreak",
+      "drought"
+    ],
+    "correctIndex": 1,
+    "explanation": "Disease spreads more with crowding density-dependent.",
+    "proTip": "Density-dependent = disease."
+  },
+  {
+    "id": "biology_2003_q34",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "Non-biodegradable recycling",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The most effective method of dealing with non-biodegradable pollution is by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "burying",
+      "dumping",
+      "incineration",
+      "recycling"
+    ],
+    "correctIndex": 3,
+    "explanation": "Recycling reuses non-biodegradable materials e.g., plastics metals.",
+    "proTip": "Non-biodegradable best = recycling."
+  },
+  {
+    "id": "biology_2003_q35",
+    "subject": "Biology",
+    "topic": "Soil",
+    "subTopic": "Soil fertility microbes earthworms",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "Soil fertility can best be conserved and renewed by the activities of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "microbes (nitrogen fixing, decomposition)",
+      "earthworms",
+      "man",
+      "rodents"
+    ],
+    "correctIndex": 0,
+    "explanation": "Microbes and earthworms both help, microbes key for nutrient cycling.",
+    "proTip": "Soil fertility conserved = microbes earthworms."
+  },
+  {
+    "id": "biology_2003_q36",
+    "subject": "Biology",
+    "topic": "Local (Nigerian) Biomes",
+    "subTopic": "Biomes north to south sahel sudan guinea rainforest estuarine",
+    "year": "2003",
+    "difficulty": "Advanced",
+    "question": "The correct sequence of biomes from northern to southern Nigeria is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "estuarine -> tropical rain forest -> guinea savanna -> sahel savanna",
+      "sahel savanna -> sudan savanna -> guinea savanna -> tropical rainforest -> estuarine",
+      "sahel savanna -> tropical rain forest -> estuarine -> guinea savanna",
+      "guinea savanna -> sudan savanna -> tropical rainforest -> sahel savanna -> estuarine"
+    ],
+    "correctIndex": 1,
+    "explanation": "North to South: Sahel -> Sudan -> Guinea -> Rain forest -> Mangrove/Estuarine.",
+    "proTip": "North to South = Sahel Sudan Guinea Rainforest Estuarine."
+  },
+  {
+    "id": "biology_2003_q37",
+    "subject": "Biology",
+    "topic": "Humans and Environment",
+    "subTopic": "Fossil fuel coal",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "One example of fossil fuels is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "coral",
+      "limestone",
+      "firewood",
+      "coal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Coal fossilized plant remains fossil fuel.",
+    "proTip": "Fossil fuel example = coal."
+  },
+  {
+    "id": "biology_2003_q38",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Baldness female carrier XBXb",
+    "year": "2003",
+    "difficulty": "Advanced",
+    "question": "If the pair of alleles for baldness is given as Bb, a female carrier will be denoted by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "XBXb",
+      "XBXB",
+      "XbY",
+      "XBY"
+    ],
+    "correctIndex": 0,
+    "explanation": "Female carrier heterozygous XBXb for sex-influenced baldness.",
+    "proTip": "Female baldness carrier = XBXb."
+  },
+  {
+    "id": "biology_2003_q39",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Drosophila chromosome theory heredity",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "An organism that has been extensively used to test the chromosome theory of heredity is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Homo sapiens",
+      "Drosophila melanogaster",
+      "Zea mays",
+      "Musca domestica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fruit fly Drosophila classic genetics model Morgan.",
+    "proTip": "Chromosome theory test = Drosophila."
+  },
+  {
+    "id": "biology_2003_q40",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Y-chromosome facial hairs",
+    "year": "2003",
+    "difficulty": "Advanced",
+    "question": "A feature associated with the Y-chromosome in humans is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "facial hairs / maleness",
+      "prominent fingernails",
+      "long eyelashes",
+      "enlarged breast"
+    ],
+    "correctIndex": 0,
+    "explanation": "Y chromosome determines maleness facial hair secondary sexual.",
+    "proTip": "Y-chromosome feature = facial hair maleness."
+  },
+  {
+    "id": "biology_2003_q41",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Sickle trait heterozygous carriers sicklers 75%",
+    "year": "2003",
+    "difficulty": "Advanced",
+    "question": "A man and his wife are both heterozygous for the sickle-cell trait. The likely percentage of their offspring that will be either carriers or sicklers is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "50%",
+      "25%",
+      "75%",
+      "100%"
+    ],
+    "correctIndex": 2,
+    "explanation": "AS x AS -> 1 AA normal 2 AS carriers 1 SS sickler, carriers + sicklers = 75%.",
+    "proTip": "AS x AS carriers+sicklers = 75%."
+  },
+  {
+    "id": "biology_2003_q42",
+    "subject": "Biology",
+    "topic": "Variation in Population",
+    "subTopic": "Variation sexual reproduction",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The type of reproduction that leads to variation in animal and plant populations is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "budding",
+      "vegetative",
+      "asexual",
+      "sexual"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sexual reproduction via meiosis and crossing over creates variation.",
+    "proTip": "Variation reproduction = sexual."
+  },
+  {
+    "id": "biology_2003_q43",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "DNA complement TCA AGT",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "If a DNA strand has a base sequence TCA, its complementary strand must be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "ATG",
+      "GAT",
+      "AGT",
+      "TAG"
+    ],
+    "correctIndex": 2,
+    "explanation": "Base pairing A-T, C-G, TCA complements AGT.",
+    "proTip": "DNA complement TCA = AGT."
+  },
+  {
+    "id": "biology_2003_q44",
+    "subject": "Biology",
+    "topic": "Evidence of Evolution",
+    "subTopic": "Carbon dating fossil records",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "Which of the following requires the use of carbon dating to prove that evolution has occurred?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "biochemical similarities",
+      "molecular records",
+      "fossil records",
+      "comparative anatomy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fossil dating via carbon/ radiometric dating proves age evolutionary sequence.",
+    "proTip": "Carbon dating needed = fossil records."
+  },
+  {
+    "id": "biology_2003_q45",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Sunken stomata folding reduce water loss",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The presence of sunken stomata and the folding of leaves are adaptations to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "prevent entry of pathogens",
+      "prevent guttation",
+      "remove excess water",
+      "reduce water loss / transpiration"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sunken stomata and leaf folding reduce transpiration xerophytic adaptations.",
+    "proTip": "Sunken stomata folding = reduce water loss."
+  },
+  {
+    "id": "biology_2003_q46",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Spines shells physical defence",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "Spines and shells on animals are adaptations for",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "physical defence / protection",
+      "camouflage",
+      "chemical defence",
+      "mimicry"
+    ],
+    "correctIndex": 0,
+    "explanation": "Spines shells hard physical barriers against predators.",
+    "proTip": "Spines shells = physical defence."
+  },
+  {
+    "id": "biology_2003_q47",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Aestivation hot dry seasons",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "The inactive state exhibited by an animal during hot dry seasons is termed",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "aestivation",
+      "dormancy",
+      "resting",
+      "hibernation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aestivation summer dormancy hot dry, hibernation winter cold.",
+    "proTip": "Hot dry inactive = aestivation."
+  },
+  {
+    "id": "biology_2003_q48",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Mandibulate chewing food",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "An insect with a mandibulate mouth part will obtain its food by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "chewing / biting and chewing",
+      "chewing and sucking",
+      "sucking",
+      "biting and chewing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mandibulate mouthparts adapted for chewing solid food e.g., cockroach grasshopper.",
+    "proTip": "Mandibulate = chewing."
+  },
+  {
+    "id": "biology_2003_q49",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Cryptic mottled moths lichens",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "An example of cryptic colouration is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "bright marks on a poisonous tropical frog on variegated leaves",
+      "bright colour of an insect-pollinated flower",
+      "mottled colours on moths that rest on lichens",
+      "green colour of a plant"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mottled moth matches lichen background camouflage cryptic.",
+    "proTip": "Cryptic example = mottled moth on lichens."
+  },
+  {
+    "id": "biology_2003_q50",
+    "subject": "Biology",
+    "topic": "Theories of Evolution",
+    "subTopic": "Lamarck acquired traits cannot be passed",
+    "year": "2003",
+    "difficulty": "Apprentice",
+    "question": "An argument against Lamarck’s theory of evolution is that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "acquired traits cannot be passed onto the offspring",
+      "disuse of body part cannot weaken the part",
+      "disused part is dropped off in the offspring",
+      "traits cannot be acquired through constant use of body parts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Modern genetics shows acquired somatic changes not inherited.",
+    "proTip": "Against Lamarck = acquired traits not inherited."
+  },
+  {
+    "id": "biology_2004_q1",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Gall bladder duct duodenum",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The gall bladder of a mammal has a duct connected to the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "duodenum",
+      "liver",
+      "pancreas",
+      "small intestine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Common bile duct from gall bladder opens into duodenum.",
+    "proTip": "Gall bladder duct = duodenum."
+  },
+  {
+    "id": "biology_2004_q2",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Stoma opening guard cells solute increase",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "The opening of the stoma is controlled by the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "presence of guard cells",
+      "decrease in solute concentration in the guard cells",
+      "increase in solute concentration in the guard cells",
+      "presence of a pore"
+    ],
+    "correctIndex": 2,
+    "explanation": "K+ influx increases solute osmotic pressure guard cells turgid open.",
+    "proTip": "Stoma open = solute increase guard cells."
+  },
+  {
+    "id": "biology_2004_q3",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Yam semi-permeable membrane osmosis",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "Yam is used in this set-up because it (osmosis experiment)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "acts as a semi-permeable membrane / osmoscope",
+      "acts as a storage organ",
+      "is permeable to the salt solution",
+      "is a plant material"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yam tuber acts as selectively permeable membrane for osmosis demonstration.",
+    "proTip": "Yam experiment = semi-permeable membrane."
+  },
+  {
+    "id": "biology_2004_q4",
+    "subject": "Biology",
+    "topic": "Transport",
+    "subTopic": "Osmosis yam size decrease",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "Which of the following results is to be expected if the yam osmosis set-up is left for several hours?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Movement of water from the salt solution",
+      "Decrease in the size of the yam (water loss to hypertonic salt)",
+      "Movement of the salt solution into the water",
+      "Decrease in the volume of water inside the yam"
+    ],
+    "correctIndex": 1,
+    "explanation": "Water moves out of yam into concentrated salt solution by osmosis yam shrinks.",
+    "proTip": "Yam salt solution = yam shrinks."
+  },
+  {
+    "id": "biology_2004_q5",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Bird eggs larger yolk embryonic development longer",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "The eggs of birds contain relatively larger quantities of yolk than those of amphibians and reptiles because",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "embryonic development is longer in birds / needs more nourishment",
+      "birds lay shelled eggs",
+      "birds are generally bigger in size",
+      "those of birds are fertilized internally"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bird embryo requires more stored food for longer development inside shell.",
+    "proTip": "Bird egg larger yolk = longer embryonic development needs."
+  },
+  {
+    "id": "biology_2004_q6",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Wide pith dicot monocot stems",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "In the internal structure of plants, a wide pith in the centre is common to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "dicot root and monocot stems",
+      "dicot stems and monocot stems",
+      "dicot stem and monocot roots",
+      "dicot roots and monocot roots"
+    ],
+    "correctIndex": 1,
+    "explanation": "Both dicot and monocot stems have central pith parenchyma, roots have small or no pith except monocot root.",
+    "proTip": "Wide pith common = dicot and monocot stems."
+  },
+  {
+    "id": "biology_2004_q7",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Prolactin milk production",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "If a nursing mother is not producing enough milk, her hormonal system is probably deficient in",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "testosterone",
+      "thyroxin",
+      "insulin",
+      "prolactin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prolactin from anterior pituitary stimulates milk production lactation.",
+    "proTip": "Milk production hormone = prolactin."
+  },
+  {
+    "id": "biology_2004_q8",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Joint suture skull",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "The type of joint between adjacent bones in the part labelled II (skull) is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "hinge joint",
+      "suture joint (immovable)",
+      "sliding joint",
+      "ball-and-socket joint"
+    ],
+    "correctIndex": 1,
+    "explanation": "Skull bones connected by sutures fibrous immovable joints.",
+    "proTip": "Skull joint = suture."
+  },
+  {
+    "id": "biology_2004_q9",
+    "subject": "Biology",
+    "topic": "Support and Movement",
+    "subTopic": "Cervical vertebrae",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "The bones labelled II are called (neck region)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "thoracic vertebrae",
+      "lumbar vertebrae",
+      "cervical vertebrae",
+      "sacral vertebrae"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cervical vertebrae in neck region.",
+    "proTip": "Neck bones = cervical vertebrae."
+  },
+  {
+    "id": "biology_2004_q10",
+    "subject": "Biology",
+    "topic": "Nutrition",
+    "subTopic": "Lipases fats oils",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The breakdown of fats and oils into simpler absorbable compounds is catalyzed by the group of enzymes called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "peptidases",
+      "amylases",
+      "lipases",
+      "hydrolases"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lipases hydrolyze lipids to fatty acids glycerol.",
+    "proTip": "Fats breakdown = lipases."
+  },
+  {
+    "id": "biology_2004_q11",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Na K action potential",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "The two key cations involved in the action potential of nervous transmissions are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Mg2+ and K+",
+      "Na+ and Fe2+",
+      "Fe2+ and Mg2+",
+      "Na+ and K+"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na+ influx depolarization, K+ efflux repolarization in action potential.",
+    "proTip": "Action potential = Na+ K+."
+  },
+  {
+    "id": "biology_2004_q12",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Flower part anther",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "The part labelled II is the (flower diagram)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "anther",
+      "style",
+      "filament",
+      "stigma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anther produces pollen male part.",
+    "proTip": "Flower II = anther."
+  },
+  {
+    "id": "biology_2004_q13",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Pollination anther stigma",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The process of pollination involves the transfer of pollens from",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "III to IV (ovary to style)",
+      "IV to I (filament to anther)",
+      "II to III (anther to stigma)",
+      "I to II (anther to filament)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pollination anther to stigma.",
+    "proTip": "Pollination = anther to stigma."
+  },
+  {
+    "id": "biology_2004_q14",
+    "subject": "Biology",
+    "topic": "Respiration",
+    "subTopic": "Anaerobic fermentation 2ATP alcohol",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The anaerobic fermentation of a glucose molecule yields",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "pyruvic acid and alcohol",
+      "38 ATP molecules",
+      "water and carbon (IV) oxide",
+      "2 ATP molecules and alcohol / lactic acid"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anaerobic glycolysis yields 2 ATP net plus ethanol or lactate.",
+    "proTip": "Anaerobic glucose = 2 ATP + alcohol."
+  },
+  {
+    "id": "biology_2004_q15",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Skin sebaceous oil",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The function of the part labelled III (skin) is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "produce oil for the skin (sebaceous gland)",
+      "carry blood and nitrogenous waste",
+      "contract to pull the hair erect (arrector pili)",
+      "conduct nervous impulses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sebaceous gland produces sebum oil.",
+    "proTip": "Skin III = sebaceous oil."
+  },
+  {
+    "id": "biology_2004_q16",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Sweat gland",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The sweat gland is the structure labelled",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "IV",
+      "III",
+      "II coiled gland",
+      "I epidermis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sweat gland coiled tubular in dermis.",
+    "proTip": "Sweat gland = coiled structure II."
+  },
+  {
+    "id": "biology_2004_q17",
+    "subject": "Biology",
+    "topic": "Reproduction",
+    "subTopic": "Hydra yeast budding",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The type of reproduction that is common to both Hydra and yeast is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "grafting",
+      "budding",
+      "conjugation",
+      "binary fission"
+    ],
+    "correctIndex": 1,
+    "explanation": "Both reproduce asexually by budding.",
+    "proTip": "Hydra yeast common = budding."
+  },
+  {
+    "id": "biology_2004_q18",
+    "subject": "Biology",
+    "topic": "Growth",
+    "subTopic": "Epigeal hypocotyl elongation rapid",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "Epigeal germination of a seed is characterized by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "lack of growth of the hypocotyl",
+      "more rapid elongation of the hypocotyl than the epicotyl",
+      "more rapid elongation of the epicotyl than the hypocotyl",
+      "equal growth rate of both the hypocotyl and epicotyl"
+    ],
+    "correctIndex": 1,
+    "explanation": "Epigeal hypocotyl elongates lifting cotyledons above ground.",
+    "proTip": "Epigeal = hypocotyl elongates faster."
+  },
+  {
+    "id": "biology_2004_q19",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Water medium metabolic reactions",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "All living cells require water because it",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "is a medium that neutralizes acids in cells",
+      "is the main source of energy for the cells",
+      "prevents the development of diseases in cells",
+      "is a medium for all metabolic reactions"
+    ],
+    "correctIndex": 3,
+    "explanation": "Water universal solvent medium for biochemical reactions.",
+    "proTip": "Cells require water = medium metabolic reactions."
+  },
+  {
+    "id": "biology_2004_q20",
+    "subject": "Biology",
+    "topic": "Respiration",
+    "subTopic": "Alveolus capillaries",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The surface of an alveolus in a mammal is well supplied with tiny blood vessels known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "capillaries",
+      "arteries",
+      "arterioles",
+      "venules"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alveolar capillaries for gas exchange.",
+    "proTip": "Alveolus vessels = capillaries."
+  },
+  {
+    "id": "biology_2004_q21",
+    "subject": "Biology",
+    "topic": "Co-ordination and Control",
+    "subTopic": "Nervous vs hormonal short-term",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "Nervous control differs from hormonal control in that the former",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "is a slower process",
+      "involves only chemical transmission",
+      "has no specific pathway",
+      "produces short-term changes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nervous rapid short-lived, hormonal slow long-lasting.",
+    "proTip": "Nervous control = short-term changes."
+  },
+  {
+    "id": "biology_2004_q22",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Identical twins same egg sperm",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "Identical twins inherit their genes from",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "one egg and two sperms",
+      "two eggs and a sperm",
+      "the same egg and same sperm (monozygotic)",
+      "different eggs and sperms"
+    ],
+    "correctIndex": 2,
+    "explanation": "Monozygotic twins from single zygote splitting.",
+    "proTip": "Identical twins = same egg same sperm."
+  },
+  {
+    "id": "biology_2004_q23",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Paternity DNA analysis",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "Paternity disputes can most accurately be resolved through the use of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "DNA analysis / fingerprinting",
+      "fingerprinting (dermal)",
+      "tongue-rolling",
+      "blood group typing"
+    ],
+    "correctIndex": 0,
+    "explanation": "DNA profiling most accurate for paternity.",
+    "proTip": "Paternity most accurate = DNA analysis."
+  },
+  {
+    "id": "biology_2004_q24",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Sex-linked X and Y chromosomes",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "Sex-linked genes are located on",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "X-and Y-chromosomes",
+      "homologous chromosomes",
+      "X-chromosomes",
+      "Y-chromosome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Genes on sex chromosomes X and Y.",
+    "proTip": "Sex-linked genes = X and Y chromosomes."
+  },
+  {
+    "id": "biology_2004_q25",
+    "subject": "Biology",
+    "topic": "Heredity",
+    "subTopic": "Incomplete dominance pink four o'clock",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "In a Mendelian cross of red and white varieties of the four o’clock plant, the F1 generation expresses incomplete dominance by having flowers which are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "multicoloured",
+      "pink",
+      "red",
+      "white"
+    ],
+    "correctIndex": 1,
+    "explanation": "Incomplete dominance red x white = pink intermediate.",
+    "proTip": "Incomplete dominance red white = pink."
+  },
+  {
+    "id": "biology_2004_q26",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Insects successful survive various conditions",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "Insects are considered the most successful among the invertebrates because they",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "survive in various environmental conditions (adaptable)",
+      "possess the ability to change their forms",
+      "possess exoskeletons",
+      "have wings for flight"
+    ],
+    "correctIndex": 0,
+    "explanation": "Insects occupy diverse habitats high adaptability most successful.",
+    "proTip": "Insects successful = survive various conditions."
+  },
+  {
+    "id": "biology_2004_q27",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Bryophytes no conducting system restricts size",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The absence of special food and water-conducting systems restricts the body size in",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the bryophytes and the pteridophytes",
+      "the thallophytes and the pteridophytes",
+      "liverworts, mosses and ferns",
+      "algae, liverworts and mosses (thallophytes & bryophytes)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Algae liverworts mosses lack vascular tissue small size.",
+    "proTip": "No conducting system = algae liverworts mosses small."
+  },
+  {
+    "id": "biology_2004_q28",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Mammals sebaceous glands peculiar",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "A peculiar characteristic of mammals is that they",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "have sebaceous glands / sweat glands",
+      "have teeth",
+      "are warm-blooded",
+      "have lungs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sebaceous glands with hair unique mammals, warm-blooded also birds.",
+    "proTip": "Mammals peculiar = sebaceous glands."
+  },
+  {
+    "id": "biology_2004_q29",
+    "subject": "Biology",
+    "topic": "Internal Structure of Plants and Animals",
+    "subTopic": "Rods retina cells",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The rods in the retina of the eye are examples of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "organs",
+      "cells (photoreceptor cells)",
+      "systems",
+      "tissues"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rods and cones are specialized photoreceptor cells.",
+    "proTip": "Rods retina = cells."
+  },
+  {
+    "id": "biology_2004_q30",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Mosquito larva wriggler",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The larval stage of a mosquito is called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "caterpillar",
+      "maggot",
+      "wriggler",
+      "grub"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mosquito larva known as wriggler, pupa tumbler.",
+    "proTip": "Mosquito larva = wriggler."
+  },
+  {
+    "id": "biology_2004_q31",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Fungal hyphae chitinous walls",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The most common characteristic of the fungal hyphae is the possession of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cell-like partitions formed by cross-walls",
+      "cell-like compartments with one nucleus each",
+      "a multicellular mycelium in the substrate",
+      "cell walls that are both rigid and chitinous"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fungal cell walls made of chitin rigid.",
+    "proTip": "Fungal hyphae = chitinous walls."
+  },
+  {
+    "id": "biology_2004_q32",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Cell part respiration",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "The part labelled II is responsible for (cell diagram)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "respiration / mitochondrion",
+      "protein synthesis",
+      "excretion",
+      "photosynthesis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mitochondrion powerhouse respiration.",
+    "proTip": "Cell II respiration = mitochondrion."
+  },
+  {
+    "id": "biology_2004_q33",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Endoplasmic reticulum",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "The endoplasmic reticulum is represented by the part labelled",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "III",
+      "VI",
+      "I",
+      "II"
+    ],
+    "correctIndex": 0,
+    "explanation": "ER network near nucleus.",
+    "proTip": "ER label = III."
+  },
+  {
+    "id": "biology_2004_q34",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Termite long-winged reproductives disperse population",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The function of the long-winged reproductives in a termite colony is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "protect the young",
+      "participate in swarming",
+      "feed the young",
+      "disperse the population / found new colonies"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alates swarm disperse to form new colonies.",
+    "proTip": "Termite long-winged = disperse population."
+  },
+  {
+    "id": "biology_2004_q35",
+    "subject": "Biology",
+    "topic": "Living Organisms",
+    "subTopic": "Euglena pigment spot plant-like",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "A plant-like feature in Euglena is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "large vacuole",
+      "gullet",
+      "pellicle",
+      "pigment spot / chloroplasts / eyespot"
+    ],
+    "correctIndex": 3,
+    "explanation": "Euglena has chloroplasts and eyespot pigment spot phototaxis plant-like.",
+    "proTip": "Euglena plant-like = pigment spot chloroplast."
+  },
+  {
+    "id": "biology_2004_q36",
+    "subject": "Biology",
+    "topic": "The Ecology of Populations",
+    "subTopic": "Intraspecific competition worker soldier termite",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "Which of the following is an example of intraspecific competition?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Yam and potato shoots growing out through the same window",
+      "A lizard and an ant-eater chasing an insect",
+      "A worker termite and a soldier termite in a limited space (same species)",
+      "A hawk and an eagle targeting the same chicken"
+    ],
+    "correctIndex": 2,
+    "explanation": "Same species members competing intraspecific.",
+    "proTip": "Intraspecific = same species worker soldier termite."
+  },
+  {
+    "id": "biology_2004_q37",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Leopard tiger spots disruptive colouration",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The spots and stripes of the leopard and tiger are examples of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "warning colouration",
+      "countershading",
+      "cryptic colouration",
+      "disruptive colouration"
+    ],
+    "correctIndex": 3,
+    "explanation": "Disruptive breaks outline camouflage in dappled forest.",
+    "proTip": "Spots stripes leopard tiger = disruptive."
+  },
+  {
+    "id": "biology_2004_q38",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Rodents chisel front teeth gnaw",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "Rodents gnaw on food with their",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "strong jaws",
+      "flat-ridged teeth",
+      "chisel-like front teeth (incisors)",
+      "molar teeth"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rodent incisors chisel-like ever-growing for gnawing.",
+    "proTip": "Rodents gnaw = chisel front teeth incisors."
+  },
+  {
+    "id": "biology_2004_q39",
+    "subject": "Biology",
+    "topic": "Evidence of Evolution",
+    "subTopic": "Palaeontology living extinct relationship",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "An evidence of the relationship between living organisms and their extinct relatives can best be obtained from",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "palaeontology (fossils)",
+      "embryology",
+      "comparative anatomy",
+      "comparative physiology"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fossils show extinct relatives linking to living forms.",
+    "proTip": "Living vs extinct evidence = palaeontology."
+  },
+  {
+    "id": "biology_2004_q40",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Plants hot dry store water parenchyma",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "Plants survive hot dry conditions by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "producing numerous leaves",
+      "having numerous stomata",
+      "having evergreen leaves",
+      "storing water in large parenchyma cells (succulence)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Succulents store water in parenchyma for drought.",
+    "proTip": "Hot dry survive = store water parenchyma."
+  },
+  {
+    "id": "biology_2004_q41",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Caterpillar aphid different niches same plant",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "A caterpillar and an aphid living in different parts of the same plant can be said to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "be in similar microhabitats",
+      "occupy different ecological niches",
+      "occupy the same ecological niche",
+      "be in different habitats"
+    ],
+    "correctIndex": 1,
+    "explanation": "Different feeding habits parts different niches same plant.",
+    "proTip": "Same plant different parts = different niches."
+  },
+  {
+    "id": "biology_2004_q42",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Energy loss decrease biomass",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The progressive loss of energy at each level in a food chain leads to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "a decrease in biomass at each successive level",
+      "an increase in the number of organisms at each successive level",
+      "an increase in the total weight of living matter at each successive level",
+      "an increase in biomass at each successive level"
+    ],
+    "correctIndex": 0,
+    "explanation": "Energy loss 90% leads to less biomass up chain.",
+    "proTip": "Energy loss food chain = decrease biomass."
+  },
+  {
+    "id": "biology_2004_q43",
+    "subject": "Biology",
+    "topic": "Soil",
+    "subTopic": "Difficult plough wet clayey",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The soil type that will be most difficult to plough in a wet season is one that is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "sandy",
+      "loamy",
+      "silty",
+      "clayey"
+    ],
+    "correctIndex": 3,
+    "explanation": "Clayey sticky waterlogged difficult to plough wet.",
+    "proTip": "Difficult plough wet = clayey."
+  },
+  {
+    "id": "biology_2004_q44",
+    "subject": "Biology",
+    "topic": "Factors Affecting the Distribution of Organisms",
+    "subTopic": "Desert zone temperature rainfall table",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "Which of the zones is likely to be a desert? (temperature/rainfall table)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "III low rainfall high temp",
+      "IV high rainfall low temp",
+      "I moderate",
+      "II"
+    ],
+    "correctIndex": 1,
+    "explanation": "Desert zone very low rainfall high temperature zone IV.",
+    "proTip": "Desert zone = low rainfall high temp."
+  },
+  {
+    "id": "biology_2004_q45",
+    "subject": "Biology",
+    "topic": "Factors Affecting the Distribution of Organisms",
+    "subTopic": "High humidity zones",
+    "year": "2004",
+    "difficulty": "Advanced",
+    "question": "High relative humidity will be expected in zones (table)",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "II and III",
+      "II and IV",
+      "I and IV high rainfall",
+      "I and III"
+    ],
+    "correctIndex": 2,
+    "explanation": "High rainfall areas have high humidity.",
+    "proTip": "High humidity = high rainfall zones I IV."
+  },
+  {
+    "id": "biology_2004_q46",
+    "subject": "Biology",
+    "topic": "Structural, Functional and Behavioural Adaptations",
+    "subTopic": "Reptiles keratinous scales water loss",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "One adaptation of reptiles to water loss is the presence of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "long tails",
+      "long sticky tongues",
+      "keratinous scales",
+      "claws on limbs"
+    ],
+    "correctIndex": 2,
+    "explanation": "Keratinous scales impermeable reduce water loss.",
+    "proTip": "Reptile water loss adaptation = keratinous scales."
+  },
+  {
+    "id": "biology_2004_q47",
+    "subject": "Biology",
+    "topic": "The Ecology of Populations",
+    "subTopic": "Food scarcity raises mortality",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The scarcity of food causes a sudden decrease in population size by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "minimizing the rate of competition",
+      "raising the mortality rate",
+      "bringing about immigration",
+      "decreasing the reproductive rate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Food scarcity starvation increases death rate.",
+    "proTip": "Food scarcity decrease population = raise mortality."
+  },
+  {
+    "id": "biology_2004_q48",
+    "subject": "Biology",
+    "topic": "Ecosystem",
+    "subTopic": "Termites protozoan mutualism",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "The association between termites and the cellulose-digesting protozoan in their guts is an example of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "mutualism",
+      "saprophytism",
+      "commensalism",
+      "parasitism"
+    ],
+    "correctIndex": 0,
+    "explanation": "Both benefit protozoan gets habitat, termite gets digested cellulose.",
+    "proTip": "Termite protozoan = mutualism."
+  },
+  {
+    "id": "biology_2004_q49",
+    "subject": "Biology",
+    "topic": "Local (Nigerian) Biomes",
+    "subTopic": "Desert encroachment Katsina",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "A state in Nigeria that is most susceptible to desert encroachment is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Kaduna",
+      "Katsina",
+      "Kwara",
+      "Taraba"
+    ],
+    "correctIndex": 1,
+    "explanation": "Katsina far north border Sahara most vulnerable to desertification.",
+    "proTip": "Desert encroachment Nigeria = Katsina."
+  },
+  {
+    "id": "biology_2004_q50",
+    "subject": "Biology",
+    "topic": "Soil",
+    "subTopic": "Loss soil fertility continuous cropping",
+    "year": "2004",
+    "difficulty": "Apprentice",
+    "question": "A farm practice that results in the loss of soil fertility is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "continuous cropping",
+      "mixed farming",
+      "bush fallowing",
+      "shifting cultivation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Continuous cropping without fallow depletes nutrients.",
+    "proTip": "Loss fertility = continuous cropping."
+  }
+]
