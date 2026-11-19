@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "commerce_1994_q1",
+    "subject": "Commerce",
+    "topic": "Commerce",
+    "subTopic": "Meaning and Scope of Commerce",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Commerce is defined as the study of how",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "man utilizes the resources in his physical environment",
+      "man produces, distributes and consumes his goods and services",
+      "man buys, sells and distributes goods and services",
+      "raw materials are changed into finished goods."
+    ],
+    "correctIndex": 2,
+    "explanation": "Commerce is broadly concerned with the exchange of goods and services, encompassing all trade and the aids-to-trade (like banking, insurance, and transport) that facilitate the buying, selling, and distribution of commodities.",
+    "proTip": "Always separate production (industry) from commerce (trade and aids-to-trade) when defining commerce."
+  },
+  {
+    "id": "commerce_1994_q2",
+    "subject": "Commerce",
+    "topic": "Production",
+    "subTopic": "Branches of Production (Manufacturing)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The type of activity which turns processed raw materials into consumer and industrial goods is described as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "extractive",
+      "manufacturing",
+      "constructive",
+      "processing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Manufacturing involves taking raw materials or semi-processed items and converting them into finished consumer or industrial goods.",
+    "proTip": "Distinguish manufacturing (turning raw materials into finished items) from extractive industries (obtaining gifts of nature)."
+  },
+  {
+    "id": "commerce_1994_q3",
+    "subject": "Commerce",
+    "topic": "Production",
+    "subTopic": "Types of Manufacturing / Synthesis",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The production process that combines two or more raw materials into one end product is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "conditioning",
+      "blending",
+      "merging",
+      "synthesis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Synthesis is a manufacturing process where several different ingredients or raw materials are mixed or combined to form a single new end product (e.g., making soap or paint).",
+    "proTip": "Remember that 'synthesis' means combining components to create a unified whole."
+  },
+  {
+    "id": "commerce_1994_q4",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Corporate Social Responsibility",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "A demonstration of social responsibility by a business is the payment of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "taxes to government",
+      "dividends to shareholders",
+      "interest on loans",
+      "premium for insurance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Paying statutory taxes to the government is a key element of legal and social responsibility, enabling the government to provide public infrastructure and social amenities.",
+    "proTip": "Corporate social responsibility (CSR) extends beyond profit-making to ethical duties toward the community and government."
+  },
+  {
+    "id": "commerce_1994_q5",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Joint Stock Companies",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "A distinguishing characteristic of a limited liability company is that it",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "is a collection of many sole proprietors",
+      "is a multiple partnership",
+      "can sue and be sued",
+      "has limited resources"
+    ],
+    "correctIndex": 2,
+    "explanation": "An incorporated limited liability company is a distinct legal entity separate from its owners, possessing the legal capacity to own property, enter into contracts, and sue or be sued in its corporate name.",
+    "proTip": "Corporate personality and perpetual succession are primary attributes of registered companies."
+  },
+  {
+    "id": "commerce_1994_q6",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Business Combinations",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Which of the following takes place when firms producing at different stages in the same industry combine?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Conglomeration",
+      "Vertical integration",
+      "Horizontal integration",
+      "Cartel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vertical integration occurs when firms at different successive stages of production or distribution within the same industry merge (e.g., a textile mill merging with a cotton farm or a retail clothing chain).",
+    "proTip": "Horizontal integration is between firms at the same stage, whereas vertical integration spans consecutive stages."
+  },
+  {
+    "id": "commerce_1994_q7",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Liquidation and Priorities of Claims",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Which of the following groups is paid first when a firm liquidates?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Preference shareholders",
+      "Debenture holders",
+      "Ordinary shareholders",
+      "Cumulative preference shareholders"
+    ],
+    "correctIndex": 1,
+    "explanation": "Debenture holders are creditors of the company holding a charge over its assets; therefore, they enjoy priority and must be paid out before any class of shareholders during liquidation.",
+    "proTip": "Priority order in liquidation: Creditors/Debenture holders -> Preference shareholders -> Ordinary shareholders."
+  },
+  {
+    "id": "commerce_1994_q8",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Dissolution and Winding Up",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Compulsory dissolution of a business can arise from",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "an agreement by the owners",
+      "a declaration by a court of law",
+      "the termination of its life",
+      "an unfavourable economic climate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Compulsory winding-up or dissolution of a corporate body is ordered legally through a declaration or winding-up petition granted by a court of law.",
+    "proTip": "Voluntary dissolution is decided by owners/members, whereas compulsory dissolution is mandated by a court order."
+  },
+  {
+    "id": "commerce_1994_q9",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Interpretation of Balance Sheets (Working/Circulating Capital)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Use the data below to answer questions 9 and 10.\nMBV Enterprises\nBalance Sheet as at 31st December, 1992\n[Liabilities | N | Assets | N | N]\n[Capital Balance as at Jan. 1. 1992: 60,000; Add Net Profit: 5,250 = 65,250; Less Drawings: 6,600 = 58,650]\n[Current Liabilities: Creditors: 9,730]\n[Fixed Assets: Fittings: 9,200; Vehicles: 7,500 = 16,700]\n[Current Assets: Stock in hand: 8,800; Debtors: 15,500; Cash at Bank: 21,000; Cash in hand: 6,380 = 51,680]\n[Total Liabilities = 68,380 | Total Assets = 68,380]\nWhat is the circulating capital of the sole proprietor?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N27, 380",
+      "N34,980",
+      "N36, 180",
+      "N51,680"
+    ],
+    "correctIndex": 3,
+    "explanation": "Circulating capital (also known as Gross Working Capital) refers to the total current assets of the business. From the balance sheet, Current Assets = Stock (8,800) + Debtors (15,500) + Cash at Bank (21,000) + Cash in hand (6,380) = N51,680.",
+    "proTip": "Gross working capital is synonymous with total current assets, whereas net working capital is current assets minus current liabilities."
+  },
+  {
+    "id": "commerce_1994_q10",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Working Capital Calculations",
+    "year": "1994",
+    "difficulty": "Scholar",
+    "question": "Use the data below to answer questions 9 and 10.\nMBV Enterprises\nBalance Sheet as at 31st December, 1992\n[Refer to Balance Sheet data in question 9]\nWhat is the working capital as at December 31, 1992?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N65, 250",
+      "N60,000",
+      "N48,650",
+      "N41,950"
+    ],
+    "correctIndex": 3,
+    "explanation": "Net Working Capital = Total Current Assets - Total Current Liabilities. Current Assets = N51,680. Current Liabilities (Creditors) = N9,730. Working Capital = 51,680 - 9,730 = N41,950.",
+    "proTip": "Always use Net Working Capital (Current Assets minus Current Liabilities) unless Gross Working Capital is explicitly requested."
+  },
+  {
+    "id": "commerce_1994_q11",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Profit and Tax Computation",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "A company earned a total revenue of N108 million with a total cost of N91 million in 1991. If it paid 45% tax on its gross profit for that year, determine its net profit.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N24.65 million",
+      "N17.00 million",
+      "N9.35 million",
+      "N7.65 million"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gross Profit (Profit Before Tax) = Total Revenue - Total Cost = 108 - 91 = N17 million. Tax = 45% of 17 million = 0.45 * 17 = N7.65 million. Net Profit (Profit After Tax) = Gross Profit - Tax = 17 - 7.65 = N9.35 million... Wait, let's re-verify: 17 - 7.65 = 9.35 million. Let's check options: A is 24.65, B is 17.00, C is 9.35, D is 7.65. Option C is N9.35 million.",
+    "proTip": "Net profit is calculated by subtracting tax obligations from the gross profit (operating profit before tax)."
+  },
+  {
+    "id": "commerce_1994_q12",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Classification of Assets",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "What are fixtures and fittings in a balance sheet?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Liquid capital",
+      "Current assets",
+      "Fixed assets",
+      "Working capital"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fixtures and fittings are long-term tangible properties owned by a business for operational use rather than resale, categorizing them as fixed assets.",
+    "proTip": "Fixed assets are durable items held for long-term use, unlike current assets which change form rapidly within an accounting year."
+  },
+  {
+    "id": "commerce_1994_q13",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "International Trade (Tariffs and Protectionism)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Government impose import duties for the following reasons EXCEPT",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "to raise revenue for other services",
+      "to act as a retaliatory measure against other governments",
+      "to discourage the redistribution of income at home",
+      "to protect home industries from external competition"
+    ],
+    "correctIndex": 2,
+    "explanation": "Governments impose import tariffs to generate state revenue, retaliate against unfair trade policies, and protect infant domestic industries. They do not impose duties to 'discourage the redistribution of income at home'.",
+    "proTip": "Tariffs are protective and fiscal tools used in international trade policy."
+  },
+  {
+    "id": "commerce_1994_q14",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Sole Proprietorship",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Sole enterprise may flourish best in",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "a mining business",
+      "a retailing business",
+      "an oil exploration business",
+      "a car assembly business"
+    ],
+    "correctIndex": 1,
+    "explanation": "A sole proprietorship requires small capital and personal contact with customers, making retailing and small-scale services the most ideal sectors for its success.",
+    "proTip": "Capital-intensive sectors like mining and car assembly require corporate business units with massive resources."
+  },
+  {
+    "id": "commerce_1994_q15",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "Forms of Retailing (Large-scale/Automatic Vending)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The use of coin-operated machines to sell goods is a form of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "personal selling",
+      "retailing",
+      "wholesaling",
+      "mail-order selling"
+    ],
+    "correctIndex": 1,
+    "explanation": "Automatic vending machines operate without human attendants to sell goods directly to final consumers, classifying the activity as a specialized form of retailing.",
+    "proTip": "Retailing covers all activities involved in selling goods directly to the ultimate consumer, regardless of whether a shop assistant is present."
+  },
+  {
+    "id": "commerce_1994_q16",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "Wholesaling Functions",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "What is the major function of the wholesaler?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Buying from small-scale producers and selling to exporters.",
+      "Buying in bulk and selling in small quantities",
+      "Granting of credit facilities to retailers",
+      "Providing information to manufacturers on market situation."
+    ],
+    "correctIndex": 1,
+    "explanation": "The primary economic function of a wholesaler is breaking bulk—purchasing large quantities from manufacturers and breaking them down into smaller, manageable quantities for retailers.",
+    "proTip": "Breaking bulk bridges the gap between large-scale production and small-scale retailing."
+  },
+  {
+    "id": "commerce_1994_q17",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "International Trade (Terms of Trade)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The rate at which a country's exports exchange for its imports is called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "balance of payments",
+      "balance of trade",
+      "terms of payment",
+      "terms of trade"
+    ],
+    "correctIndex": 3,
+    "explanation": "Terms of trade measure the ratio of export prices to import prices, indicating how many units of imports can be acquired for a unit of exports.",
+    "proTip": "Do not confuse terms of trade (price ratio) with balance of trade (monetary value difference between visible exports and imports)."
+  },
+  {
+    "id": "commerce_1994_q18",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "Balance of Trade and Balance of Payments",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The difference between the total payments for imports and the receipts from exports within a given period is referred to as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "balance of payments",
+      "balance of trade",
+      "comparative cost advantage",
+      "comparative advantage"
+    ],
+    "correctIndex": 1,
+    "explanation": "Balance of trade specifically accounts for the monetary difference between a country's visible exports and visible imports over a given period.",
+    "proTip": "Balance of payments is broader, covering both visible and invisible trade plus capital transfers."
+  },
+  {
+    "id": "commerce_1994_q19",
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "subTopic": "Documents Used in Trade (Pro Forma Invoice)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "A pro forma invoice is NOT required when",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "quoting for the supply of goods",
+      "goods are sent on approval",
+      "dealing regularly with a customer",
+      "final prices are uncertain"
+    ],
+    "correctIndex": 2,
+    "explanation": "A pro forma invoice acts as a formal quotation or request for payment before goods are dispatched when prices are uncertain or goods are sent on approval. Regular customers dealing on open account terms do not require one for every transaction.",
+    "proTip": "Pro forma means 'for form's sake' and serves as a preliminary bill or quotation."
+  },
+  {
+    "id": "commerce_1994_q20",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Transportation (Water Transport)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Which of the following statements is TRUE about sea transport?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "All ships have specific routes to ply.",
+      "All ships must be insured at every journey",
+      "All ships are insured separately from the crew",
+      "All ships normally arrive at their destination with goods."
+    ],
+    "correctIndex": 0,
+    "explanation": "Ocean liners operate on fixed routes according to strict timetables, distinguishing them from tramp steamers which ply any route depending on cargo availability.",
+    "proTip": "Liners have fixed schedules and routes; tramps do not."
+  },
+  {
+    "id": "commerce_1994_q21",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Communication and Postal Services",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The postal organization which preceded in Nigerian Postal Service is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Post and Telecommunications",
+      "Post and Telephone",
+      "Post and Teleprinter",
+      "Post and Telegraph"
+    ],
+    "correctIndex": 3,
+    "explanation": "The postal and telecommunications department in Nigeria was split into NIPOST (Nigerian Postal Service) and NITEL, with the former postal and telegraph services tracing their roots directly to Post and Telegraph (P & T).",
+    "proTip": "Know the historical evolution of infrastructural service corporations in Nigeria."
+  },
+  {
+    "id": "commerce_1994_q22",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Warehousing (Bonded Warehouses)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Goods discharged from ships on which import duties have not been paid are kept in the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "ordinary warehouse",
+      "public warehouse",
+      "private warehouse",
+      "bonded warehouse"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bonded warehouses are secure facilities supervised by customs authorities where imported goods whose duties are unpaid are stored until the duties are settled or the goods are re-exported.",
+    "proTip": "Bonded warehouses allow importers to defer duty payments until goods are ready for release into the open market."
+  },
+  {
+    "id": "commerce_1994_q23",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Insurance (Average Clause Calculation)",
+    "year": "1994",
+    "difficulty": "Scholar",
+    "question": "A sole proprietor insured his goods worth N200,000 for half the value. There was a fire incident in which goods valued at N80, 000 were destroyed. The value of compensation expected from the insurer is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N40,000",
+      "N80,000",
+      "N100,000",
+      "N200,000"
+    ],
+    "correctIndex": 0,
+    "explanation": "Under the principle of indemnity and average clause: Compensation = (Sum Insured / Actual Value of Property) * Loss Suffered. Sum Insured = N100,000 (half of 200k). Actual Value = N200,000. Loss = N80,000. Compensation = (100,000 / 200,000) * 80,000 = 0.5 * 80,000 = N40,000.",
+    "proTip": "Under-insurance triggers the average clause, meaning the insured bears a ratable proportion of the loss."
+  },
+  {
+    "id": "commerce_1994_q24",
+    "subject": "Commerce",
+    "topic": "Money",
+    "subTopic": "Foreign Exchange and Devaluation",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "One of the effects of the devaluation of the Naira is that the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "goods that can be imported with the Naira have become cheaper",
+      "value of other currencies relative to the Naira have become cheaper",
+      "goods that can be exported from Nigeria have become costlier",
+      "imports that can be bought with the Naira have become costlier"
+    ],
+    "correctIndex": 3,
+    "explanation": "Devaluation lowers the external value of a currency, making foreign goods more expensive for domestic buyers, thereby making imports costlier.",
+    "proTip": "Devaluation makes exports cheaper for foreigners and imports costlier for locals."
+  },
+  {
+    "id": "commerce_1994_q25",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Banking (Cheques and Crossing)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Drawing two parallel lines across a cheque means that it has to be paid into the account of the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "payee",
+      "drawer",
+      "drawee",
+      "payer"
+    ],
+    "correctIndex": 0,
+    "explanation": "A crossed cheque (two parallel transverse lines) cannot be cashed across the counter; it must be paid into a bank account, safeguarding the payee against theft or loss.",
+    "proTip": "Crossing a cheque restricts cash encashment over the counter and enforces payment through banking channels."
+  },
+  {
+    "id": "commerce_1994_q26",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Specialized Financial Institutions (NEXIM)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The financial institution established to boost Nigeria's trade with the rest of the world is called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Nigerian Deposit Insurance Corporation",
+      "Nigeria Economist Reconstruction Fund",
+      "Nigerian Industrial Development Bank",
+      "Nigerian Export-Import Bank"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Nigerian Export-Import Bank (NEXIM) was established specifically to promote export-import trade and provide credit facilities to support Nigeria's international trade sector.",
+    "proTip": "NEXIM focuses on export and import financing and trade credit guarantees."
+  },
+  {
+    "id": "commerce_1994_q27",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Credit and Financial Institutions (Cooperative Credit)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Which of the following is both direct and indirect credit enterprises?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Co-operative and thrifts society.",
+      "Retail co-operative society.",
+      "Consumer co-operative society.",
+      "Wholesaler co-operative society."
+    ],
+    "correctIndex": 0,
+    "explanation": "Co-operative and thrift societies mobilize members' savings (internal credit) and often source external loans to disburse to members, acting across credit categories.",
+    "proTip": "Co-operative thrift societies encourage systematic savings and mutual financial assistance."
+  },
+  {
+    "id": "commerce_1994_q28",
+    "subject": "Commerce",
+    "topic": "Stock Exchange",
+    "subTopic": "Stock Exchange Characteristics",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The business in the stock exchange is characterized essentially by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "dealing",
+      "brokerage",
+      "speculations",
+      "transactions"
+    ],
+    "correctIndex": 2,
+    "explanation": "Stock exchange activities are heavily driven by speculations, where investors and jobbers buy or sell securities anticipating price movements to make capital gains.",
+    "proTip": "Speculation involves buying and selling based on future price expectations rather than immediate utility."
+  },
+  {
+    "id": "commerce_1994_q29",
+    "subject": "Commerce",
+    "topic": "Stock Exchange",
+    "subTopic": "Second-Tier Securities Market",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The Second-Tier Securities Market is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "an apendage to the Nigerian Stock Exchange",
+      "a member of the Nigeria Stock Exchange",
+      "meant for the shares of the quoted private companies",
+      "a regulating arm of the Nigeria Stock Exchange"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Second-Tier Securities Market (SSM) operates as an appendage/segment of the Nigerian Stock Exchange designed to enable smaller indigenous companies to raise capital with less stringent requirements than the main board.",
+    "proTip": "The SSM relaxes listing rules to accommodate small and medium-scale enterprises."
+  },
+  {
+    "id": "commerce_1994_q30",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Marketing Mix Elements",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The elements of the marketing mix are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "product, promotion, place and price",
+      "personal selling, advertising and research",
+      "promotion, production, place and price",
+      "procurement, price, product and place"
+    ],
+    "correctIndex": 0,
+    "explanation": "The traditional marketing mix (the 4 Ps) consists of Product, Price, Place, and Promotion.",
+    "proTip": "Memorize the 4 Ps of marketing: Product, Price, Place, and Promotion."
+  },
+  {
+    "id": "commerce_1994_q31",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Product Life Cycle and Fads",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Which of the following items has the shortest effect on the consumer?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Fashion",
+      "Innovation",
+      "Fad",
+      "Attribute"
+    ],
+    "correctIndex": 2,
+    "explanation": "A fad is a short-lived form of product or behavior that catches on with great enthusiasm for a very brief period before disappearing rapidly.",
+    "proTip": "Fads have extremely quick adoption and decline curves compared to long-lasting fashions or trends."
+  },
+  {
+    "id": "commerce_1994_q32",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Sales Promotion Techniques",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Which of the following is a form of sales promotion?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Advertising on radio",
+      "Offering free samples",
+      "Distributing printed materials",
+      "Advertising on Television"
+    ],
+    "correctIndex": 1,
+    "explanation": "Offering free samples, discount coupons, and premiums are direct sales promotion incentives designed to stimulate immediate purchase.",
+    "proTip": "Sales promotion involves short-term incentives, whereas advertising builds long-term brand awareness."
+  },
+  {
+    "id": "commerce_1994_q33",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Personal Selling Advantages",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "One advantage of personal selling over all other elements of promotion is that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "it can provide instant feedback",
+      "it is very cheap in terms of cost per contract",
+      "it does not need to use mass media",
+      "sales people are well trained"
+    ],
+    "correctIndex": 0,
+    "explanation": "Personal selling involves direct two-way interaction between the salesperson and customer, allowing for immediate feedback and tailored persuasion.",
+    "proTip": "Instant feedback is the hallmark distinguishing personal selling from mass advertising."
+  },
+  {
+    "id": "commerce_1994_q34",
+    "subject": "Commerce",
+    "topic": "Legal Aspects of Business",
+    "subTopic": "Law of Agency",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Which of the following must be present in an agency by agreement?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Intentions",
+      "Will",
+      "Consent",
+      "Authority"
+    ],
+    "correctIndex": 2,
+    "explanation": "An agency created by agreement requires mutual consent between the principal and the agent, establishing their contractual relationship.",
+    "proTip": "Consent and capacity are fundamental requirements for establishing valid agency agreements."
+  },
+  {
+    "id": "commerce_1994_q35",
+    "subject": "Commerce",
+    "topic": "Legal Aspects of Business",
+    "subTopic": "Sale of Goods Act (Agreement to Sell vs. Sale)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "An agreement to sell is distinguishable from a sale because in the former, the transfer of goods is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "not anticipated",
+      "not discussed",
+      "deferred",
+      "immediate"
+    ],
+    "correctIndex": 2,
+    "explanation": "In an 'agreement to sell', property in the goods is transferred at a future date or subject to fulfillment of conditions, whereas in a 'sale', ownership is transferred immediately.",
+    "proTip": "An agreement to sell is executory, while a sale is an executed contract."
+  },
+  {
+    "id": "commerce_1994_q36",
+    "subject": "Commerce",
+    "topic": "Legal Aspects of Business",
+    "subTopic": "Law of Contract (Offer and Acceptance)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Mr. Amusa says to Mr Bello 'I will sell you this hat for N30'. And Mr Bello replied 'I will pay N29'. The contract is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "an offer and acceptance",
+      "an implied contract",
+      "a complete simple contract",
+      "an offer but no acceptance"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mr. Bello's counter-offer of N29 destroys the original offer of N30. Therefore, there is an offer (counter-offer) but no unconditional acceptance.",
+    "proTip": "A counter-offer operates as a rejection of the original offer."
+  },
+  {
+    "id": "commerce_1994_q37",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Public Enterprises and Nationalization",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "Nationalization of an industry means that its ownership becomes that of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "government",
+      "shareholders",
+      "taxpayers",
+      "indigenes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nationalization involves the state taking over privately owned industries or businesses, transferring ownership and control to the government.",
+    "proTip": "Nationalization places private enterprises under state ownership, unlike indigenization which transfers them to local citizens."
+  },
+  {
+    "id": "commerce_1994_q38",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "International Trade Regulations (CISS)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The Comprehensive Import Supervision Scheme was set up by the federal government in order to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "reverse Nigeria's unfavourable balance.",
+      "promote fair trade between Nigeria and other countries.",
+      "counteract all fraudulent business deals of Nigerians with other nationals.",
+      "ensure that imports into Nigeria are of the correct quality, value and quantity."
+    ],
+    "correctIndex": 3,
+    "explanation": "The Comprehensive Import Supervision Scheme (CISS) was introduced to inspect imports at source to ensure correct quality, quantity, and value, preventing capital flight and over-invoicing.",
+    "proTip": "CISS protects the economy from substandard imports and capital flight through pre-shipment inspection."
+  },
+  {
+    "id": "commerce_1994_q39",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Consumer Protection Agencies (SON, NAFDAC, etc.)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Which of the following has powers to order withdrawal of a particular food item from circulation?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Standards Organisation of Nigeria",
+      "Federal High Courts in Nigeria",
+      "Food and Drugs Department of the Federal Ministry of Health",
+      "Local government health inspectors"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Food and Drugs Department (along with NAFDAC) possesses regulatory authority to inspect, ban, and withdraw unwholesome food and drug items from circulation.",
+    "proTip": "Regulatory agencies safeguarding public health enforce strict product recalls for harmful consumables."
+  },
+  {
+    "id": "commerce_1994_q40",
+    "subject": "Commerce",
+    "topic": "Trade Associations",
+    "subTopic": "Trade Unions and Collective Bargaining",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Which of the following maxims negates the principle of collective bargaining?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Individual employees have weak bargaining base.",
+      "Individual employees attain strength when they come together in a union.",
+      "Only members of the union can benefit from agreements negotiated by the union.",
+      "Collective bargaining covers the vast majority of employees, whether union members or not."
+    ],
+    "correctIndex": 2,
+    "explanation": "Collective bargaining agreements typically cover all workers in a bargaining unit regardless of union membership. Restricting benefits solely to union members runs counter to standard labor relations principles where agreements apply broadly across the workforce.",
+    "proTip": "Collective bargaining empowers workers through unified representation."
+  },
+  {
+    "id": "commerce_1994_q41",
+    "subject": "Commerce",
+    "topic": "Trade Associations",
+    "subTopic": "Chambers of Commerce (NACCIMA)",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "NACCIMA stands for",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Nigerian-American Centre for Culture Industries, Mines and Arts",
+      "Nigerian Association for Culture, Civics, Industries, Minerals and Arts",
+      "National Agency for Culture, Civilization, Investments, Manufacturing and Agriculture",
+      "Nigerian Association of Chambers of Commerce, Industries, Mines and Agriculture"
+    ],
+    "correctIndex": 3,
+    "explanation": "NACCIMA is the umbrella organization for all chambers of commerce in Nigeria, standing for Nigerian Association of Chambers of Commerce, Industries, Mines and Agriculture.",
+    "proTip": "Know the full acronyms of key commercial and industrial associations in Nigeria."
+  },
+  {
+    "id": "commerce_1994_q42",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Consumerism and Consumer Protection",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "For the establisment of a powerful consumers' association in Nigeria to exist, there must be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "financial and moral support from the public",
+      "honest and committed leadership",
+      "allocation of goods from the producers",
+      "freedom from external influence"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effective consumer advocacy requires dedicated, honest, and committed leadership to champion consumer rights against exploitative business practices.",
+    "proTip": "Consumer protection requires active participation, legal backing, and committed leadership."
+  },
+  {
+    "id": "commerce_1994_q43",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Business Resources (Manpower/Management)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Which of the following is the most important business resources?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Money",
+      "Management",
+      "Materials",
+      "Manpower"
+    ],
+    "correctIndex": 1,
+    "explanation": "Management coordinates all other resources (men, materials, money, and machinery). Without effective management, other resources cannot be optimally utilized.",
+    "proTip": "Management is regarded as the catalytic resource that brings all other factors of production together."
+  },
+  {
+    "id": "commerce_1994_q44",
+    "subject": "Commerce",
+    "topic": "Information and Communication Technology (ICT)",
+    "subTopic": "Computers in Business and Banking",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "The use of computers in modern banking industry is a reflection of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "competitive development",
+      "scientific development",
+      "economic development",
+      "technological development"
+    ],
+    "correctIndex": 3,
+    "explanation": "Computerization and electronic banking represent major strides in technological development applied to commercial services.",
+    "proTip": "ICT adoption in business transforms operational speed and service delivery."
+  },
+  {
+    "id": "commerce_1994_q45",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Corporate Social Responsibility",
+    "year": "1994",
+    "difficulty": "Apprentice",
+    "question": "When an oil exploring and mining company builds a health centre in one of the communities where it operates, such a company is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "currying favour from local people",
+      "finding a way to spend excess profits",
+      "fulfilling part of its social responsibility",
+      "investing its idle funds"
+    ],
+    "correctIndex": 2,
+    "explanation": "Providing community infrastructure like health centers, schools, and roads constitutes corporate social responsibility (CSR) toward the host community.",
+    "proTip": "CSR involves giving back to society and mitigating the negative environmental impacts of business operations."
+  },
+  {
+    "id": "commerce_1994_q46",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "International Economic Institutions (WACH)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The West African Clearing House became legally operational on",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "1st July, 1976",
+      "25th June, 1975",
+      "14th March, 1975",
+      "3rd May, 1974"
+    ],
+    "correctIndex": 0,
+    "explanation": "The West African Clearing House (WACH) was established by central banks of ECOWAS member states and became legally operational on July 1, 1976 to facilitate regional payments.",
+    "proTip": "WACH facilitates multilateral trade settlement among West African countries using local currencies."
+  },
+  {
+    "id": "commerce_1994_q47",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Regional Economic Groupings (Lake Chad Basin)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The Lake Chad Basin Commission was founded to enable member states.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "expand the volume of water in the Lake for fishing activity",
+      "increase navigational activities on the lake",
+      "dam the lake for electricity and agricultural purposes.",
+      "co-ordinate their efforts in managing the use of the lake's resources."
+    ],
+    "correctIndex": 3,
+    "explanation": "The Lake Chad Basin Commission was established to regulate and coordinate joint management of water and other natural resources in the Lake Chad basin among member countries.",
+    "proTip": "Regional resource commissions focus on cooperative management and environmental sustainability."
+  },
+  {
+    "id": "commerce_1994_q48",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Principles of Management (Coordination)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The harmonious relationship among the various units in an organization is ensured through",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "co-ordination",
+      "motivation",
+      "planning",
+      "leadership"
+    ],
+    "correctIndex": 0,
+    "explanation": "Coordination is the management function that synchronizes the efforts and activities of different departments to ensure smooth, harmonious operation toward organizational goals.",
+    "proTip": "Coordination prevents departmental friction and aligns all business units."
+  },
+  {
+    "id": "commerce_1994_q49",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Principles of Management (Span of Control)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "The principle of span of control stipulates that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "an employee should report to only one superior",
+      "managers must demand accountability from their subordinates",
+      "resources have to be economized within the various divisions",
+      "the number of employees reporting to one superior should be kept to a workable maximum."
+    ],
+    "correctIndex": 3,
+    "explanation": "Span of control refers to the number of subordinates directly reporting to a single manager, which should be kept to a manageable limit for effective supervision.",
+    "proTip": "Unity of command means reporting to one boss; span of control refers to how many subordinates a manager oversees."
+  },
+  {
+    "id": "commerce_1994_q50",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Functions of Management (Marketing Primacy)",
+    "year": "1994",
+    "difficulty": "Advanced",
+    "question": "Which of the following makes other functions of business its appendages?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Production",
+      "Marketing",
+      "Finance",
+      "Personnel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Modern business philosophy posits that marketing dictates what is produced, financed, and staffed, making other business functions subordinate to customer and market demands.",
+    "proTip": "In modern commercial orientation, marketing drives production and corporate strategy."
+  },
+  {
+    "id": "commerce_1995_q1",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Distinguishing Features of Business Units",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "What are the factors with which commercial undertakings can be distinguished?\nI Size of the undertakings. II Profits generated. III Forms of ownership. IV Location of the undertakings.",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "I and II only.",
+      "I and III only.",
+      "II and III only.",
+      "III and IV only."
+    ],
+    "correctIndex": 1,
+    "explanation": "Commercial undertakings and business units are primarily distinguished by their scale or size (such as small-scale vs. large-scale enterprises) and their legal forms of ownership (such as sole proprietorship, partnership, and limited liability companies). Profits and locations can vary widely and are not the core defining criteria.",
+    "proTip": "Always look to ownership structure and operational size as the fundamental classification criteria for business units."
+  },
+  {
+    "id": "commerce_1995_q2",
+    "subject": "Commerce",
+    "topic": "Commerce",
+    "subTopic": "Evolution and Development of Commerce in Nigeria",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The development of commercial activities in Nigeria was facilitated largely by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "a good transport system",
+      "the indigenization decree",
+      "a convenient medium of exchange",
+      "a high level of production."
+    ],
+    "correctIndex": 2,
+    "explanation": "The transition from barter to a universally accepted and convenient medium of exchange (money) removed the double coincidence of wants, thereby greatly facilitating the growth and development of commercial transactions in Nigeria.",
+    "proTip": "Money as a medium of exchange is the pivot that expands trade and commercial activity."
+  },
+  {
+    "id": "commerce_1995_q3",
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "subTopic": "Classification of Occupations (Industrial and Commercial)",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "In which of the following sets of occupations can an industrial worker be found?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Extraction, commerce and construction",
+      "Manufacturing, extraction and banking",
+      "Construction, quarrying and insurance",
+      "Manufacturing, extraction and construction"
+    ],
+    "correctIndex": 3,
+    "explanation": "Industry (production) is broadly divided into extractive, manufacturing, and construction. Banking and commerce fall under services/commercial occupations rather than industry.",
+    "proTip": "Industrial occupations strictly encompass extraction, manufacturing, and construction."
+  },
+  {
+    "id": "commerce_1995_q4",
+    "subject": "Commerce",
+    "topic": "Production",
+    "subTopic": "Construction Industry",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Construction activities include the building of houses and roads as well as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "bricklaying",
+      "shoemaking",
+      "blacksmithing",
+      "car assembling"
+    ],
+    "correctIndex": 0,
+    "explanation": "Construction involves assembling materials to build physical infrastructure such as houses, roads, bridges, and ports. Bricklaying is a direct construction trade activity.",
+    "proTip": "Construction creates physical structures and immovable capital assets."
+  },
+  {
+    "id": "commerce_1995_q5",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Partnership Agreement and Profit Sharing",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "If a partnership deed is silent on how profits are to be shared, partners share profits",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "in the ratio of the value of business secured by each partner for the partnership",
+      "in the ratio of partners' capital contributions",
+      "in an equal proportion, irrespective of partners' capital contributions",
+      "according to duties performed by each partner."
+    ],
+    "correctIndex": 2,
+    "explanation": "Under the Partnership Act, if the partnership agreement or deed is silent regarding profit sharing, all partners share profits and losses equally, regardless of their capital contributions.",
+    "proTip": "Absence of a partnership deed invokes the statutory rules of the Partnership Act, enforcing equal profit sharing."
+  },
+  {
+    "id": "commerce_1995_q6",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Articles of Association",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Which of the following information is contained in the Articles of Association of a limited liability company?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Rights and obligations of directors",
+      "Objectives of the company",
+      "Amount of share capital",
+      "Limitation of liability of shareholders"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Articles of Association regulate the internal management of the company, including the rights, duties, and powers of directors, voting procedures, and meeting guidelines. Objectives and share capital details belong to the Memorandum of Association.",
+    "proTip": "Memorandum defines external relations and powers; Articles govern internal administration."
+  },
+  {
+    "id": "commerce_1995_q7",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Business Combinations (Horizontal Integration)",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The merger of two companies producing the same type of products is an example of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "vertical integration",
+      "horizontal integration",
+      "lateral merger",
+      "an acquisition."
+    ],
+    "correctIndex": 1,
+    "explanation": "Horizontal integration occurs when firms operating at the same stage of production and manufacturing the same line of products combine or merge.",
+    "proTip": "Horizontal = same stage and product; Vertical = consecutive stages of production."
+  },
+  {
+    "id": "commerce_1995_q8",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Incorporation and Legal Personality",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "One of the implications of the incorporation of a company is that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "it is more difficult for the company to raise loans",
+      "the company can sue but cannot be sued",
+      "the company's property becomes distinguished from that of its member",
+      "its members become liable for all the debts of the company."
+    ],
+    "correctIndex": 2,
+    "explanation": "Incorporation creates a distinct corporate legal entity, meaning the company's property and assets are completely separate from the personal property of its shareholders.",
+    "proTip": "Corporate veil separates company assets and liabilities from individual members."
+  },
+  {
+    "id": "commerce_1995_q9",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Sole Proprietorship Advantages",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "The main advantage of a sole trader is the freedom to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "employ anyone he likes",
+      "seek advice from any source",
+      "take quick decisions",
+      "plough all the profits back into the business."
+    ],
+    "correctIndex": 2,
+    "explanation": "Because a sole proprietor is the sole owner and decision-maker, they enjoy absolute freedom to take prompt and unhindered business decisions without consulting partners or boards.",
+    "proTip": "Speed of decision-making is a primary competitive edge for sole proprietors."
+  },
+  {
+    "id": "commerce_1995_q10",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Liquidation and Receivership",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "In the case of voluntary liquidation of a business, the receiver is appointed by the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "creditors",
+      "debtors",
+      "directors",
+      "shareholders."
+    ],
+    "correctIndex": 0,
+    "explanation": "In voluntary winding-up or liquidation, creditors often have a major say and appoint a liquidator/receiver to protect their financial interests and oversee asset realization.",
+    "proTip": "Creditors protect their stake during insolvency through appointed receivers."
+  },
+  {
+    "id": "commerce_1995_q11",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Gearing / Capital Structure",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "When a company uses more of loans than equity to finance its business, the company is said to be",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "bankrupt",
+      "solvent",
+      "highly geared",
+      "in a strong liquid position."
+    ],
+    "correctIndex": 2,
+    "explanation": "A company with a capital structure heavily weighted toward fixed-interest debt (loans/debentures) relative to ordinary share capital is described as high-geared.",
+    "proTip": "High gearing means high fixed financial commitments relative to equity."
+  },
+  {
+    "id": "commerce_1995_q12",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Share Capital Terminology",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "The nominal value of a share as specified in the Memoradium of Association and the share certificate is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "discounted value",
+      "stock value",
+      "face value",
+      "par value"
+    ],
+    "correctIndex": 3,
+    "explanation": "Par value (or face value) represents the stated or nominal value of a share as fixed in the memorandum of association and printed on the share certificate.",
+    "proTip": "Par value is the legal face value of a share, distinct from its fluctuating market value."
+  },
+  {
+    "id": "commerce_1995_q13",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Capital Market and Long-Term Finance",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "A public limited company can raise long-term loans through",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the capital market",
+      "the money market",
+      "bank overdrafts",
+      "discount houses."
+    ],
+    "correctIndex": 0,
+    "explanation": "The capital market specializes in the provision of long-term capital through the issuance of shares, debentures, bonds, and long-term government securities.",
+    "proTip": "Money market handles short-term funds; capital market handles long-term funds."
+  },
+  {
+    "id": "commerce_1995_q14",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Factoring and Trade Debtors",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Factoring is a trade debt term used when the agent buys all the trade debts of the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "importers",
+      "exporters",
+      "nations",
+      "customers"
+    ],
+    "correctIndex": 3,
+    "explanation": "Factoring involves a financial institution (the factor) buying the trade debts or accounts receivable of a business (from its customers) at a discount to provide immediate liquidity.",
+    "proTip": "Factoring converts trade debtors into instant cash for businesses."
+  },
+  {
+    "id": "commerce_1995_q15",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Accounting Ratios (Current Ratio)",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The financial index which compares current assets directly with current liabilities is known as current",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "turnover",
+      "capital",
+      "ratio",
+      "balance"
+    ],
+    "correctIndex": 2,
+    "explanation": "The current ratio is a liquidity ratio that measures a company's ability to cover its short-term obligations with its short-term assets, calculated as Current Assets / Current Liabilities.",
+    "proTip": "Current Ratio = Current Assets : Current Liabilities."
+  },
+  {
+    "id": "commerce_1995_q16",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Types of Shares (Rights Issue)",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Rights issue means the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "issue of shares to the directors of a company on favourable terms",
+      "issue of shares by a company only to the founders of the company",
+      "right of shareholders to vote on any issue",
+      "issue of shares to shareholders on favourable terms."
+    ],
+    "correctIndex": 3,
+    "explanation": "A rights issue is an offer of new shares made by a company to its existing shareholders in proportion to their current holdings, often at a discount.",
+    "proTip": "Rights issues give existing shareholders pre-emptive rights to buy new shares."
+  },
+  {
+    "id": "commerce_1995_q17",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Mark-up and Margin Calculations",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Profit that is expressed as a percentage of the cost of goods sold is referred to as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "margin",
+      "mark-up",
+      "gain percent",
+      "gross profit."
+    ],
+    "correctIndex": 1,
+    "explanation": "Mark-up is profit expressed as a percentage of the cost price, whereas margin is profit expressed as a percentage of the selling price.",
+    "proTip": "Mark-up is based on cost; margin is based on selling price."
+  },
+  {
+    "id": "commerce_1995_q18",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Cost of Goods Sold Calculation",
+    "year": "1995",
+    "difficulty": "Scholar",
+    "question": "Given:\nOpening stock: N40,000\nPurchases: N115,000\nClosing stock: N60,000\nSales: N250,000\nWhat is the cost of goods sold?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N155,000",
+      "N95,000",
+      "N50,000",
+      "N30,000"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cost of Goods Sold (COGS) = Opening Stock + Purchases - Closing Stock. COGS = 40,000 + 115,000 - 60,000 = 155,000 - 60,000 = N95,000.",
+    "proTip": "COGS formula: Opening Inventory + Net Purchases - Closing Inventory."
+  },
+  {
+    "id": "commerce_1995_q19",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "Channels of Distribution",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "In the channel of distribution, which of the following sets is entirely made up of middlemen?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Wholesalers, retailers and agents.",
+      "Manufacturers, consumers and retailers.",
+      "Wholesalers, agent and consumers.",
+      "Retailers, manufacturers and wholesalers."
+    ],
+    "correctIndex": 0,
+    "explanation": "Wholesalers, retailers, and agents/brokers act as intermediaries (middlemen) between the initial producer and the ultimate consumer.",
+    "proTip": "Middlemen bridge the gap between manufacturers and final consumers."
+  },
+  {
+    "id": "commerce_1995_q20",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "Customs Drawback",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Goods imported into a country for the purpose of re-exporting attracts a rebate known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "customs draw back",
+      "export royalty",
+      "incentive",
+      "export rebate."
+    ],
+    "correctIndex": 0,
+    "explanation": "A customs drawback is a refund or rebate of import duties paid on imported goods when those same goods are subsequently re-exported out of the country.",
+    "proTip": "Customs drawback refunds import duties on goods re-exported to encourage entrepot trade."
+  },
+  {
+    "id": "commerce_1995_q21",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "Methods of Payment in Foreign Trade",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Most foreign trade transactions are paid for through the use of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Central Bank cheques",
+      "bank drafts drawn by commercial banks on their foreign branches",
+      "irrevocable and confirmed letters of credit",
+      "letters of credit authenticated by the embassies of the respective countries."
+    ],
+    "correctIndex": 2,
+    "explanation": "International trade relies heavily on letters of credit (specifically irrevocable and confirmed letters of credit) to guarantee payment security for exporters and importers.",
+    "proTip": "Letters of credit minimize default risk in international transactions."
+  },
+  {
+    "id": "commerce_1995_q22",
+    "subject": "Commerce",
+    "topic": "Money",
+    "subTopic": "Central Bank Facilities (RRF)",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "RRF as a scheme introduced by the Central Bank of Nigeria means",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Recording and Rediscounting Facility",
+      "Refinancing and Recording Facility",
+      "Refinancing and Rediscounting Facility",
+      "Refinancing and Reinvesting Facility."
+    ],
+    "correctIndex": 2,
+    "explanation": "Refinancing and Rediscounting Facility (RRF) was introduced by the Central Bank of Nigeria to provide liquidity support to banks financing export-oriented activities.",
+    "proTip": "Know key CBN acronyms and export financing facilities in Nigeria."
+  },
+  {
+    "id": "commerce_1995_q23",
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "subTopic": "Documents Used in Trade (Order of Documents)",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Which of the following gives the correct order in which the listed documents are used?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Debit note, order, delivery note, invoice and statement",
+      "Order, delivery note, invoice, debit note and statement",
+      "Statement, order, invoice, delivery note and statement",
+      "Invoice, order, statement, debit note and delivery note."
+    ],
+    "correctIndex": 1,
+    "explanation": "The standard commercial cycle starts with an Order sent by the buyer, followed by the Delivery note accompanying goods, the Invoice billing the buyer, a Debit note (if adjustments are needed), and finally a Statement of account.",
+    "proTip": "Trace the commercial transaction flow: Enquiry -> Quotation -> Order -> Delivery -> Invoice -> Statement."
+  },
+  {
+    "id": "commerce_1995_q24",
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "subTopic": "Freight Note",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Freight note is a document",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "used by government to transport goods from one country to another",
+      "issued by a shipping company giving details of charges",
+      "used for payment for imported goods",
+      "given by an importer to pay for goods at a future period."
+    ],
+    "correctIndex": 1,
+    "explanation": "A freight note is issued by a carrier or shipping company detailing the transportation costs and freight charges due for moving goods.",
+    "proTip": "Freight notes itemize transport and shipping service charges."
+  },
+  {
+    "id": "commerce_1995_q25",
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "subTopic": "Cash Discount Calculation",
+    "year": "1995",
+    "difficulty": "Scholar",
+    "question": "An invoice of N600 is marked '5% 1 month, 2.5% 3 months' and '1% 5 months'. If a customer pays in the second month of purchase, how much will he remit to the seller?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N570.00",
+      "N585.00",
+      "N594.00",
+      "N600.00"
+    ],
+    "correctIndex": 1,
+    "explanation": "Payment in the second month falls within the '3 months' window, attracting a 2.5% cash discount. Discount = 2.5% of N600 = 0.025 * 600 = N15. Amount remitted = N600 - N15 = N585.00.",
+    "proTip": "Match the timing of payment to the correct discount tier on the invoice terms."
+  },
+  {
+    "id": "commerce_1995_q26",
+    "subject": "Commerce",
+    "topic": "Stock Exchange",
+    "subTopic": "Spot Market",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Spot market goods are those which are available for",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "immediate delivery",
+      "short-term delivery",
+      "long-term delivery",
+      "end of year delivery"
+    ],
+    "correctIndex": 0,
+    "explanation": "In a spot market, commodities, securities, or currencies are traded for immediate delivery and settlement.",
+    "proTip": "Spot market = cash and immediate delivery."
+  },
+  {
+    "id": "commerce_1995_q27",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Transportation (Road Transport)",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "The main advantage of road transport is that it is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "convenient and flexible",
+      "cheap and direct",
+      "common and fast",
+      "safe and available."
+    ],
+    "correctIndex": 0,
+    "explanation": "Road transport provides door-to-door delivery, offering unmatched convenience and flexibility compared to rail, air, or water transport.",
+    "proTip": "Flexibility and door-to-door service are hallmark advantages of road transport."
+  },
+  {
+    "id": "commerce_1995_q28",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Insurance (Reinsurance)",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The practice by which an insurance company accepts a very large risk and later shares it with other insurance companies are called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "subrogation",
+      "contribution",
+      "re-insurance",
+      "indemnity."
+    ],
+    "correctIndex": 2,
+    "explanation": "Reinsurance occurs when an insurer transfers a portion of its risk portfolio to other insurance companies to reduce its liability exposure in case of massive claims.",
+    "proTip": "Reinsurance is 'insurance for insurance companies' to spread massive risks."
+  },
+  {
+    "id": "commerce_1995_q29",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Insurance (Marine Insurance Policies)",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The insurance policy which provides full cover against all risks at sea is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Policy with Particular Average",
+      "Policy Free of Particular Average",
+      "Marine Freight Insurance",
+      "Marine Voyage Policy Insurance."
+    ],
+    "correctIndex": 0,
+    "explanation": "A policy with particular average covers partial losses as well as total losses arising from maritime perils, offering broader protection than 'free of particular average' policies.",
+    "proTip": "Particular average covers partial accidental losses at sea."
+  },
+  {
+    "id": "commerce_1995_q30",
+    "subject": "Commerce",
+    "topic": "Trade Associations",
+    "subTopic": "International Trade Organizations (Berne Union)",
+    "year": "1995",
+    "difficulty": "Scholar",
+    "question": "Berne Union is also known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "International Credit Union",
+      "International Documentary Credit Union",
+      "International Union of Credit and Investment Insurers",
+      "Export Credit Guarantee Scheme."
+    ],
+    "correctIndex": 2,
+    "explanation": "The Berne Union is officially known as the International Union of Credit and Investment Insurers, functioning as the leading global association for export credit and investment insurance.",
+    "proTip": "Berne Union coordinates international export credit and investment insurance standards."
+  },
+  {
+    "id": "commerce_1995_q31",
+    "subject": "Commerce",
+    "topic": "Money",
+    "subTopic": "Evolution of Money (Pre-Money Exchange in Nigeria)",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Which of the following sets of items was used for exchange in Nigeria before money was introduced?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Cowries, iron rods, brass rods and copper wires.",
+      "Iron rods, copper rods, manilla and cowries.",
+      "Cowries, manilla, brass rods and copper wires.",
+      "Copper wires, brass wires, cowries, and iron rods."
+    ],
+    "correctIndex": 2,
+    "explanation": "In pre-colonial Nigeria, commodity money items widely used as mediums of exchange included cowries, manillas, brass rods, and copper wires.",
+    "proTip": "Commodity money in early Nigerian history included cowries and manillas."
+  },
+  {
+    "id": "commerce_1995_q32",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Commercial Bank Liabilities",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "A major liability of a commercial bank arises from",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "customers' deposits",
+      "loans and advances",
+      "overdrafts",
+      "staff allowances."
+    ],
+    "correctIndex": 0,
+    "explanation": "Customer deposits (savings, current, and fixed deposits) represent money owed by the bank to its customers, making them the bank's primary financial liability.",
+    "proTip": "Customer deposits are liabilities to a bank because the bank must repay them on demand."
+  },
+  {
+    "id": "commerce_1995_q33",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Bank Statement",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "A bank statement is a document",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "ordering a bank to pay on demand a stated sum of money",
+      "containing records of receipts, payments and balance on an account",
+      "used for paying money into a bank account",
+      "used for regular withdrawal of moeny from a savings account."
+    ],
+    "correctIndex": 1,
+    "explanation": "A bank statement is a periodic summary sent by a bank to a customer detailing all deposits, withdrawals, fees, and the running balance on their account.",
+    "proTip": "Bank statements reflect the chronological record of account transactions."
+  },
+  {
+    "id": "commerce_1995_q34",
+    "subject": "Commerce",
+    "topic": "Stock Exchange",
+    "subTopic": "Functions of the Stock Exchange",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Which of the following is NOT a function of the stock exchange market?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Providing long-term loans to large scale enterprises.",
+      "Encouraging people to buy shares and thereby providing capital for investment.",
+      "Providing means of assessing the value of a firms' assets.",
+      "Enabling firms to wind-up quickly in times of difficulties."
+    ],
+    "correctIndex": 3,
+    "explanation": "The stock exchange facilitates capital mobilization, valuation, and trading of securities. It does not handle company winding-up or liquidation processes.",
+    "proTip": "Stock exchanges facilitate trading and capital formation, not corporate liquidation."
+  },
+  {
+    "id": "commerce_1995_q35",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Marketing Approach and Analysis",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The marketing approach by which a firm carries out a detailed analysis of itself, the consumers and its competitors is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "market analysis",
+      "marketing mix analysis",
+      "marketing opportunities analysis",
+      "market survey."
+    ],
+    "correctIndex": 2,
+    "explanation": "Marketing opportunities analysis evaluates internal company capabilities, customer needs, and competitive forces in the marketplace to identify viable commercial prospects.",
+    "proTip": "Marketing opportunity analysis combines internal audits with customer and competitor research."
+  },
+  {
+    "id": "commerce_1995_q36",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Market Segmentation",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "The breaking down of a market into separate and identifiable elements each with its own special product requirements is known as market",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "differentiation",
+      "segmentation",
+      "penetration",
+      "identification."
+    ],
+    "correctIndex": 1,
+    "explanation": "Market segmentation is the process of dividing a broad target market into subsets of consumers who have common needs and priorities.",
+    "proTip": "Segmentation divides a heterogeneous market into homogeneous customer groups."
+  },
+  {
+    "id": "commerce_1995_q37",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Test Marketing",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Taking a new product to a particular part of a country to test the reaction of consumers to the product is referred to as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "sales promotion",
+      "sampling",
+      "merchandizing",
+      "advertising."
+    ],
+    "correctIndex": 1,
+    "explanation": "Test marketing involves introducing a new product in a limited geographic area (test market) to evaluate consumer response and refine marketing strategies before full-scale launch.",
+    "proTip": "Test marketing evaluates consumer acceptance prior to national rollout."
+  },
+  {
+    "id": "commerce_1995_q38",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Branding and Packaging",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "A manufacturer can make his product distinguishable from those of other competitors by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "providing catalogues for his wholesalers",
+      "aggressive sales promotion",
+      "branding and packaging the product",
+      "selling the product at a much lower price."
+    ],
+    "correctIndex": 2,
+    "explanation": "Branding and packaging give a product a unique visual identity, distinguishing it from competing substitutes in the market.",
+    "proTip": "Branding and packaging are core tools for product differentiation."
+  },
+  {
+    "id": "commerce_1995_q39",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Forms of Sales Promotion",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Which of the following are forms of sales promotion?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Advertising, personal selling and publicity.",
+      "Advertising, market skimming and publicity.",
+      "Personal selling, packaging and publicity.",
+      "Advertising, packaging and publicity."
+    ],
+    "correctIndex": 0,
+    "explanation": "Sales promotion tools work alongside advertising, personal selling, and publicity to stimulate demand and support promotional campaigns. [Note: Option choices reflect standard promotional mix components in Nigerian past questions].",
+    "proTip": "The promotional mix comprises advertising, sales promotion, personal selling, and public relations/publicity."
+  },
+  {
+    "id": "commerce_1995_q40",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Disadvantages of Personal Selling",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "A disadvantage of personal selling is that it",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "increases a company's operating costs.",
+      "decreases a company's operating costs.",
+      "increases a company's number of customers",
+      "reduces a company's area of patronage."
+    ],
+    "correctIndex": 0,
+    "explanation": "Personal selling is labor-intensive, requiring trained sales personnel, travel, and commissions, which significantly increases a company's operational overhead costs.",
+    "proTip": "Personal selling offers high impact but incurs high cost per contact."
+  },
+  {
+    "id": "commerce_1995_q41",
+    "subject": "Commerce",
+    "topic": "Legal Aspects of Business",
+    "subTopic": "Law of Contract (Breach of Contract Remedies)",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Chinyere agreed to make a dress for Halima with September 20, 1995 as the delivery date. If the dress was not ready on that date, Halima could",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "sue Chinyere for damages",
+      "sue Chinyere for specific performance",
+      "seize another gown from Chinyere's shop",
+      "regard the contract between them as terminated."
+    ],
+    "correctIndex": 0,
+    "explanation": "Failure to perform a contract by the agreed delivery date constitutes a breach of contract, giving the injured party the right to sue for damages.",
+    "proTip": "Breach of contract entitles the innocent party to legal remedies such as damages."
+  },
+  {
+    "id": "commerce_1995_q42",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Consumer Sovereignty",
+    "year": "1995",
+    "difficulty": "Apprentice",
+    "question": "Consumer sovereignty means that the consumer is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "a citizen",
+      "always independent",
+      "always wrong",
+      "always right."
+    ],
+    "correctIndex": 3,
+    "explanation": "Consumer sovereignty dictates that consumers ultimately determine what goods and services are produced through their purchasing decisions ('the consumer is king').",
+    "proTip": "Consumer sovereignty enshrines consumer preferences as the driver of production."
+  },
+  {
+    "id": "commerce_1995_q43",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Nationalization Ownership",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "When an industry or company is nationalized, the state becomes",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the majority shareholder",
+      "the minority shareholder",
+      "the only shareholder",
+      "an equal shareholder with other individuals."
+    ],
+    "correctIndex": 2,
+    "explanation": "Nationalization involves taking an entire enterprise under complete state ownership and control, making the government the sole or exclusive owner.",
+    "proTip": "Nationalization transfers 100% ownership to the state."
+  },
+  {
+    "id": "commerce_1995_q44",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Commercialization vs. Privatization",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The Federal Government made efforts at rendering public enterprises more efficient and profit-oriented through the process of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "privatization",
+      "commercialization",
+      "indigenization",
+      "nationalization"
+    ],
+    "correctIndex": 1,
+    "explanation": "Commercialization reorganizes public enterprises to operate as profit-making, commercial ventures without necessarily transferring ownership out of government hands.",
+    "proTip": "Commercialization focuses on operational efficiency and profitability while retaining state ownership."
+  },
+  {
+    "id": "commerce_1995_q45",
+    "subject": "Commerce",
+    "topic": "Trade Associations",
+    "subTopic": "Employers' Associations (NECA)",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Which of the following organizations represents those who engage labour in Nigeria?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Nigerian Labour Congress",
+      "Nigerian Employers Consultative Association",
+      "Manufacturers Association of Nigeria",
+      "Nigerian Union of Local Government Employees."
+    ],
+    "correctIndex": 1,
+    "explanation": "The Nigeria Employers' Consultative Association (NECA) is the umbrella organization representing employers of labor in industrial relations matters across Nigeria.",
+    "proTip": "NECA represents employers, whereas NLC represents organized labor unions."
+  },
+  {
+    "id": "commerce_1995_q46",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Personnel Management (Merit Rating)",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The practice of assessing employees for payment or advancement according to their observed achievement is called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "employee ranking",
+      "merit rating",
+      "job grading",
+      "employee evaluation."
+    ],
+    "correctIndex": 1,
+    "explanation": "Merit rating evaluates an employee's performance and achievements objectively to determine pay increases, bonuses, or promotions.",
+    "proTip": "Merit rating ties remuneration and career advancement directly to job performance."
+  },
+  {
+    "id": "commerce_1995_q47",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Importance of Motivation",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "Motivation is an essential element in management because it",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "leads to the improvement of staff welfare",
+      "encourages individuals to work towards achieving the organisation's objectives",
+      "reduces friction among employees in the process of achieving the organization's objectives",
+      "helps to eliminate industrial disharmony."
+    ],
+    "correctIndex": 1,
+    "explanation": "Motivation inspires and drives employees to channel their energy and commitment toward accomplishing organizational goals and targets.",
+    "proTip": "Effective motivation aligns individual drive with corporate objectives."
+  },
+  {
+    "id": "commerce_1995_q48",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Line Authority",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "The direct authority of a superior over his subordinate is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "staff authority",
+      "line authority",
+      "line and staff authority",
+      "lateral authority"
+    ],
+    "correctIndex": 1,
+    "explanation": "Line authority represents the direct chain of command where a superior exercises direct supervisory control over subordinates.",
+    "proTip": "Line authority flows directly down the chain of command."
+  },
+  {
+    "id": "commerce_1995_q49",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Organizational Structure Changes",
+    "year": "1995",
+    "difficulty": "Advanced",
+    "question": "A firm's organisational structure would change if",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "one of the major partners dies",
+      "there is excessive competition",
+      "there is seasonal variation in demand",
+      "the scope of business operation changes."
+    ],
+    "correctIndex": 3,
+    "explanation": "As a business expands, diversifies, or changes its operational scope, its organizational structure must adapt to manage new complexities, departments, and communication flows.",
+    "proTip": "Structure follows strategy; as business scope changes, organizational design evolves."
+  },
+  {
+    "id": "commerce_1995_q50",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Regional Economic Commissions (Niger Basin)",
+    "year": "1995",
+    "difficulty": "Scholar",
+    "question": "The secretariat of the Niger Basin Commission is located at",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Ouagadougou, Burkina Faso",
+      "Abuja, Nigeria",
+      "Niamey, Niger",
+      "Bamako, Mali"
+    ],
+    "correctIndex": 2,
+    "explanation": "The headquarters and secretariat of the Niger Basin Authority (formerly Niger Basin Commission) is located in Niamey, Niger Republic.",
+    "proTip": "Memorize key headquarters locations for West African regional commissions."
+  },
+  {
+    "id": "commerce_1997_q1",
+    "subject": "Commerce",
+    "topic": "Commerce",
+    "subTopic": "Evolution of Commerce in Nigeria",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Which of the following contributed least to the evolution of commercial activities in Nigeria?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Development of banks",
+      "Development of transportation.",
+      "Development of traders' unions.",
+      "Development of currencies."
+    ],
+    "correctIndex": 2,
+    "explanation": "The evolution of commercial activities relies heavily on the development of physical infrastructure and financial facilitators like transportation, banking, and a standard medium of exchange (currencies). Traders' unions developed much later to regulate trade practices rather than driving the fundamental evolution of commerce.",
+    "proTip": "Physical infrastructure and monetary systems are the true primary pillars driving commercial evolution."
+  },
+  {
+    "id": "commerce_1997_q2",
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "subTopic": "Choice of Occupation",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "One of the factors which critically determines the choice of occupation is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "training",
+      "skill",
+      "aptitude",
+      "interest."
+    ],
+    "correctIndex": 2,
+    "explanation": "Aptitude—referring to a person's natural ability, capability, and inherent potential to learn or acquire specific skills—is a foundational determinant in choosing an appropriate occupation.",
+    "proTip": "Aptitude represents inherent capacity, whereas skill and training are acquired later."
+  },
+  {
+    "id": "commerce_1997_q3",
+    "subject": "Commerce",
+    "topic": "Production",
+    "subTopic": "Primary / Extractive Industry",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Extractive industries may also be denominated as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "direct industries",
+      "servicing industries",
+      "primary industries",
+      "indirect industries."
+    ],
+    "correctIndex": 2,
+    "explanation": "Extractive industries (such as agriculture, mining, and fishing) are universally classified as primary industries because they involve the direct extraction of natural resources from the earth or water.",
+    "proTip": "Extractive and genetic industries together constitute primary production."
+  },
+  {
+    "id": "commerce_1997_q4",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Primary Objective of Business",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The primary objective of a business organization is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cater for the needs of its owners",
+      "work towards making returns",
+      "assist the government to serve the citizens",
+      "improve the standard of living of its proprietors."
+    ],
+    "correctIndex": 1,
+    "explanation": "The fundamental commercial motive and primary economic objective of any private business organization is the generation of profit (making financial returns on capital invested).",
+    "proTip": "Profit maximization is the core economic driver for private commercial enterprises."
+  },
+  {
+    "id": "commerce_1997_q5",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Public Enterprises and Monopolies",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Services which are of absolute monopoly can best be provided by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "private companies",
+      "limited liability companies",
+      "public companies",
+      "public enterprises."
+    ],
+    "correctIndex": 3,
+    "explanation": "Public enterprises (state-owned enterprises) are best suited to provide absolute monopolies or essential utility services (like electricity and public water supply) to protect consumers from private exploitation.",
+    "proTip": "Natural and absolute monopolies in public utilities are typically handled by state-owned enterprises."
+  },
+  {
+    "id": "commerce_1997_q6",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Co-operative Societies vs. Companies",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "One advantage the co-operative society has over the ordinary company is that the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "latter pays tax while the former does not",
+      "former attracts more capital than the latter",
+      "membership of the former is usually more than that of the latter",
+      "former, unlike the latter, has limited liabilities."
+    ],
+    "correctIndex": 0,
+    "explanation": "Registered co-operative societies often enjoy tax exemptions and concessions on their surplus or profits under cooperative laws, whereas ordinary limited liability companies are subject to full corporate income tax.",
+    "proTip": "Co-operatives enjoy specific legal privileges and tax exemptions designed to encourage mutual self-help."
+  },
+  {
+    "id": "commerce_1997_q7",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Forms of Business Ownership (Partnership)",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Use the information below to answer questions 7 and 8.\nMr Obi is a manager of Obi Agricultural Venture. He makes all the decisions and takes all profits from the business. He had agreed with Alhaji Musa (a farmer) to pool their resources together and expand their business. They invites Mr. Abayomi (a cotton grower) to join them. Mr Abayomi agreed on the condition that his liability in the new firm will be limited to his investment in it. They thus registered Obi, Musa & Abayomi Agricultural Ventures.\nIt can be deduced from the above that Obi Agricultural Ventures is a",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "sole proprietorship",
+      "general partnership",
+      "limited partnership",
+      "joint venture."
+    ],
+    "correctIndex": 2,
+    "explanation": "Because one of the partners (Abayomi) has his liability limited to his capital contribution while others have unlimited liability, the firm is structured as a limited partnership.",
+    "proTip": "A limited partnership must feature at least one general partner with unlimited liability and one limited partner."
+  },
+  {
+    "id": "commerce_1997_q8",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Limited Partnership Characteristics",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Use the information below to answer questions 7 and 8 [Refer to scenario in question 7].\nWhich of the statements below is true of Mr Abayomi?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "He can assign his shares to another without consent of other partners",
+      "He cannot take part in the management of the business.",
+      "He can act as a limited partner can bind the firm.",
+      "His death will automatically dissolve the partnership."
+    ],
+    "correctIndex": 1,
+    "explanation": "As a limited partner, Mr. Abayomi enjoys limited liability but is legally barred from participating in the active daily management and control of the partnership business.",
+    "proTip": "Limited partners provide capital but cannot take part in management or bind the partnership."
+  },
+  {
+    "id": "commerce_1997_q9",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Sources of Capital for Private Limited Companies",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "A source of capital to private limited companies is shares issued to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the public",
+      "selected persons",
+      "members of the Board of Directors",
+      "Dedicated members of staff."
+    ],
+    "correctIndex": 1,
+    "explanation": "By law, a private limited liability company is restricted from offering its shares or debentures for public subscription; hence, it raises share capital by issuing shares privately to selected persons.",
+    "proTip": "Private limited companies cannot invite the general public to subscribe for shares."
+  },
+  {
+    "id": "commerce_1997_q10",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Conglomerates",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Which of the following is an example of a conglomerate?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "National Electric Power Authority",
+      "United Africa Company Nigeria Plc",
+      "The Nigerian Railway Corporation.",
+      "First Bank Nigeria Plc."
+    ],
+    "correctIndex": 1,
+    "explanation": "The United Africa Company (UAC) of Nigeria Plc is a classic example of a conglomerate, engaging in diverse unrelated business lines spanning manufacturing, real estate, food, and distribution.",
+    "proTip": "Conglomerates are massive corporate bodies operating across multiple unrelated industries."
+  },
+  {
+    "id": "commerce_1997_q11",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Preference Stockholders",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Which of the following statements is true of preferred stockholders?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "They have no voting rights at annual general meetings",
+      "They have first claim to company assets before creditors",
+      "They have first claim to company assets after all debts have been settled.",
+      "They share dividends equally with common stockholders."
+    ],
+    "correctIndex": 2,
+    "explanation": "Preferred stockholders have a priority claim over ordinary shareholders to both dividends and repayment of capital upon liquidation, but only after all external creditors and debt holders have been fully settled.",
+    "proTip": "Preference shareholders rank ahead of ordinary shareholders but behind all creditors."
+  },
+  {
+    "id": "commerce_1997_q12",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Pre-emptive Rights",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "A provision in the charter of a company which gives holders of common stock the first option to purchase additional issues of the firms' common stock is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "pre emptive right",
+      "shareholders right",
+      "ex-dividend right",
+      "oversubscription right."
+    ],
+    "correctIndex": 0,
+    "explanation": "A pre-emptive right is a legal provision ensuring that existing common shareholders have the right of first refusal to purchase newly issued shares before they are offered to the public, protecting them against dilution.",
+    "proTip": "Pre-emptive rights protect existing shareholders from ownership dilution."
+  },
+  {
+    "id": "commerce_1997_q13",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Variable Income Securities",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "One type of investment that has a variable income is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "debentures",
+      "preferred shares",
+      "government bonds",
+      "ordinary shares."
+    ],
+    "correctIndex": 3,
+    "explanation": "Ordinary shares (common stock) yield variable dividend incomes that fluctuate directly with the company's yearly profitability.",
+    "proTip": "Ordinary shares offer variable returns based on profits, unlike fixed-interest bonds and debentures."
+  },
+  {
+    "id": "commerce_1997_q14",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Stock Suspension Terminology",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "A term which indicate that a share is temporarily suspended is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "ex-dividend",
+      "cum-dividend",
+      "bond",
+      "stock."
+    ],
+    "correctIndex": 0,
+    "explanation": "Ex-dividend indicates that a share is trading without the right to the recently declared dividend. [Note: In Nigerian JAMB past questions, this option is keyed for temporary dividend suspension status].",
+    "proTip": "Ex-dividend securities trade without attaching entitlement to the impending dividend payout."
+  },
+  {
+    "id": "commerce_1997_q15",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Leasing",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Leasing is the right to use assets for an agreed period in return for",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "profit",
+      "interest",
+      "wages",
+      "rents."
+    ],
+    "correctIndex": 3,
+    "explanation": "A lease agreement grants the lessee the right to use equipment or property for a specified duration in exchange for regular lease rental payments.",
+    "proTip": "Lease payments are designated as rents."
+  },
+  {
+    "id": "commerce_1997_q16",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Mortgage Financing",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The form of business financing which involves pledging of a specific asset is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "debenture",
+      "mortgage",
+      "loan",
+      "bond."
+    ],
+    "correctIndex": 1,
+    "explanation": "A mortgage is a specialized form of long-term debt financing where specific real estate or fixed assets are pledged as legal collateral.",
+    "proTip": "Mortgages require specific asset collateral to secure long-term loans."
+  },
+  {
+    "id": "commerce_1997_q17",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Authorized Capital",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The total amount that a company is allowed to raise according to its memoradum of association is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "issued capital",
+      "authorized capital",
+      "called-up capital",
+      "paid-up capital"
+    ],
+    "correctIndex": 1,
+    "explanation": "Authorized, registered, or nominal capital is the statutory maximum amount of capital a company is permitted to raise under its memorandum of association.",
+    "proTip": "Authorized capital is the legal ceiling for share issuance."
+  },
+  {
+    "id": "commerce_1997_q18",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Authorized Capital Calculation",
+    "year": "1997",
+    "difficulty": "Scholar",
+    "question": "A public limited liability company having a nominal capital made up of 200 000 ordinary shares of 50k each decided to issue 50% of it to the public\nWhat is the authorized capital?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "N40 000",
+      "N50 000",
+      "N100000",
+      "N200000"
+    ],
+    "correctIndex": 2,
+    "explanation": "Authorized capital = Total authorized shares * Nominal value per share = 200,000 * N0.50 = N100,000.",
+    "proTip": "Calculate authorized capital using total nominal shares multiplied by par value."
+  },
+  {
+    "id": "commerce_1997_q19",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Turnover Determinants",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The turnover of a firm may be affected by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the demand for its product",
+      "the cost of its goods sold",
+      "its closing stock",
+      "its net assets."
+    ],
+    "correctIndex": 0,
+    "explanation": "Turnover (total sales revenue) is directly driven by consumer demand and market absorption capacity for the firm's products.",
+    "proTip": "Sales turnover is a direct reflection of market demand."
+  },
+  {
+    "id": "commerce_1997_q20",
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "subTopic": "Carriage Outward",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The cost of transporting goods to customers is called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "carriage inward",
+      "carriage forward",
+      "carriage paid",
+      "carriage outward."
+    ],
+    "correctIndex": 3,
+    "explanation": "Carriage outward represents transportation expenses incurred by a seller when delivering goods to customers' locations.",
+    "proTip": "Carriage outward is a selling/distribution expense."
+  },
+  {
+    "id": "commerce_1997_q21",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "Direct Selling",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The main aim of selling directly to consumers by manufacturers is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "discourage the activities of middlemen",
+      "make contact with consumers",
+      "eliminate transportation cost",
+      "maximize the profit margin."
+    ],
+    "correctIndex": 3,
+    "explanation": "Selling directly to final consumers allows manufacturers to capture wholesale and retail margins, thereby maximizing their overall profit margins.",
+    "proTip": "Direct-to-consumer models capture intermediary margins for the manufacturer."
+  },
+  {
+    "id": "commerce_1997_q22",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "Bill of Lading",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "In foreign trade, document of title is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "bill of lading",
+      "bill at sight",
+      "certificate of origin",
+      "declaration form."
+    ],
+    "correctIndex": 0,
+    "explanation": "The bill of lading serves as a contract of carriage, receipt of goods, and document of title, allowing the lawful holder to claim ownership of goods in transit.",
+    "proTip": "Bill of lading is the definitive document of title in maritime trade."
+  },
+  {
+    "id": "commerce_1997_q23",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "Excise Duties",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Excise duties are paid on goods that are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "imported into the country",
+      "manufactured within the country",
+      "exported to other countries",
+      "kept in bonded warehouses."
+    ],
+    "correctIndex": 1,
+    "explanation": "Excise duties are indirect taxes levied on goods produced and manufactured domestically within a country.",
+    "proTip": "Excise = domestic production tax; Custom duty = import/export tax."
+  },
+  {
+    "id": "commerce_1997_q24",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "Stevedores",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Stevedores as a term in foreign trade means men who",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "inspect goods in ships",
+      "import goods by ships",
+      "collect duties in ships",
+      "load and unload ships."
+    ],
+    "correctIndex": 3,
+    "explanation": "Stevedores are port workers responsible for loading and unloading freight from ships.",
+    "proTip": "Stevedores manage dockside cargo handling."
+  },
+  {
+    "id": "commerce_1997_q25",
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "subTopic": "Indents",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "A close indent is an instruction to an agent to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "order goods from a particular manufacturer",
+      "order goods from any manufacturer",
+      "sell goods to any firm",
+      "sell goods to a certain firm."
+    ],
+    "correctIndex": 0,
+    "explanation": "A closed indent specifies a particular brand or manufacturer from whom goods must be sourced, restricting the agent's discretion.",
+    "proTip": "Closed indent = restricted supplier choice; open indent = unrestricted supplier choice."
+  },
+  {
+    "id": "commerce_1997_q26",
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "subTopic": "Trade Discount vs. Cash Discount",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The basic distinction between cash discount and trade discount is that while trade discount is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "for a period of 30 days, cash discount is for a period of 3 months",
+      "given by a wholesaler, cash discount is given by a bank",
+      "a reduction in the catalogue price of an article, cash discount is a reduction in the invoice value",
+      "a reduction in value of sales, cash discount is a reduction in price of goods."
+    ],
+    "correctIndex": 2,
+    "explanation": "Trade discount is a reduction off the list/catalogue price granted to traders, while cash discount is a reduction off the invoice amount given to encourage prompt settlement.",
+    "proTip": "Trade discount applies to list price; cash discount applies to invoice settlement."
+  },
+  {
+    "id": "commerce_1997_q27",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Demurrage",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The cost that arises from failure to load or unload a ship at the port within a stipulated period is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "excess charges",
+      "demurrage charges",
+      "premium charges",
+      "trade charges."
+    ],
+    "correctIndex": 1,
+    "explanation": "Demurrage is a penalty fee levied for delaying a ship or cargo container beyond the agreed laytime at a port.",
+    "proTip": "Demurrage charges penalize port turnaround delays."
+  },
+  {
+    "id": "commerce_1997_q28",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Rail Transport",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The mode of transportation that is noted for ontime dependability and low cost per unit on goods carried is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "pipeline",
+      "air",
+      "rail",
+      "road."
+    ],
+    "correctIndex": 2,
+    "explanation": "Rail transport offers high reliability, structured schedules, and cost-efficient bulk freight movement over land.",
+    "proTip": "Rail transport excels in bulk freight economy and scheduling dependability."
+  },
+  {
+    "id": "commerce_1997_q29",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Insurance Underwriting",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "A person who undertakes any risk in insurance business is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "a broker",
+      "an underwriter",
+      "an insurer",
+      "an actuary."
+    ],
+    "correctIndex": 1,
+    "explanation": "An underwriter assumes financial risk by issuing insurance policies and agreeing to cover potential losses in exchange for premiums.",
+    "proTip": "Underwriters accept and carry insurance risks."
+  },
+  {
+    "id": "commerce_1997_q30",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Purpose of Insurance",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The main purpose of insurance is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "encourage business to survive and grow",
+      "ensure that facilities are available for operations",
+      "accept risks and extend credits to policy holders",
+      "spread individual losses over all covered participants."
+    ],
+    "correctIndex": 3,
+    "explanation": "Insurance pools premiums from many policyholders to share and spread individual losses across the collective group.",
+    "proTip": "Risk pooling and loss sharing are the fundamental economic purposes of insurance."
+  },
+  {
+    "id": "commerce_1997_q31",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Bank Giro",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Bank giro is a system where",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Commercial banks can give loans to all customers",
+      "a central bank opens accounts for commercial banks",
+      "a customer uses a cheque to pay several bills",
+      "a customer closes his account by writing a cheque."
+    ],
+    "correctIndex": 2,
+    "explanation": "A bank giro enables a bank customer to settle multiple financial obligations or bills through a single banking payment order instruction.",
+    "proTip": "Bank giro facilitates multi-creditor payment orders."
+  },
+  {
+    "id": "commerce_1997_q32",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Commercial Banking Scope",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Commercial banks are referred to as departmental stores of banking because they",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "have many branches",
+      "have many customers",
+      "are found in the cities",
+      "offer many types of services."
+    ],
+    "correctIndex": 3,
+    "explanation": "Commercial banks provide an extensive range of financial services under one roof, earning them the title of 'departmental stores of banking'.",
+    "proTip": "Departmental banking stores offer diverse financial products and services."
+  },
+  {
+    "id": "commerce_1997_q33",
+    "subject": "Commerce",
+    "topic": "Stock Exchange",
+    "subTopic": "Primary Market",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "A market where new shares are traded is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "primary market",
+      "stock exchange",
+      "secondary market",
+      "money market."
+    ],
+    "correctIndex": 0,
+    "explanation": "The primary market handles the initial public offering and issuance of new securities directly from companies to investors.",
+    "proTip": "Primary market deals exclusively in newly issued securities."
+  },
+  {
+    "id": "commerce_1997_q34",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Stock Appreciation",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "When a firm speaks of stock appreciation, it refers to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "changes in the value of its stock resulting from price movements",
+      "increase in the price of its shares quoted on the stock exchange",
+      "an unexpected increase in the demand for its stocks",
+      "the value of its stocks in the stock exchange."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stock appreciation denotes the increase in book value or monetary worth of inventory/stock due to upward market price movements.",
+    "proTip": "Inventory value increases resulting from market inflation are termed stock appreciation."
+  },
+  {
+    "id": "commerce_1997_q35",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Marketing Definition",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The process of creating more market for a product is called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "advertising",
+      "marketing",
+      "promotion",
+      "consumerism."
+    ],
+    "correctIndex": 1,
+    "explanation": "Marketing is the comprehensive commercial process of identifying, creating, and expanding markets for products and services.",
+    "proTip": "Marketing drives customer acquisition and market expansion."
+  },
+  {
+    "id": "commerce_1997_q36",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Marketing Mix (Place / Distribution)",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "When a vendor supplies newspapers from house to house and across the streets, the element of marketing mix involved is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "product",
+      "price",
+      "promotion",
+      "place"
+    ],
+    "correctIndex": 3,
+    "explanation": "Direct house-to-house and street distribution channels fall under 'Place' (distribution and logistics) within the marketing mix.",
+    "proTip": "Distribution channels and physical delivery methods constitute the 'Place' element."
+  },
+  {
+    "id": "commerce_1997_q37",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Advertising Media (Cinema)",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The main advantage of using cinema as an advertising medium is that it is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cheap",
+      "accurate",
+      "accessible",
+      "informative."
+    ],
+    "correctIndex": 3,
+    "explanation": "Cinema advertising provides audio-visual capability, enabling detailed and highly informative product presentations to a captive audience.",
+    "proTip": "Audio-visual media allow comprehensive product demonstrations."
+  },
+  {
+    "id": "commerce_1997_q38",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Patronage",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "When old customers stick to the old place to buy goods and services, it is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "goodwill",
+      "personal factor",
+      "window shopping",
+      "patronage."
+    ],
+    "correctIndex": 3,
+    "explanation": "Consistent and loyal support by customers buying from the same business establishment is known as patronage.",
+    "proTip": "Patronage measures repeat business and customer loyalty."
+  },
+  {
+    "id": "commerce_1997_q39",
+    "subject": "Commerce",
+    "topic": "Legal Aspects of Business",
+    "subTopic": "Companies and Allied Matters Act (CAMA 1990)",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The most important piece of legislation governing business and commercial activities in Nigeria currently is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Companies Decree, 1968",
+      "Trade Dispute Decree, 1976",
+      "Companies and Allied Matters Decree, 1990",
+      "Banks and Other Financial Institutions Decree, 1991."
+    ],
+    "correctIndex": 2,
+    "explanation": "The Companies and Allied Matters Act (CAMA) of 1990 is the premier legislative framework regulating business incorporation and corporate governance in Nigeria.",
+    "proTip": "CAMA 1990 regulates commercial entities and company operations in Nigeria."
+  },
+  {
+    "id": "commerce_1997_q40",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Consumer vs. Industrial Markets",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "One of the criteria for differentiating consumer markets from industrial ones is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "type of demand",
+      "type of supply",
+      "nature of the services rendered",
+      "price of the goods."
+    ],
+    "correctIndex": 0,
+    "explanation": "Consumer markets feature direct demand from end-users, whereas industrial markets feature derived demand from manufacturing and business buyers.",
+    "proTip": "Demand type (direct vs. derived) differentiates consumer and industrial markets."
+  },
+  {
+    "id": "commerce_1997_q41",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Food and Drugs Act",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The over-riding objective of the food and drug act in Nigeria is to prevent the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "importation of food and drugs that can be locally manufactured",
+      "consumption of food and drugs not tested by the ministries of health",
+      "adulteration of food and drugs sold in the country",
+      "manufacturers of food and drugs from charging excessive prices."
+    ],
+    "correctIndex": 2,
+    "explanation": "The Food and Drugs Act aims primarily to protect public health by prohibiting the sale and distribution of adulterated, substandard, or harmful consumables.",
+    "proTip": "Food and drug regulations prevent adulteration and protect public health."
+  },
+  {
+    "id": "commerce_1997_q42",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Consumerism in Nigeria",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The activities of consumers association in Nigeria have not been effective because",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the consumers are too many",
+      "the government is not favourably disposed towards consumerism",
+      "there is poor enlightenment about consumer rights",
+      "the consumers have no medium for expressing their feelings."
+    ],
+    "correctIndex": 2,
+    "explanation": "Consumer advocacy in Nigeria has faced challenges largely due to widespread public ignorance and poor enlightenment regarding consumer rights and legal protections.",
+    "proTip": "Consumer awareness and education are vital for effective consumer advocacy."
+  },
+  {
+    "id": "commerce_1997_q43",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Indigenization Policy",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The least of the advantages of indigenization is that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the standard of living of the indigenes is improved",
+      "entrepreneural skill is developed",
+      "foreigners' domination is avoided",
+      "the economy is controlled by the nationals."
+    ],
+    "correctIndex": 0,
+    "explanation": "While indigenization fosters local entrepreneurial development and national economic control, a direct rise in living standards is an indirect or least immediate outcome compared to structural ownership transfers.",
+    "proTip": "Indigenization prioritizes national economic control and local entrepreneurship."
+  },
+  {
+    "id": "commerce_1997_q44",
+    "subject": "Commerce",
+    "topic": "Trade Associations",
+    "subTopic": "Objectives of Trade Associations",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The main objective of a trade association can best be described as promoting and protecting",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the products",
+      "common interest",
+      "the market",
+      "customer's interest."
+    ],
+    "correctIndex": 1,
+    "explanation": "Trade associations exist to promote, protect, and advance the common business interests of member firms operating within the same industry.",
+    "proTip": "Trade associations protect common business interests."
+  },
+  {
+    "id": "commerce_1997_q45",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Controlling Function",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "The management function of evaluating whether objectives are being achieved is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "planning",
+      "directing",
+      "organizing",
+      "controlling."
+    ],
+    "correctIndex": 3,
+    "explanation": "Controlling is the managerial process of monitoring performance, comparing it against targets, and evaluating whether organizational objectives are met.",
+    "proTip": "Controlling measures performance and ensures target attainment."
+  },
+  {
+    "id": "commerce_1997_q46",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Short-Term Planning (Budgets)",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "In a business organization, the annual operation plan or budget is a form of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "casual plan",
+      "medium-term plan",
+      "long-term plan",
+      "short-term plan."
+    ],
+    "correctIndex": 3,
+    "explanation": "An annual operating plan or budget spans a 12-month period, categorizing it as a short-term tactical plan.",
+    "proTip": "Annual budgets are short-term operational plans."
+  },
+  {
+    "id": "commerce_1997_q47",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Delegation",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "A key advantage of delegation is that",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "workers are prepared for higher responsibilities",
+      "the manager has less work to do",
+      "the manager spends less time on planning",
+      "the organizing grows larger in size."
+    ],
+    "correctIndex": 0,
+    "explanation": "Delegation empowers subordinates, builds their competency, and prepares them for future leadership and higher responsibilities.",
+    "proTip": "Delegation trains subordinates for higher responsibilities."
+  },
+  {
+    "id": "commerce_1997_q48",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Social Responsibility Definition",
+    "year": "1997",
+    "difficulty": "Apprentice",
+    "question": "Social responsibility of business requires enterprises to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "hold annual social parties for the public",
+      "draw their workers only from the immediate environment",
+      "address themselves to issues relating to the society.",
+      "set up social welfare centres in their areas of operation."
+    ],
+    "correctIndex": 2,
+    "explanation": "Corporate social responsibility requires businesses to address ethical, environmental, and socio-economic issues affecting the wider society.",
+    "proTip": "Social responsibility obligates businesses to respond to societal needs and community welfare."
+  },
+  {
+    "id": "commerce_1997_q49",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Political Environment",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "The existing system of governance and the administrative sub-divisions of a country which affect the operations of business in the country is described as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "economic environment",
+      "legal environment",
+      "political environment",
+      "social environment."
+    ],
+    "correctIndex": 2,
+    "explanation": "The political environment includes the governing system, political stability, administrative structure, and public policies impacting business operations.",
+    "proTip": "Governance systems and political structures form the political environment."
+  },
+  {
+    "id": "commerce_1997_q50",
+    "subject": "Commerce",
+    "topic": "Information and Communication Technology (ICT)",
+    "subTopic": "Technological Change and Obsolescence",
+    "year": "1997",
+    "difficulty": "Advanced",
+    "question": "Sudden technological changes can have the effect of making",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "a company's management style ineffective",
+      "a company's product obsolete",
+      "the control mechanism difficult to implement",
+      "the motivational factors in the company difficult to monitor."
+    ],
+    "correctIndex": 1,
+    "explanation": "Sudden and radical technological shifts can quickly render existing products and manufacturing technologies obsolete.",
+    "proTip": "Technological advancements accelerate product obsolescence, forcing continuous R&D."
+  },
+  {
+    "id": "commerce_1998_q1",
+    "subject": "Commerce",
+    "topic": "Commerce",
+    "subTopic": "Evolution of Commerce in Nigeria",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Which of the following contributed least to the evolution of commercial activities in Nigeria?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Development of banks",
+      "Development of transportation",
+      "Development of traders' unions",
+      "Development of currencies"
+    ],
+    "correctIndex": 2,
+    "explanation": "The fundamental evolution of commerce relies on trade facilitators like transport, banking, and currency. Traders' unions emerged much later to regulate and protect member interests rather than driving the primary evolution of trade infrastructure.",
+    "proTip": "Transport, banking, and currency are the primary structural drivers of commercial evolution."
+  },
+  {
+    "id": "commerce_1998_q2",
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "subTopic": "Choice of Occupation",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "One of the factors which critically determines the choice of occupation is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "training",
+      "skill",
+      "aptitude",
+      "interest"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aptitude represents a person's natural capability, talent, and innate potential to excel in a particular field, serving as a critical determinant in career selection.",
+    "proTip": "Innate aptitude forms the base upon which skills and training are built."
+  },
+  {
+    "id": "commerce_1998_q3",
+    "subject": "Commerce",
+    "topic": "Production",
+    "subTopic": "Primary / Extractive Industry",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "Extractive industries may also be denominated as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "direct industries",
+      "servicing industries",
+      "primary industries",
+      "indirect industries"
+    ],
+    "correctIndex": 2,
+    "explanation": "Extractive industries (such as mining, fishing, and agriculture) are classified as primary industries because they extract gifts of nature directly from the earth or water.",
+    "proTip": "Primary industries deal directly with the extraction of natural resources."
+  },
+  {
+    "id": "commerce_1998_q4",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Objectives of a Business",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The primary objective of a business organization is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cater for the needs of its owners",
+      "work towards making returns",
+      "assist the government to serve the citizens",
+      "improve the standard of living of its proprietors"
+    ],
+    "correctIndex": 1,
+    "explanation": "The fundamental economic motive of any commercial enterprise is profit generation (making returns on investment capital).",
+    "proTip": "Profit-making is the overriding economic objective of private business ventures."
+  },
+  {
+    "id": "commerce_1998_q5",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Public Enterprises and Monopolies",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Services which are of absolute monopoly can best be provided by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "private companies",
+      "limited liability companies",
+      "public companies",
+      "public enterprises"
+    ],
+    "correctIndex": 3,
+    "explanation": "Public enterprises (state-owned enterprises) are established to manage natural monopolies and essential public utilities to prevent exploitation of citizens by private monopolies.",
+    "proTip": "Essential utilities and absolute monopolies are best handled by public enterprises."
+  },
+  {
+    "id": "commerce_1998_q6",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Co-operative Societies vs. Companies",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "One advantage the co-operative society has over the ordinary company is that the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "latter pays tax while the former does not",
+      "former attracts more capital than the latter",
+      "membership of the former is usually more than that of the latter",
+      "former, unlike the latter, has limited liabilities"
+    ],
+    "correctIndex": 0,
+    "explanation": "Registered cooperative societies enjoy tax exemptions and concessions on their surplus earnings under cooperative legislation, whereas limited liability companies pay standard corporate taxes.",
+    "proTip": "Cooperatives enjoy special tax privileges intended to promote mutual aid."
+  },
+  {
+    "id": "commerce_1998_q7",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Partnership Forms",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Use the information below to answer questions 7 and 8:\nMr Obi is a manager of Obi Agricultural Venture. He makes all the decisions and takes all profits from the business. He had agreed with Alhaji Musa (a farmer) to pool their resources together and expand their business. They invites Mr. Abayomi (a cotton grower) to join them. Mr Abayomi agreed on the condition that his liability in the new firm will be limited to his investment in it. They thus registered Obi, Musa & Abayomi Agricultural Ventures.\nIt can be deduced from the above that Obi Agricultural Ventures is a",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "sole proprietorship",
+      "general partnership",
+      "limited partnership",
+      "joint venture"
+    ],
+    "correctIndex": 2,
+    "explanation": "Because one partner's liability is limited to his capital contribution while others have general liability, the business constitutes a limited partnership.",
+    "proTip": "A limited partnership must feature at least one limited partner and general partners."
+  },
+  {
+    "id": "commerce_1998_q8",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Limited Partnership Rights",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Use the information below to answer questions 7 and 8 [Refer to scenario in question 7].\nWhich of the statements below is true of Mr Abayomi?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "He can assign his shares to another without consent of other partners",
+      "He cannot take part in the management of the business.",
+      "His actions as a limited partner can bind the firm.",
+      "His death will automatically dissolve the partnership."
+    ],
+    "correctIndex": 1,
+    "explanation": "A limited partner enjoys limited financial liability but is legally prohibited from participating in the active management or operational control of the firm.",
+    "proTip": "Limited partners cannot take part in daily business management."
+  },
+  {
+    "id": "commerce_1998_q9",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Private Limited Company Financing",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "A source of capital to private limited companies is shares issued to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the public",
+      "selected persons",
+      "members of the Board of Directors",
+      "Dedicated members of staff"
+    ],
+    "correctIndex": 1,
+    "explanation": "Private limited liability companies are legally prohibited from inviting the general public to buy shares; they must issue shares privately to selected persons.",
+    "proTip": "Private companies raise share capital privately, not through public stock exchanges."
+  },
+  {
+    "id": "commerce_1998_q10",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Conglomerates",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "Which of the following is an example of a conglomerate?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "National Electric Power Authority",
+      "United Africa Company Nigeria Plc",
+      "The Nigerian Railway Corporation",
+      "First Bank Nigeria Plc"
+    ],
+    "correctIndex": 1,
+    "explanation": "UACN Plc is a classic conglomerate operating across multiple, unrelated commercial sectors including manufacturing, real estate, merchandising, and food production.",
+    "proTip": "Conglomerates span diverse, unrelated industries and business lines."
+  },
+  {
+    "id": "commerce_1998_q11",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Preferred Stockholders",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Which of the following statements is true of preferred stockholders?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "They have no voting rights at annual general meetings",
+      "They have first claim to company assets before creditors",
+      "They have first claim to company assets after all debts have been settled.",
+      "They share dividends equally with common stockholders."
+    ],
+    "correctIndex": 2,
+    "explanation": "Preference shareholders have priority over ordinary shareholders for dividend payouts and return of capital upon liquidation, but only after all external liabilities and creditor claims are settled.",
+    "proTip": "Preference shareholders rank behind creditors but ahead of ordinary shareholders."
+  },
+  {
+    "id": "commerce_1998_q12",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Pre-emptive Rights",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "A provision in the charter of a company which gives holders of common stock the first option to purchase additional issues of the firms' common stock is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "pre emptive right",
+      "shareholders right",
+      "ex-dividend right",
+      "oversubscription right"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pre-emptive right protects existing shareholders by giving them the right of first refusal to purchase new share issues before they are offered to outsiders.",
+    "proTip": "Pre-emptive rights prevent ownership dilution for current shareholders."
+  },
+  {
+    "id": "commerce_1998_q13",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Current Ratio Calculation",
+    "year": "1998",
+    "difficulty": "Scholar",
+    "question": "Use the information below to answer questions 13 and 14:\nSONU Enterprises Balance Sheet as at 31/3/98\nCapital: N6,000 | Plant/Machinery: N2,300\nNet profit: N2,000 | Motor van: N2,000\nDrawings: (N137.50) | Stock: N1,250\nCreditors: N1,000 | Debtors: N480\nAccruals: N187.50 | Bank: N3,000\nCash: N20\nWhat is the current ratio?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "4:1",
+      "4.5:1",
+      "5:1",
+      "25.5:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Current Assets = Stock (1,250) + Debtors (480) + Bank (3,000) + Cash (20) = N4,750. Current Liabilities = Creditors (1,000) + Accruals (187.50) = N1,187.50. Current Ratio = Current Assets / Current Liabilities = 4,750 / 1,187.50 = 4:1.",
+    "proTip": "Current ratio formula = Total Current Assets / Total Current Liabilities."
+  },
+  {
+    "id": "commerce_1998_q14",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Acid-Test Ratio Calculation",
+    "year": "1998",
+    "difficulty": "Scholar",
+    "question": "Use the balance sheet data in question 13 to answer question 14:\nWhat is the acid ratio?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "2.95:1",
+      "4.25:1",
+      "4.75:1",
+      "5.55:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quick Assets (Liquid Assets) = Current Assets - Stock = 4,750 - 1,250 = N3,500. Current Liabilities = N1,187.50. Acid-test ratio = 3,500 / 1,187.50 = 2.947:1 (approx 2.95:1).",
+    "proTip": "Acid-test (quick) ratio excludes less liquid stock from current assets."
+  },
+  {
+    "id": "commerce_1998_q15",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Circulating Capital",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The form of capital which is easily transferred into the form desired is known as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "working capital",
+      "liquid capital",
+      "circulating capital",
+      "capital employed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Liquid capital (cash and bank balances) is immediately available and can be transformed into any desired asset or form without delay.",
+    "proTip": "Liquid capital offers immediate purchasing and conversion power."
+  },
+  {
+    "id": "commerce_1998_q16",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Gross Profit Percentage Calculation",
+    "year": "1998",
+    "difficulty": "Scholar",
+    "question": "If a firm's turnover is N15,000 and the cost of goods sold is N10,000, what is the percentage of gross profit on sales?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "23.3%",
+      "33.3%",
+      "50.0%",
+      "66.6%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gross Profit = Turnover - Cost of Goods Sold = 15,000 - 10,000 = N5,000. Percentage of gross profit on sales = (Gross Profit / Turnover) * 100 = (5,000 / 15,000) * 100 = 33.3%.",
+    "proTip": "Gross profit percentage on sales = (Gross Profit / Sales Turnover) * 100."
+  },
+  {
+    "id": "commerce_1998_q17",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Vending Machines",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "A machine which enables sales without the physical presence of a sales attendant is a",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "computer machine",
+      "vending machine",
+      "telex machine",
+      "fax machine"
+    ],
+    "correctIndex": 1,
+    "explanation": "A vending machine is an automated coin- or card-operated device that dispenses goods without requiring a human sales attendant.",
+    "proTip": "Vending machines facilitate automated automated retail sales."
+  },
+  {
+    "id": "commerce_1998_q18",
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "subTopic": "Consular Invoice",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "What document is required when a country imposes ad valorem import duties on goods?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "A mail transfer",
+      "A shipping note",
+      "A bill of lading",
+      "A consular invoice"
+    ],
+    "correctIndex": 3,
+    "explanation": "A consular invoice certified by a consul of the importing country is required to verify the true market value of goods when ad valorem (value-based) import duties are levied.",
+    "proTip": "Consular invoices verify goods value for ad valorem customs duties."
+  },
+  {
+    "id": "commerce_1998_q19",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "Entrepot Trade",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "Entrepot trade is said to have taken place when goods are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "held at the port pending payment of custom duty",
+      "sold in the ship under special regulation",
+      "imported and then re-exported",
+      "kept for further processing before sales"
+    ],
+    "correctIndex": 2,
+    "explanation": "Entrepot trade involves importing foreign goods into a country with the primary intention of re-exporting them to other nations.",
+    "proTip": "Entrepot = import for subsequent re-export."
+  },
+  {
+    "id": "commerce_1998_q20",
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "subTopic": "F.O.B. Pricing",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "When a price is quoted at F.O.B. it means that the price",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "excludes loading charges incurred in bringing the goods to the dock",
+      "excludes all necessary shipping charges payable for insurance",
+      "includes all charges payable on shipping a consignment to the port of destination",
+      "includes charges payable for loading goods onto the ship"
+    ],
+    "correctIndex": 3,
+    "explanation": "Free On Board (F.O.B.) means the quoted price includes all costs up to and including the loading of the goods onto the transport vessel at the port of shipment.",
+    "proTip": "F.O.B. covers goods cost plus loading charges onto the ship."
+  },
+  {
+    "id": "commerce_1998_q21",
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "subTopic": "Trade Discount Calculation",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Emeka ordered goods for his retail shop. The manufacturer sells the goods at retail price of N500 but would give it to Emeka at N400.\nWhat kind of discount did he get?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Cash discount",
+      "Trade discount",
+      "Quantity discount",
+      "Seasonal discount"
+    ],
+    "correctIndex": 1,
+    "explanation": "A trade discount is an allowance given by a manufacturer or wholesaler to a retailer off the catalogue or retail list price to enable the retailer to resell at a profit.",
+    "proTip": "Trade discount allows retailers a profit margin off list prices."
+  },
+  {
+    "id": "commerce_1998_q22",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Postal Services (NIPOST)",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Nigerian Postal Services (NIPOST) facilitates commerce in all the following ways except through",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cash on delivery service",
+      "recorded delivery service",
+      "express service",
+      "free on board service"
+    ],
+    "correctIndex": 3,
+    "explanation": "Free On Board (F.O.B.) is a shipping and foreign trade term handled by maritime shipping and transport arrangements, not a postal service.",
+    "proTip": "NIPOST provides mail, parcel, cash-on-delivery, and express courier services, not F.O.B."
+  },
+  {
+    "id": "commerce_1998_q23",
+    "subject": "Commerce",
+    "topic": "Production",
+    "subTopic": "Store Issues Voucher",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "The document with which a manufacturing enterprise releases stock of raw materials to the factory for production is called",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "stock release form",
+      "goods received note",
+      "store issues voucher",
+      "materials release note"
+    ],
+    "correctIndex": 2,
+    "explanation": "A store issues voucher (or store requisition note) is the official internal document used to authorize and record the withdrawal of materials from the warehouse to the factory floor.",
+    "proTip": "Store issues vouchers track raw material transfers from stores to production."
+  },
+  {
+    "id": "commerce_1998_q24",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Marine Insurance Losses",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "The two main categories under which marine losses fall into are",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "particular loss and average loss",
+      "actual loss and general loss",
+      "total loss and partial loss",
+      "voyage policy loss and time policy loss"
+    ],
+    "correctIndex": 2,
+    "explanation": "Marine losses are broadly classified into total loss (actual or constructive) and partial loss (particular average or general average).",
+    "proTip": "Marine losses fall under total loss and partial loss categories."
+  },
+  {
+    "id": "commerce_1998_q25",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Personal Selling",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The oral presentation in a conversation with one or more prospective buyers for all purpose of making sales is",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "branding of goods",
+      "personal selling",
+      "packaging",
+      "publicity"
+    ],
+    "correctIndex": 1,
+    "explanation": "Personal selling involves direct face-to-face oral communication and interaction between a salesperson and prospective buyers to secure sales.",
+    "proTip": "Personal selling relies on direct interpersonal communication."
+  },
+  {
+    "id": "commerce_1998_q26",
+    "subject": "Commerce",
+    "topic": "Aids-to-trade",
+    "subTopic": "Insurance Indemnity",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "Insurance companies operate on the principle of indemnity. This means that an insured person or firm collects",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "only half of the loss suffered",
+      "double the value of the loss suffered",
+      "the total sum of the premiums paid prior to the loss",
+      "damage claims equal to the loss suffered"
+    ],
+    "correctIndex": 3,
+    "explanation": "The principle of indemnity states that the insured is restored to the exact financial position enjoyed before the loss occurred, collecting claims equal to the actual loss.",
+    "proTip": "Indemnity restores the insured to their prior financial state without enrichment."
+  },
+  {
+    "id": "commerce_1998_q27",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Community Banks vs. Peoples Bank",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "The most important difference between community banks and peoples' bank is that the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "latter is owned solely by government while the former are not",
+      "former cater for rural dwellers while the latter caters for both rural and urban dwellers",
+      "former are service oriented while the latter is profit oriented",
+      "latter advances loans to the public while the former advance loans to rural dwellers only"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Peoples Bank of Nigeria was established and owned solely by the federal government to cater to underprivileged urban and rural workers, whereas community banks were established by local communities and shareholders.",
+    "proTip": "Peoples Bank was a federal government initiative for grassroots credit."
+  },
+  {
+    "id": "commerce_1998_q28",
+    "subject": "Commerce",
+    "topic": "Financing Business",
+    "subTopic": "Nigerian Deposit Insurance Corporation (NDIC)",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "The assets, liabilities and general management of a distressed bank may be taken over by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "International Bank for Reconstruction and Development",
+      "Nigerian Industrial Development Bank",
+      "Nigerian Deposit Insurance Corporation",
+      "Nigerian Bank for Commerce and Industry"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Nigerian Deposit Insurance Corporation (NDIC), in collaboration with the Central Bank, has statutory powers to supervise, restructure, or take over the management of distressed banks.",
+    "proTip": "NDIC protects depositors and manages distressed banks in Nigeria."
+  },
+  {
+    "id": "commerce_1998_q29",
+    "subject": "Commerce",
+    "topic": "Stock Exchange",
+    "subTopic": "Second-Tier Securities Market Requirements",
+    "year": "1998",
+    "difficulty": "Scholar",
+    "question": "I. Companies must be registered as private limited liability companies.\nII. Companies must have less than 100 shareholders.\nIII. No shareholder may have more than 75% of issued share capital.\nWhat of the above are requirements for admission into the second-tier securities market?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "I and II only",
+      "I and III only",
+      "I, II and III",
+      "II and III only"
+    ],
+    "correctIndex": 3,
+    "explanation": "For admission into the Second-Tier Securities Market (SSM), companies must be public limited companies (or private companies converting to public), have fewer shareholders/caps, and comply with shareholding dispersion rules (no single shareholder exceeding 75%). Statement I is incorrect because SSM companies are public companies.",
+    "proTip": "SSM provides a platform for smaller companies to raise capital with relaxed rules."
+  },
+  {
+    "id": "commerce_1998_q30",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Consumer-Oriented Marketing",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "An underlying principles in the marketing of goods is that firms should",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "train their personnel",
+      "be consumer oriented",
+      "advertise the goods",
+      "sell through outlets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Modern marketing philosophy is built on consumer orientation—identifying and satisfying consumer needs more effectively than competitors.",
+    "proTip": "Consumer orientation is the cornerstone of modern marketing."
+  },
+  {
+    "id": "commerce_1998_q31",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Market Penetration Pricing",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Product X was introduced into the market at N4.00 with its cost of production at N3.90 while competing products are selling at N4.50. What pricing policy are producers of X adopting?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Market skimming",
+      "Market penetration",
+      "Product live promotion",
+      "Above the market pricing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Setting a low introductory price (close to cost and below competitors' prices) to quickly capture market share and attract consumers is known as market penetration pricing.",
+    "proTip": "Market penetration pricing uses low initial prices to capture market share."
+  },
+  {
+    "id": "commerce_1998_q32",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Personal Selling Advantages",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "The most important advantage of personal selling is that it",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "allows sellers to perceive buyer's needs",
+      "takes place easily on the highways",
+      "allows sellers to sell their goods quickly",
+      "takes place without the permission of government"
+    ],
+    "correctIndex": 0,
+    "explanation": "Personal selling enables direct interaction, allowing sales representatives to immediately perceive, understand, and adapt to individual customer needs and feedback.",
+    "proTip": "Instant feedback and personalized buyer understanding are key strengths of personal selling."
+  },
+  {
+    "id": "commerce_1998_q33",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Public Relations",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "Personnel activities that promote the general image of an organisation are part of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "advertising",
+      "sales promotion",
+      "public relations",
+      "business correspondence"
+    ],
+    "correctIndex": 2,
+    "explanation": "Public relations (PR) encompasses all strategic communication and activities designed to build and maintain a positive corporate image and mutual understanding with the public.",
+    "proTip": "Public relations builds overall corporate image and goodwill."
+  },
+  {
+    "id": "commerce_1998_q34",
+    "subject": "Commerce",
+    "topic": "Legal Aspects of Business",
+    "subTopic": "Agent's Remuneration",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "An agent must not make any secret profits in the performance of his duties but can only be rewarded by his principal through",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "remuneration and indemnity",
+      "payment of commission and salary",
+      "granting of business concessions",
+      "forwarding of business links"
+    ],
+    "correctIndex": 1,
+    "explanation": "An agent is legally entitled to remuneration agreed upon with the principal, typically paid in the form of a commission or salary, and must account for all secret profits.",
+    "proTip": "Agents must avoid secret profits and rely strictly on agreed commissions or salaries."
+  },
+  {
+    "id": "commerce_1998_q35",
+    "subject": "Commerce",
+    "topic": "Legal Aspects of Business",
+    "subTopic": "Termination of Contract by Frustration",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Sabo and Gambo entered into a contract for the sale of two baskets of tomatoes belonging to Gambo before the date of delivery and without any default by Gambo, the tomatoes were stolen. This is an example of termination of contract by",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "breach",
+      "performance",
+      "fault",
+      "frustration"
+    ],
+    "correctIndex": 3,
+    "explanation": "Frustration occurs when an unforeseen event beyond the control of either party makes performance of the contract impossible or illegal.",
+    "proTip": "Impossibility of performance due to unforeseen events discharges a contract by frustration."
+  },
+  {
+    "id": "commerce_1998_q36",
+    "subject": "Commerce",
+    "topic": "Legal Aspects of Business",
+    "subTopic": "Minors' Contracts",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "A minor is not permitted to enter into a valid contract because he",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "cannot pay the consideration",
+      "is too young to interprete the law",
+      "is young in the eye of the law",
+      "may not be able to write the contract"
+    ],
+    "correctIndex": 2,
+    "explanation": "Under contract law, minors (infants) lack contractual capacity because they are deemed young in the eye of the law to fully understand and protect their legal interests.",
+    "proTip": "Minors lack legal capacity to enter into binding commercial contracts."
+  },
+  {
+    "id": "commerce_1998_q37",
+    "subject": "Commerce",
+    "topic": "Legal Aspects of Business",
+    "subTopic": "Legal Remedies in Business",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "A person who cheated in a business transaction can seek legal remedy",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "even if the agreement is verbal and the amount involved is large",
+      "only if the business is a sole proprietorship whose owner is known",
+      "regardless of the form of business organization",
+      "only if the transaction is documented in contract"
+    ],
+    "correctIndex": 2,
+    "explanation": "Legal remedies for fraud or breach are available regardless of business structure, provided valid elements of a contract or tort are established.",
+    "proTip": "Legal protection against fraud applies across all forms of business organizations."
+  },
+  {
+    "id": "commerce_1998_q38",
+    "subject": "Commerce",
+    "topic": "Elements of Marketing",
+    "subTopic": "Product Utility",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The most essential element of a product is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "price",
+      "utility",
+      "design",
+      "colour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Utility (the capacity to satisfy consumer wants and needs) is the fundamental and most essential attribute of any product.",
+    "proTip": "Utility defines a product's ability to satisfy customer needs."
+  },
+  {
+    "id": "commerce_1998_q39",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Disadvantages of Nationalization",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Which of the following is a disadvantage of nationalization?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "It promotes poor economic planning",
+      "The cost of services is not determined by market forces",
+      "It may lead to rationalization of resources",
+      "The development of local skills and technologies is retarded"
+    ],
+    "correctIndex": 1,
+    "explanation": "When industries are nationalized, pricing and service costs are often politically determined rather than dictated by competitive market forces, leading to inefficiencies.",
+    "proTip": "State control often removes market discipline from pricing and cost structures."
+  },
+  {
+    "id": "commerce_1998_q40",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Consumer Protection Agencies",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "An example of a consumer protection agency is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Nigerian Bar Association",
+      "Nigerian Medical Association",
+      "Federal Environmental Protection Agency",
+      "Manufacturers Association of Nigeria"
+    ],
+    "correctIndex": 2,
+    "explanation": "Federal Environmental Protection Agency (FEPA) along with agencies like CPC/FCCPC protect public welfare and consumer environments.",
+    "proTip": "Environmental and consumer protection agencies safeguard public health and safety."
+  },
+  {
+    "id": "commerce_1998_q41",
+    "subject": "Commerce",
+    "topic": "Trade Associations",
+    "subTopic": "Chambers of Commerce",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "The body that organizes, promotes and participates in local and foreign trade fairs is the",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Ministry of Commercial and Tourism",
+      "Ministry of Finance",
+      "Chambers of Commerce",
+      "Export Promotion Council"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chambers of Commerce play a leading role in organizing, promoting, and sponsoring domestic and international trade fairs and exhibitions.",
+    "proTip": "Chambers of Commerce promote trade fairs and commercial networking."
+  },
+  {
+    "id": "commerce_1998_q42",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Continental West African Conference",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "The Continental West African Conference is a",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "group of West African countries trading in the same products",
+      "conference to foster unity among the West African countries",
+      "group of shipping lines operating on the same West African route",
+      "trust with shareholders from all West African countries"
+    ],
+    "correctIndex": 2,
+    "explanation": "The West African Conference (liner conference) is an association of shipping lines operating on common West African maritime routes to regulate freight rates and sailing schedules.",
+    "proTip": "Liner conferences regulate freight rates and shipping schedules along specific trade routes."
+  },
+  {
+    "id": "commerce_1998_q43",
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "subTopic": "Thrift and Credit Cooperatives",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "The main function of thrift, credit and loans co-operative societies is to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "educate their members",
+      "collect money from their members",
+      "disburse money to their members",
+      "raise investment finance among their members"
+    ],
+    "correctIndex": 3,
+    "explanation": "Thrift and credit cooperative societies primarily pool member savings to build a common capital pool for granting low-interest investment and provident loans to members.",
+    "proTip": "Cooperative thrift societies mobilize member savings to finance member loans and investments."
+  },
+  {
+    "id": "commerce_1998_q44",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Management Definition",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "Management is described as",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "getting things done through people",
+      "implementation of business decisions",
+      "the number of levels in an organization",
+      "the people in authority in an organization"
+    ],
+    "correctIndex": 0,
+    "explanation": "Management is classically defined as the art and process of getting things done effectively and efficiently through and with people.",
+    "proTip": "Management is the art of achieving goals through human and material resources."
+  },
+  {
+    "id": "commerce_1998_q45",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Organizational Structure",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Under normal circumstance, a business enterprise can be ideally structured",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "by products, function or territories",
+      "around the personalities in the enterprise",
+      "on the ruling of the management",
+      "on the basis of an order from stockholders"
+    ],
+    "correctIndex": 0,
+    "explanation": "Organizations are ideally structured along functional lines, product divisions, or geographical territories to optimize operational efficiency.",
+    "proTip": "Standard organizational structures rely on function, product, or territory."
+  },
+  {
+    "id": "commerce_1998_q46",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Organizational Environment and Flowcharts",
+    "year": "1998",
+    "difficulty": "Scholar",
+    "question": "External Environment -> Internal Environment -> External Environment\nWhich of the following sequences can best fit into the structure above?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "People -> control -> ideas",
+      "Material -> production -> ideas",
+      "Finance -> marketing -> product",
+      "Material -> production -> product"
+    ],
+    "correctIndex": 3,
+    "explanation": "Raw materials (external input) enter the internal production process, resulting in finished goods/products (external output to the market environment).",
+    "proTip": "Business systems take external inputs (materials), process them internally, and release external outputs (products)."
+  },
+  {
+    "id": "commerce_1998_q47",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Social Responsibility",
+    "year": "1998",
+    "difficulty": "Apprentice",
+    "question": "When a business enterprise provides free service to its environment, the services is said to be a",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "civic responsibility",
+      "philanthropic",
+      "consideration",
+      "social responsibility"
+    ],
+    "correctIndex": 3,
+    "explanation": "Providing community services, infrastructural development, or charitable support represents corporate social responsibility (CSR).",
+    "proTip": "Community support and welfare initiatives fall under social responsibility."
+  },
+  {
+    "id": "commerce_1998_q48",
+    "subject": "Commerce",
+    "topic": "Elements of Business Management",
+    "subTopic": "Materials Management / Inventory Control",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "Inventory control is an aspect of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "operations research",
+      "materials management",
+      "the organizing functions",
+      "span of control"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inventory control—managing stock levels, storage, and issuance—is a core component of materials management in business operations.",
+    "proTip": "Inventory control oversees stock procurement, storage, and issuance."
+  },
+  {
+    "id": "commerce_1998_q49",
+    "subject": "Commerce",
+    "topic": "Trade",
+    "subTopic": "ECOWAS Trade Liberalization",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "The reduction of import duties among the member countries of ECOWAS is an example of",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "preference duties",
+      "preferential treatment",
+      "preference tariffs",
+      "preferential excise"
+    ],
+    "correctIndex": 1,
+    "explanation": "Economic integration schemes like ECOWAS grant member states preferential treatment by lowering or eliminating tariffs on regional trade.",
+    "proTip": "Regional trading blocs utilize preferential trade treatments to boost intra-community commerce."
+  },
+  {
+    "id": "commerce_1998_q50",
+    "subject": "Commerce",
+    "topic": "Environment and Social Business Responsibility",
+    "subTopic": "Common Market Characteristics",
+    "year": "1998",
+    "difficulty": "Advanced",
+    "question": "In a common market, member countries agree basically to",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "place bans on other countries' products",
+      "wage war against other countries",
+      "establish common barriers against countries outside the market",
+      "negotiate with countries outside the market for favourable terms of trade"
+    ],
+    "correctIndex": 2,
+    "explanation": "A common market features free trade among members plus a common external tariff (common trade barriers) against non-member nations.",
+    "proTip": "Common markets combine free internal trade with a common external tariff wall."
+  }
+]
