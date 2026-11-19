@@ -1,0 +1,802 @@
+[
+  {
+    "id": "government_2019_q1",
+    "subject": "Government",
+    "topic": "Principles of Democratic Government",
+    "subTopic": "In democratic system legal sovereignty shouldn't be unquestionable",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "In a democratic system _______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Majority Vote",
+      "Legal Sovereignty shouldn't be unquestionable",
+      "Electoral college is always necessary",
+      "Minority vote but majority rule"
+    ],
+    "correctIndex": 1,
+    "explanation": "In democracy legal sovereignty is not absolute; popular sovereignty checks it.",
+    "proTip": "Democratic system = legal sovereignty shouldn't be unquestionable."
+  },
+  {
+    "id": "government_2019_q2",
+    "subject": "Government",
+    "topic": "Basic Concepts in Government",
+    "subTopic": "Sovereignty thriving on legitimacy within people's mandate",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "That type of sovereignty that thrives on legitimacy is__________",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "external sovereignty",
+      "vested on any form of government",
+      "legal sovereignty",
+      "within the people's mandate"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sovereignty that thrives on legitimacy is political/popular sovereignty within people's mandate.",
+    "proTip": "Legitimacy sovereignty = within people's mandate."
+  },
+  {
+    "id": "government_2019_q3",
+    "subject": "Government",
+    "topic": "Principles of Democratic Government",
+    "subTopic": "Right to seek redress means right to seek appeal under another judgement",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "The right of a citizen to seek redress means the right to________",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "fair hearing",
+      "free access to legal materials",
+      "seek an appeal under another judgement",
+      "exercise his political liberty"
+    ],
+    "correctIndex": 2,
+    "explanation": "Redress means seeking appeal/review under another judgement.",
+    "proTip": "Seek redress = seek appeal under another judgement."
+  },
+  {
+    "id": "government_2019_q4",
+    "subject": "Government",
+    "topic": "Arms of Government",
+    "subTopic": "Order compelling lower court to perform - writ of mandamus",
+    "year": "2019",
+    "difficulty": "Scholar",
+    "question": "An order compelling a lower court or public corporation to perform in accordance with legitimacy is called_________",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the writ of mandamus",
+      "the great writ",
+      "the writ of ombudsman",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mandamus compels lower court/public body to perform duty.",
+    "proTip": "Compel lower court to perform = mandamus."
+  },
+  {
+    "id": "government_2019_q5",
+    "subject": "Government",
+    "topic": "Forms of Government",
+    "subTopic": "Form with slogan ruling of the best - aristocracy",
+    "year": "2019",
+    "difficulty": "Apprentice",
+    "question": "A form of government which has its slogan to be 'ruling of the best' is__________",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "democracy",
+      "aristocracy",
+      "timocracy",
+      "plutocracy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aristocracy means ruling of the best.",
+    "proTip": "Ruling of best = aristocracy."
+  },
+  {
+    "id": "government_2019_q6",
+    "subject": "Government",
+    "topic": "Structure and Workings of Nigerian Federalism",
+    "subTopic": "Deconcentration of power means setting strategies for subsidiary territories by putting recognized personnel",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "Deconcentration of power means the_______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "sharing of powers among tiers of government",
+      "creation of semi-autonomous units to govern other parts of a state",
+      "process of setting strategies or policies for the subsidiary territories in the state by putting recognized personnel in place",
+      "act of delegating powers and authority to component units that exist in a state"
+    ],
+    "correctIndex": 2,
+    "explanation": "Deconcentration is administrative delegation setting policies for subsidiary territories via appointed personnel.",
+    "proTip": "Deconcentration = setting strategies for subsidiary territories with personnel."
+  },
+  {
+    "id": "government_2019_q7",
+    "subject": "Government",
+    "topic": "Arms of Government",
+    "subTopic": "Independence of judiciary means disabling executive/legislative influence on judicial decision",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "The concept of the independence of the judiciary means that________",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "The judiciary must not attempt to meddle into legislative and executive affairs",
+      "The powers of the courts can not be subjected of executive re-assessment",
+      "The sanctity of the office of the Judges and Justices must be preserved without prejudice",
+      "All means of legislative or executive influence on judicial decision making must be disabled"
+    ],
+    "correctIndex": 3,
+    "explanation": "Independence of judiciary means no executive/legislative influence on judicial decisions.",
+    "proTip": "Independence judiciary = disable executive/legislative influence."
+  },
+  {
+    "id": "government_2019_q8",
+    "subject": "Government",
+    "topic": "Political Parties and Party Systems",
+    "subTopic": "Political party serves as platform upon which rights and liberties can be attained",
+    "year": "2019",
+    "difficulty": "Apprentice",
+    "question": "The political party serves as________",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "A platform upon which the rights and liberties of the people can be attained",
+      "The group aggregating the interest of all in the state",
+      "A platform for rebelling against military rule",
+      "A platform for interest representation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Party serves as platform for attaining rights and liberties.",
+    "proTip": "Party serves = platform for rights and liberties."
+  },
+  {
+    "id": "government_2019_q9",
+    "subject": "Government",
+    "topic": "Political Parties and Party Systems",
+    "subTopic": "Party has national outlook if membership cuts across ethnic boundaries",
+    "year": "2019",
+    "difficulty": "Apprentice",
+    "question": "A party can be said to have national outlook if________",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "it is ethnic based but has branches all over the state",
+      "its membership cut across ethnic boundaries",
+      "it is registered by the electoral commission as a national party",
+      "it is headed by individuals who are famous within and without the country"
+    ],
+    "correctIndex": 1,
+    "explanation": "National outlook means membership across ethnic boundaries.",
+    "proTip": "National outlook = membership cuts across ethnic boundaries."
+  },
+  {
+    "id": "government_2019_q10",
+    "subject": "Government",
+    "topic": "Processes of Legislation",
+    "subTopic": "Argumentation, negotiation, deliberation begins at second reading",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "Argumentation, negotiation and deliberation on the subject matter of a bill begins at the_______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "third stage",
+      "first reading",
+      "committee stage",
+      "second reading"
+    ],
+    "correctIndex": 3,
+    "explanation": "Second reading is stage for debate on general principles of bill.",
+    "proTip": "Deliberation on bill begins = second reading."
+  },
+  {
+    "id": "government_2019_q11",
+    "subject": "Government",
+    "topic": "Systems of Governance",
+    "subTopic": "Vote of no confidence means disapproval with dismissal in effect ministers and head",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "A vote of no confidence means______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the same as impeachment in a presidential system",
+      "the ability of the head of state to dissolve the parliament when collective responsibility fails to hold",
+      "the act of showing disapproval to the prime minister having breached the collective responsibility doctrine",
+      "the disapproval with dismissal in effect, the ministers and its head"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vote of no confidence leads to dismissal of ministers and PM.",
+    "proTip": "Vote of no confidence = disapproval with dismissal of ministers and head."
+  },
+  {
+    "id": "government_2019_q12",
+    "subject": "Government",
+    "topic": "Systems of Governance",
+    "subTopic": "Cabinet reshuffle takes place when dissolution is held? Key says B dissolution",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "A cabinet re-shuffle takes place......",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "only when a motion of no confidence is passed",
+      "when dissolution is held",
+      "when prorogation and collective responsibility have their way",
+      "when the shadow cabinet fails in its effectiveness"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per key B says when dissolution is held, though reshuffle is PM reassigning portfolios.",
+    "proTip": "Per this paper, reshuffle = when dissolution is held."
+  },
+  {
+    "id": "government_2019_q13",
+    "subject": "Government",
+    "topic": "Basic Concepts in Government",
+    "subTopic": "Popular political participation means aggregate efforts actively involving all aspects",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "Popular political participation means________",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "having majority of the people partaking in politics",
+      "having a good number of voters in the electoral process",
+      "the aggregate efforts of more than half of the citizens to partake in public debate and politics",
+      "the sum total of all activities exerted by the majority with enthusiasm actively involving in all aspects of their political sphere"
+    ],
+    "correctIndex": 3,
+    "explanation": "Popular participation is total activities of majority enthusiastically involving in political sphere.",
+    "proTip": "Popular participation = sum total activities actively involving all aspects."
+  },
+  {
+    "id": "government_2019_q14",
+    "subject": "Government",
+    "topic": "The Electoral Process",
+    "subTopic": "Area electing members called constituency",
+    "year": "2019",
+    "difficulty": "Apprentice",
+    "question": "The area from which one or more members or representatives are elected in public offices is called the electoral ........",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "College",
+      "Constituency",
+      "Ward",
+      "District"
+    ],
+    "correctIndex": 1,
+    "explanation": "Constituency is electoral area electing representative(s).",
+    "proTip": "Electoral area electing = constituency."
+  },
+  {
+    "id": "government_2019_q15",
+    "subject": "Government",
+    "topic": "Citizenship",
+    "subTopic": "Citizenship by naturalization is act of non-citizen satisfying constitutional criteria becoming legal member",
+    "year": "2019",
+    "difficulty": "Apprentice",
+    "question": "Citizenship by naturalization________",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "is the same as citizenship by marriage and registration",
+      "refers to the process of attaining citizenship through honorary means",
+      "is the act of a non-citizen having satisfied the constitutional criteria becoming a legal member of a state",
+      "is the medium by which an alien through the judiciary receives certification and attains citizenship by birth"
+    ],
+    "correctIndex": 2,
+    "explanation": "Naturalization: non-citizen meets criteria becomes legal member.",
+    "proTip": "Naturalization = non-citizen satisfies criteria becomes member."
+  },
+  {
+    "id": "government_2019_q16",
+    "subject": "Government",
+    "topic": "Pressure Groups",
+    "subTopic": "Last measure pressure groups issuing condition within stipulated time - ultimatum",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "The last measure used by the pressure groups issuing a condition to be satisfied within a stipulated time is called_______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Lobbying",
+      "Ultimatum",
+      "Dialogue",
+      "Strike"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ultimatum is final condition with deadline before action like strike.",
+    "proTip": "Last measure with stipulated time = ultimatum."
+  },
+  {
+    "id": "government_2019_q17",
+    "subject": "Government",
+    "topic": "Political Parties and Party Systems",
+    "subTopic": "Party with only manifestoes without fulfilment - elitist party? Key says elitist? Actually B",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "Generally, a political party with only manifestoes without fulfilment is a/an _____",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "conservative party",
+      "elitist party",
+      "theocratic party",
+      "republican party"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per key B says elitist party with manifestoes without fulfilment.",
+    "proTip": "Manifestoes without fulfilment = elitist party per key."
+  },
+  {
+    "id": "government_2019_q18",
+    "subject": "Government",
+    "topic": "The Military in Nigerian Politics",
+    "subTopic": "Form of government organized by council of military officers - Military Junta",
+    "year": "2019",
+    "difficulty": "Apprentice",
+    "question": "A form of government organized by a council of military officers is called______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Militocracy",
+      "Stratocracy",
+      "Military Junta",
+      "Mobocracy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Military Junta is council of military officers ruling.",
+    "proTip": "Council of military officers = military junta."
+  },
+  {
+    "id": "government_2019_q19",
+    "subject": "Government",
+    "topic": "Pre-colonial Polities",
+    "subTopic": "Non-stratified society pre-colonial Igbo where decisions by consensus",
+    "year": "2019",
+    "difficulty": "Apprentice",
+    "question": "The non-stratified society in the pre-colonial era was that of the ........ where decisions were made________",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Yoruba, by the Oyomesi",
+      "Igbo, by consensus",
+      "Hausa/Fulani, by the Emir",
+      "Igbo, by the Okpara"
+    ],
+    "correctIndex": 1,
+    "explanation": "Igbo non-stratified acephalous society decisions by consensus.",
+    "proTip": "Non-stratified pre-colonial = Igbo by consensus."
+  },
+  {
+    "id": "government_2019_q20",
+    "subject": "Government",
+    "topic": "Pre-colonial Polities",
+    "subTopic": "Hausa/Fulani heterogeneous adopted partial federal with deconcentration",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "The Hausa/Fulani Empire as a result of its heterogeneous population adopted_________",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "A unitary system where full concentration of power prevailed",
+      "A federal structure where powers were decentralized although autocratic",
+      "A quasi federal structure with devolution",
+      "A partial federal set up with deconcentration"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hausa/Fulani heterogeneous adopted partial federal with deconcentration via emirates.",
+    "proTip": "Hausa/Fulani heterogeneous = partial federal with deconcentration."
+  },
+  {
+    "id": "government_2019_q21",
+    "subject": "Government",
+    "topic": "Structure and Workings of Nigerian Federalism",
+    "subTopic": "Twelve states creation achievement of Gowon regime",
+    "year": "2019",
+    "difficulty": "Apprentice",
+    "question": "Twelve States creation is a reknown achievement of the ... regime",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Abdulsalam Abubakar's",
+      "Ibrahim Babangida's",
+      "Yakubu Gowon's",
+      "Murtala Mohammed's"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gowon created 12 states in 1967.",
+    "proTip": "12 states = Gowon."
+  },
+  {
+    "id": "government_2019_q22",
+    "subject": "Government",
+    "topic": "Nigeria's Foreign Policy",
+    "subTopic": "Basis of foreign policy during independence constitution era Afrocentric",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "The basis of the Nigerian foreign policy thrust particularly during the Independence Constitution era was ... in nature",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Afrocentric",
+      "Eurocentric",
+      "neo-colonialist",
+      "anti-apartheid"
+    ],
+    "correctIndex": 0,
+    "explanation": "Foreign policy at independence Afrocentric.",
+    "proTip": "Independence foreign policy = Afrocentric."
+  },
+  {
+    "id": "government_2019_q23",
+    "subject": "Government",
+    "topic": "Imperialist Penetration",
+    "subTopic": "Brussels conference 1889/90 based on putting end to slave trade",
+    "year": "2019",
+    "difficulty": "Scholar",
+    "question": "The Brussel conference in 1889/90 was based on______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "putting an end to slave trade",
+      "the scramble for Africa",
+      "furthering the decision on colonialism as previously discussed in the Berlin conference",
+      "deciding on how to penetrate Africa for economic adventurism"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brussels conference 1889-90 aimed at ending slave trade, especially Arab slave trade.",
+    "proTip": "Brussels 1889/90 = end slave trade."
+  },
+  {
+    "id": "government_2019_q24",
+    "subject": "Government",
+    "topic": "Imperialist Penetration",
+    "subTopic": "Lewis Samuel pure conquest and unequivocal exploitation - regressive imperialism",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "According to Lewis Samuel, 'is identified with pure conquest and unequivocal exploitation...'",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Neo colonialism",
+      "Progressive Imperialism",
+      "Regressive Imperialism",
+      "Colonialism"
+    ],
+    "correctIndex": 2,
+    "explanation": "Regressive imperialism identified with pure conquest and exploitation.",
+    "proTip": "Pure conquest exploitation = regressive imperialism."
+  },
+  {
+    "id": "government_2019_q25",
+    "subject": "Government",
+    "topic": "Constitutional Development in Nigeria",
+    "subTopic": "Major defect Nigerian council unrepresentative",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "One of the major defects of the Nigerian council which necessitated its replacement was that....",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "the meetings of the council were poorly attended",
+      "the council could only make law for the southern protectorate",
+      "the executive council was powerful than its",
+      "the council was unrepresentative"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nigerian Council 1914 unrepresentative, defect leading to Clifford Constitution.",
+    "proTip": "Nigerian council defect = unrepresentative."
+  },
+  {
+    "id": "government_2019_q26",
+    "subject": "Government",
+    "topic": "Constitutional Development in Nigeria",
+    "subTopic": "Important provision 1946 constitution conceived federalism for Nigeria",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "An important provision of the 1946 constitution was that it ........",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "conceived federalism for Nigeria",
+      "introduced federalism in Nigeria",
+      "introduced official majority in the legislative council for the 1st time",
+      "for the 1st time, introduced the office of the head of government at the regional level"
+    ],
+    "correctIndex": 0,
+    "explanation": "Richards 1946 conceived federalism by dividing into 3 regions.",
+    "proTip": "1946 provision = conceived federalism."
+  },
+  {
+    "id": "government_2019_q27",
+    "subject": "Government",
+    "topic": "Constitutional Development in Nigeria",
+    "subTopic": "All-Nigerian constitutional conference 1950 all unofficial members participated",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "In the all-Nigerian constitutional conference of 1950________",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "all official members of the legislative council participated",
+      "it was resolved that the Nigerians federation be organized on ethnic basis",
+      "it was concluded that a quasi-federal structure should be developed for colonial Nigeria",
+      "all unofficial members of the legislative council participated"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ibadan conference 1950 had all unofficial members participating.",
+    "proTip": "1950 all-Nigerian conference = all unofficial members participated."
+  },
+  {
+    "id": "government_2019_q28",
+    "subject": "Government",
+    "topic": "The Civil Service",
+    "subTopic": "Implementations of target programmes primary duty of Civil Service part of Public Service",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "Implementations of the target programmes of the government is the primary duty of the _____ a part of the _____",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Courts; Judiciary",
+      "Public Service; Civil Service",
+      "Civil Service; Public Service",
+      "Ministers; Ministry of Works"
+    ],
+    "correctIndex": 2,
+    "explanation": "Civil Service implements programmes, part of Public Service.",
+    "proTip": "Implementation = Civil Service, part of Public Service."
+  },
+  {
+    "id": "government_2019_q29",
+    "subject": "Government",
+    "topic": "International Organizations",
+    "subTopic": "Most recent target plans UN - Sustainable Development Goals",
+    "year": "2019",
+    "difficulty": "Apprentice",
+    "question": "The most recent target plans and agenda of the United Nations are known as the______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Resolution 2020",
+      "Millennium Development Goals",
+      "Agenda 2063",
+      "Sustainable Development Goals"
+    ],
+    "correctIndex": 3,
+    "explanation": "SDGs 2015-2030 replaced MDGs.",
+    "proTip": "Recent UN target = SDGs."
+  },
+  {
+    "id": "government_2019_q30",
+    "subject": "Government",
+    "topic": "Post-Independence Constitutions",
+    "subTopic": "Federal judge under 1963 constitution removed by 2/3 majority National Assembly",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "The federal judge under the 1963 constitution could be removed by the______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "2/3 majority of the National Assembly",
+      "Federal Judicial Service Commission",
+      "Nigerian Judicial Council",
+      "Executive president"
+    ],
+    "correctIndex": 0,
+    "explanation": "1963 constitution removal by 2/3 majority of National Assembly.",
+    "proTip": "1963 federal judge removal = 2/3 National Assembly."
+  },
+  {
+    "id": "government_2019_q31",
+    "subject": "Government",
+    "topic": "Post-Independence Constitutions",
+    "subTopic": "Under 1999 Chief Law Officer and Supreme Court Judge respectively Attorney-General, Chief Justice",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "Under the 1999 constitution, the Chief Law Officer and the Supreme Court Judge respectively are the_______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Chief Justice, Chief Judge",
+      "Minister of Justice, Chief Judge",
+      "Attorney-General, Chief Justice",
+      "Chief Registrar of the Supreme Court, Chief Justice"
+    ],
+    "correctIndex": 2,
+    "explanation": "Attorney-General is Chief Law Officer, Chief Justice heads Supreme Court.",
+    "proTip": "Chief Law Officer = AG, Supreme Court Judge = CJN."
+  },
+  {
+    "id": "government_2019_q32",
+    "subject": "Government",
+    "topic": "Political Parties and Party Politics in Post-Independence Nigeria",
+    "subTopic": "Not responsible for coalition between AG and NCNC - Kano riot 1953",
+    "year": "2019",
+    "difficulty": "Scholar",
+    "question": "Which of the following was not responsible for the coalition between A. G and N. C. N. C.?",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "The kano riot of 1953",
+      "Awolowo's faction seeking to get N. P. C. out of power as opposed to Akintola's option",
+      "contest for the federal election of 1964",
+      "Akintola's faction which broke out of A. G. to form UPP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kano riot 1953 not responsible for AG/NCNC coalition (UPGA) 1964; other factors were.",
+    "proTip": "Not responsible for AG-NCNC coalition = Kano riot 1953."
+  },
+  {
+    "id": "government_2019_q33",
+    "subject": "Government",
+    "topic": "Political Parties and Party Politics in Post-Independence Nigeria",
+    "subTopic": "In 4th republic political parties PDP, APGA, AD",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "In the 4th republic, the political parties were______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "NAP, PDP and APGA",
+      "PDP, APP, AD",
+      "UPGA, NNA, CAN",
+      "PDP, APGA, AD"
+    ],
+    "correctIndex": 3,
+    "explanation": "4th Republic early parties PDP, APGA, AD? Actually 1999 PDP, APP, AD then later APGA 2002. Key says D PDP, APGA, AD.",
+    "proTip": "Per this paper, 4th Republic parties = PDP, APGA, AD."
+  },
+  {
+    "id": "government_2019_q34",
+    "subject": "Government",
+    "topic": "Public Commissions",
+    "subTopic": "EFCC scope may not extend to conducting trials and punishing persons",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "The Economic and Financials Crime Commission (EFCC) scope and nature of duty may not extend to_______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "arresting suspects of cybercrime and online fraud",
+      "arresting the giver and the taker in a corruption case",
+      "conducting trials and punishing persons involved in corruption matters",
+      "investigating cases of substance and drug abuse intersecting with money laundering"
+    ],
+    "correctIndex": 2,
+    "explanation": "EFCC investigates and prosecutes but court punishes, not EFCC.",
+    "proTip": "EFCC cannot = conduct trials and punish (court does)."
+  },
+  {
+    "id": "government_2019_q35",
+    "subject": "Government",
+    "topic": "Political Parties and Party Politics in Post-Independence Nigeria",
+    "subTopic": "Green Revolution programme manifesto of NPN 1979",
+    "year": "2019",
+    "difficulty": "Scholar",
+    "question": "The Green Revolution programme was the effected manifesto of the ........ in 1979",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "UPN",
+      "NPN",
+      "NPP",
+      "GNPP"
+    ],
+    "correctIndex": 1,
+    "explanation": "NPN's Green Revolution 1979 agricultural programme.",
+    "proTip": "Green Revolution 1979 = NPN."
+  },
+  {
+    "id": "government_2019_q36",
+    "subject": "Government",
+    "topic": "Structure and Workings of Nigerian Federalism",
+    "subTopic": "Nigeria's federalism flaw along classical test labelled with K.C Wheare",
+    "year": "2019",
+    "difficulty": "Scholar",
+    "question": "Nigeria's federalism is often considered a flaw along the standard test of the Classical federalism ideology labelled along with_______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Abraham Lincoln",
+      "K.C Wheare",
+      "Thomas Hobbes",
+      "Aristotle"
+    ],
+    "correctIndex": 1,
+    "explanation": "K.C Wheare classical federalism theory used to test Nigerian federalism.",
+    "proTip": "Classical federalism test = K.C Wheare."
+  },
+  {
+    "id": "government_2019_q37",
+    "subject": "Government",
+    "topic": "International Organizations",
+    "subTopic": "Most representative organ UN - General Assembly",
+    "year": "2019",
+    "difficulty": "Apprentice",
+    "question": "The most representative organ of the united nations is the_______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "General Assembly",
+      "Security Council",
+      "Economic and Social Council",
+      "International Court of Justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "General Assembly most representative (all members).",
+    "proTip": "Most representative UN = General Assembly."
+  },
+  {
+    "id": "government_2019_q38",
+    "subject": "Government",
+    "topic": "International Organizations",
+    "subTopic": "Executive Council AU makes decision by consensus",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "Executive Council of the African Union makes decision by_______",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "1/3 majority vote",
+      "discretion",
+      "consensus",
+      "the veto of the General Secretariat"
+    ],
+    "correctIndex": 2,
+    "explanation": "AU Executive Council decisions by consensus.",
+    "proTip": "AU Executive Council = consensus."
+  },
+  {
+    "id": "government_2019_q39",
+    "subject": "Government",
+    "topic": "International Organizations",
+    "subTopic": "Amendment of UN charter duty of General Assembly",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "Amendment of the U. N. O. charter is the duty of the ........",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Security Council",
+      "Secretariat",
+      "General Assembly",
+      "Trusteeship Council"
+    ],
+    "correctIndex": 2,
+    "explanation": "General Assembly with Security Council amends charter.",
+    "proTip": "Amendment UN charter = General Assembly."
+  },
+  {
+    "id": "government_2019_q40",
+    "subject": "Government",
+    "topic": "International Organizations",
+    "subTopic": "Office of Chairman rotational makes ECOWAS collegiate",
+    "year": "2019",
+    "difficulty": "Advanced",
+    "question": "The fact that the office of the Chairman is rotational in ECOWAS makes it a perfect example of a/an ........",
+    "hasAsset": false,
+    "assetPath": null,
+    "options": [
+      "Cartel",
+      "Confederacy",
+      "Economic and Egalitarian political merger",
+      "Collegiate"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rotational chairmanship makes ECOWAS collegiate example.",
+    "proTip": "Rotational chairman = collegiate."
+  }
+]
