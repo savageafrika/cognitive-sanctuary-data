@@ -1,1 +1,70 @@
+[
+  {
+    "subjectId": "poa",
+    "subjectName": "Principles of Accounts",
+    "isCompulsory": false,
+    "files": [
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/poa/poa_1979_1988.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/poa/poa_1989_1998.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/poa/poa_1999_2008.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/poa/poa_2009_2018.json"
+    ]
+  },
+  {
+    "subjectId": "lit",
+    "subjectName": "Literature in English",
+    "isCompulsory": false,
+    "files": [
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/lit/lit_1979_1988.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/lit/lit_1989_1998.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/lit/lit_1999_2008.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/lit/lit_2009_2018.json"
+    ]
+  },
+  {
+    "subjectId": "government",
+    "subjectName": "Government",
+    "isCompulsory": false,
+    "files": [
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/government/government_1979_1988.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/government/government_1989_1998.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/government/government_1999_2008.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/government/government_2009_2018.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/government/government_2019_2028.json"
+    ]
+  },
+  {
+    "subjectId": "crs",
+    "subjectName": "Christian Religious Studies",
+    "isCompulsory": false,
+    "files": [
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/crs/crs_1979_1988.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/crs/crs_1989_1998.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/crs/crs_1999_2008.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/crs/crs_2009_2018.json"
+    ]
+  },
+  {
+    "subjectId": "commerce",
+    "subjectName": "Commerce",
+    "isCompulsory": false,
+    "files": [
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/commerce/commerce_1979_1988.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/commerce/commerce_1989_1998.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/commerce/commerce_1999_2008.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/commerce/commerce_2009_2018.json"
+    ]
+  },
+  {
+    "subjectId": "biology",
+    "subjectName": "Biology",
+    "isCompulsory": false,
+    "files": [
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/biology/biology_1979_1988.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/biology/biology_1989_1998.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/biology/biology_1999_2008.json",
+      "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/biology/biology_2009_2018.json"
+    ]
+  }
+]
 
