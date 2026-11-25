@@ -3,6 +3,7 @@
     "subjectId": "poa",
     "subjectName": "Principles of Accounts",
     "isCompulsory": false,
+    "topicsUrl": "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/poa/poa_topics.json",
     "files": [
       "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/poa/poa_1979_1988.json",
       "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/poa/poa_1989_1998.json",
@@ -14,6 +15,7 @@
     "subjectId": "lit",
     "subjectName": "Literature in English",
     "isCompulsory": false,
+    "topicsUrl": "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/lit/lit_topics.json",
     "files": [
       "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/lit/lit_1979_1988.json",
       "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/lit/lit_1989_1998.json",
@@ -25,6 +27,7 @@
     "subjectId": "government",
     "subjectName": "Government",
     "isCompulsory": false,
+    "topicsUrl": "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/government/government_topics.json",
     "files": [
       "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/government/government_1979_1988.json",
       "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/government/government_1989_1998.json",
@@ -37,6 +40,7 @@
     "subjectId": "crs",
     "subjectName": "Christian Religious Studies",
     "isCompulsory": false,
+    "topicsUrl": "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/crs/crs_topics.json",
     "files": [
       "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/crs/crs_1979_1988.json",
       "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/crs/crs_1989_1998.json",
@@ -48,6 +52,7 @@
     "subjectId": "commerce",
     "subjectName": "Commerce",
     "isCompulsory": false,
+    "topicsUrl": "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/commerce/commerce_topics.json",
     "files": [
       "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/commerce/commerce_1979_1988.json",
       "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/commerce/commerce_1989_1998.json",
@@ -59,6 +64,7 @@
     "subjectId": "biology",
     "subjectName": "Biology",
     "isCompulsory": false,
+    "topicsUrl": "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/biology/biology_topics.json",
     "files": [
       "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/biology/biology_1979_1988.json",
       "https://raw.githubusercontent.com/savageafrika/cognitive-sanctuary-data/refs/heads/main/biology/biology_1989_1998.json",
@@ -67,4 +73,3 @@
     ]
   }
 ]
-
